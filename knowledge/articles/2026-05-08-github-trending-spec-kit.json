@@ -1,0 +1,11 @@
+{
+  "id": "github/spec-kit",
+  "title": "spec-kit",
+  "source": "github-trending",
+  "source_url": "https://github.com/github/spec-kit",
+  "collected_at": "2026-05-08T07:38:35Z",
+  "summary": "GitHub 官方 Spec 驱动开发工具包，9.3 万星，通过规范文档将产品需求转化为 AI 代理可执行的开发任务。核心理念是先写 Spec 再让 AI 编码，而非让 AI 自由发挥。对希望将 AI 编码纳入规范化流程的工程团队有直接实用价值。",
+  "relevance_score": 0.80,
+  "tags": ["code-generation", "code-assistant", "agent-framework"],
+  "status": "published"
+}

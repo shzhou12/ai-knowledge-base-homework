@@ -1,0 +1,11 @@
+{
+  "id": "anomalyco/opencode",
+  "title": "opencode",
+  "source": "github-trending",
+  "source_url": "https://github.com/anomalyco/opencode",
+  "collected_at": "2026-05-08T07:38:35Z",
+  "summary": "开源终端编码代理，15.7 万星，仅用 1 年达到现象级增长。可直接在终端中理解代码库、执行编程任务、处理 git 工作流，无需离开命令行。对工程师而言，它代表了 AI 原生开发工具的新范式——代理本身就是开发环境。",
+  "relevance_score": 0.93,
+  "tags": ["code-generation", "code-assistant", "agent-framework"],
+  "status": "published"
+}

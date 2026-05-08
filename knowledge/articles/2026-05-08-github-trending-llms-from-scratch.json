@@ -1,0 +1,11 @@
+{
+  "id": "rasbt/LLMs-from-scratch",
+  "title": "LLMs-from-scratch",
+  "source": "github-trending",
+  "source_url": "https://github.com/rasbt/LLMs-from-scratch",
+  "collected_at": "2026-05-08T07:38:35Z",
+  "summary": "从零用 PyTorch 实现类 ChatGPT 的 LLM 教学项目，9.2 万星，包含从 tokenization、attention 到 pretraining、fine-tuning、RLHF 的完整实现链。代码逐行解释，配套 Jupyter Notebook。是理解 LLM 底层原理的最佳实战教程。",
+  "relevance_score": 0.86,
+  "tags": ["large-language-model", "fine-tuning", "transformer", "attention"],
+  "status": "published"
+}
