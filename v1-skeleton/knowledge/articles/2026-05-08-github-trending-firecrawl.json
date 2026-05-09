@@ -1,0 +1,11 @@
+{
+  "id": "firecrawl/firecrawl",
+  "title": "firecrawl",
+  "source": "github-trending",
+  "source_url": "https://github.com/firecrawl/firecrawl",
+  "collected_at": "2026-05-08T07:38:35Z",
+  "summary": "面向 AI Agent 的网页搜索与抓取 API，11.7 万星，能将任意网页转换为 LLM 友好的 Markdown 格式。解决了 AI 代理获取实时网络信息的关键瓶颈。几乎所有需要联网能力的 Agent 应用都依赖此类工具作为信息获取管道。",
+  "relevance_score": 0.83,
+  "tags": ["rag", "agent-framework", "data-analysis"],
+  "status": "published"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ggml-org/llama.cpp",
+  "title": "llama.cpp",
+  "source": "github-trending",
+  "source_url": "https://github.com/ggml-org/llama.cpp",
+  "collected_at": "2026-05-08T07:38:35Z",
+  "summary": "使用 C/C++ 实现的高性能 LLM 推理引擎，10.9 万星，通过 GGML 张量库在消费级 CPU 上实现可用的推理速度。支持 INT4/INT8 量化，使 7B 模型可在 8GB 内存设备上运行。是 Ollama 等几乎所有本地 LLM 工具的底层推理核心。",
+  "relevance_score": 0.82,
+  "tags": ["large-language-model", "agent-framework"],
+  "status": "published"
+}

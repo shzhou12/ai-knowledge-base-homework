@@ -1,0 +1,11 @@
+{
+  "id": "anthropics/skills",
+  "title": "skills",
+  "source": "github-trending",
+  "source_url": "https://github.com/anthropics/skills",
+  "collected_at": "2026-05-08T07:38:35Z",
+  "summary": "Anthropic 官方 Agent Skills 公开仓库，13 万星，定义了标准化的 AI 代理技能模块规范。每个 Skill 是一个包含指令和工具声明的独立单元，可被 Claude Code 等代理按需加载。这一规范正在成为跨工具 Agent Skills 互操作的事实标准。",
+  "relevance_score": 0.91,
+  "tags": ["agent-framework", "code-assistant", "anthropic"],
+  "status": "published"
+}

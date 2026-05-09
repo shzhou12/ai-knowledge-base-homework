@@ -1,0 +1,11 @@
+{
+  "id": "NousResearch/hermes-agent",
+  "title": "hermes-agent",
+  "source": "github-trending",
+  "source_url": "https://github.com/NousResearch/hermes-agent",
+  "collected_at": "2026-05-08T07:38:35Z",
+  "summary": "Nous Research 的自适应 AI 代理，13.8 万星，强调随用户使用持续进化。集成多 LLM 后端（OpenAI/Claude/DeepSeek），支持 Claude Code、OpenCode 等编码工具生态。其核心差异化在于记忆与学习机制，代理能在长期交互中积累领域知识。",
+  "relevance_score": 0.89,
+  "tags": ["agent-framework", "code-assistant", "anthropic", "openai"],
+  "status": "published"
+}

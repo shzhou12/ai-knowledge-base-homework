@@ -1,0 +1,11 @@
+{
+  "id": "microsoft/generative-ai-for-beginners",
+  "title": "generative-ai-for-beginners",
+  "source": "github-trending",
+  "source_url": "https://github.com/microsoft/generative-ai-for-beginners",
+  "collected_at": "2026-05-08T07:38:35Z",
+  "summary": "微软官方生成式 AI 入门课程，11 万星，21 课时覆盖从提示工程、语义搜索到 LLM 应用构建的完整路径。每课都包含可运行的 Jupyter Notebook。作为入门级教育资源，技术深度有限但对新手友好，适合团队培训使用。",
+  "relevance_score": 0.68,
+  "tags": ["large-language-model", "prompt-engineering", "chatbot", "openai"],
+  "status": "published"
+}

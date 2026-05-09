@@ -1,0 +1,11 @@
+{
+  "id": "obra/superpowers",
+  "title": "superpowers",
+  "source": "github-trending",
+  "source_url": "https://github.com/obra/superpowers",
+  "collected_at": "2026-05-08T07:38:35Z",
+  "summary": "基于 Skills 机制的 Agent 开发框架与软件方法论，18.2 万星。提出了一套可组合的技能模块体系，让 AI 代理通过声明式技能定义获得确定性行为。对 AI 工程师的核心价值在于其方法论——如何将不可控的 LLM 输出转化为可预测的工程化能力。",
+  "relevance_score": 0.92,
+  "tags": ["agent-framework", "code-generation", "code-assistant"],
+  "status": "published"
+}
