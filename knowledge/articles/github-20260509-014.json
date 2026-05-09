@@ -1,0 +1,19 @@
+{
+  "id": "github-20260509-014",
+  "title": "aaif-goose/goose",
+  "source": "github",
+  "source_url": "https://github.com/aaif-goose/goose",
+  "author": "aaif-goose",
+  "published_at": "2026-05-09T07:09:53Z",
+  "collected_at": "2026-05-09T07:12:51.681299+00:00",
+  "summary": "Goose 是一个开源且可扩展的 AI 智能体，超越了代码建议，能够安装、执行、编辑和测试代码，并与任何大型语言模型（LLM）集成。其核心价值在于提供了一个灵活、通用的工具使用框架，适用于自动化开发任务。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "tool-use",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-09T07:14:26.032521+00:00"
+}

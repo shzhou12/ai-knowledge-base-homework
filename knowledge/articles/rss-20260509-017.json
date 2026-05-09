@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260509-017",
+  "title": "Agentic Discovery of Exchange-Correlation Density Functionals",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.05460",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-09T07:12:53.681189+00:00",
+  "collected_at": "2026-05-09T07:12:53.681189+00:00",
+  "summary": "该论文提出了一种基于智能体（Agent）的自动化方法，用于发现和优化交换关联密度泛函，这是密度泛函理论（DFT）中的核心组件。通过将AI智能体与物理模拟相结合，该方法能够高效探索泛函形式空间，有望加速材料科学和量子化学领域的计算研究。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-09T07:14:26.032602+00:00"
+}

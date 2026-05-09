@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260509-006",
+  "title": "ZAYA1-8B Technical Report",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.05365",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-09T07:12:53.681116+00:00",
+  "collected_at": "2026-05-09T07:12:53.681116+00:00",
+  "summary": "ZAYA1-8B 是一个 8B 参数的语言模型技术报告，详细介绍了其架构设计、训练方法和性能评估。该报告展示了在保持较小模型规模的同时实现高效推理和任务泛化的能力，为资源受限场景下的 LLM 部署提供了有价值的参考。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-09T07:14:26.032559+00:00"
+}

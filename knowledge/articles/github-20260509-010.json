@@ -1,0 +1,19 @@
+{
+  "id": "github-20260509-010",
+  "title": "mem0ai/mem0",
+  "source": "github",
+  "source_url": "https://github.com/mem0ai/mem0",
+  "author": "mem0ai",
+  "published_at": "2026-05-09T05:14:03Z",
+  "collected_at": "2026-05-09T07:12:51.681281+00:00",
+  "summary": "mem0ai/mem0 为 AI 代理提供通用记忆层，通过持久化存储和检索历史交互信息，增强代理的上下文感知与个性化能力。该项目旨在解决 AI 代理在长期对话或任务中缺乏记忆的问题，提升其智能与实用性。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "llm",
+    "rag"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-09T07:14:26.032509+00:00"
+}
