@@ -8,11 +8,6 @@ __pycache__/
 .venv/
 venv/
 
-# Pipeline generated knowledge
-knowledge/articles/github-202[0-9]*
-knowledge/articles/rss-*
-knowledge/raw/raw_*
-
 # OS
 .DS_Store
 Thumbs.db
