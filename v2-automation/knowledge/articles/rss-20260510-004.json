@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260510-004",
+  "title": "EMO: Pretraining mixture of experts for emergent modularity",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/allenai/emo",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-05-10T09:24:27.862682+00:00",
+  "collected_at": "2026-05-10T09:24:27.862682+00:00",
+  "summary": "本文介绍了EMO（专家混合预训练）方法，旨在通过预训练阶段引入专家混合架构，实现模型的模块化涌现。该方法能够提升模型的可扩展性和效率，为构建更灵活、可解释的AI系统提供了新思路。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-10T09:25:57.505308+00:00"
+}
