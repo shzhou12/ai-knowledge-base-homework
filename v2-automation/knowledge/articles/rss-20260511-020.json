@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260511-020",
+  "title": "Agentick: A Unified Benchmark for General Sequential Decision-Making Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.06869",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-11T10:55:53.624896+00:00",
+  "collected_at": "2026-05-11T10:55:53.624896+00:00",
+  "summary": "该论文提出了一个名为Agentick的统一基准测试，用于评估通用顺序决策智能体。其核心价值在于为不同领域的智能体决策能力提供标准化的评估框架，推动智能体研究的发展。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-11T10:57:19.333253+00:00"
+}
