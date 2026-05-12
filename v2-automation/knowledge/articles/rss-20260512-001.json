@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260512-001",
+  "title": "If AI writes your code, why use Python?",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-05-12T10:26:42.770682+00:00",
+  "collected_at": "2026-05-12T10:26:42.770682+00:00",
+  "summary": "本文探讨了在AI生成代码日益普及的背景下，Python作为编程语言的优势是否依然存在。核心观点是Python的简洁性、丰富的库生态和强大的社区支持使其在AI辅助编程时代仍具有不可替代的价值。文章为开发者提供了在AI时代选择编程语言的新视角。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-12T10:28:10.552618+00:00"
+}

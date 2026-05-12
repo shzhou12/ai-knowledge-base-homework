@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260512-019",
+  "title": "The Attacker in the Mirror: Breaking Self-Consistency in Safety via Anchored Bipolicy Self-Play",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.08427",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-12T10:26:44.535150+00:00",
+  "collected_at": "2026-05-12T10:26:44.535150+00:00",
+  "summary": "该论文提出了一种名为“锚定双策略自博弈”的方法，通过让AI系统与自身策略的镜像版本对抗，来打破安全机制中的自我一致性，从而暴露潜在漏洞。核心价值在于提供了一种新的红队测试框架，用于评估和提升AI系统的鲁棒安全性。",
+  "score": 7,
+  "tags": [
+    "security",
+    "multi-agent",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-12T10:28:10.552679+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260512-008",
+  "title": "Auto-Rubric as Reward: From Implicit Preferences to Explicit Multimodal Generative Criteria",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.08354",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-12T10:26:44.535096+00:00",
+  "collected_at": "2026-05-12T10:26:44.535096+00:00",
+  "summary": "该论文提出了一种名为Auto-Rubric的方法，将隐式偏好转化为显式的多模态生成标准，用于奖励模型。核心价值在于通过自动生成评估标准，提升多模态任务中奖励模型的准确性和可解释性。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-12T10:28:10.552645+00:00"
+}

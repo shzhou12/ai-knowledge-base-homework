@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260512-006",
+  "title": "Where Reliability Lives in Vision-Language Models: A Mechanistic Study of Attention, Hidden States, and Causal Circuits",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.08200",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-12T10:26:44.535039+00:00",
+  "collected_at": "2026-05-12T10:26:44.535039+00:00",
+  "summary": "该论文通过机械论分析，研究了视觉语言模型中可靠性（reliability）的机制，重点关注注意力机制、隐藏状态和因果回路。它揭示了模型内部哪些组件对可靠预测至关重要，为理解VLM的鲁棒性提供了新视角。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-12T10:28:10.552639+00:00"
+}
