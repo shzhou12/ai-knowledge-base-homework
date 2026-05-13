@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260513-006",
+  "title": "OLIVIA: Online Learning via Inference-time Action Adaptation for Decision Making in LLM ReAct Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.11169",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-13T10:17:12.339708+00:00",
+  "collected_at": "2026-05-13T10:17:12.339708+00:00",
+  "summary": "该论文提出OLIVIA方法，通过推理时的动作适应来优化LLM ReAct代理的在线学习能力，使代理能在执行过程中动态调整决策。核心价值在于提升了LLM代理在复杂交互环境中的适应性和任务完成效率。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-13T10:18:24.675934+00:00"
+}

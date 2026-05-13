@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260513-017",
+  "title": "Rethinking Evaluation for LLM Hallucination Detection: A Desiderata, A New RAG-based Benchmark, New Insights",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.11330",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-13T10:17:12.339767+00:00",
+  "collected_at": "2026-05-13T10:17:12.339767+00:00",
+  "summary": "该论文重新审视了大语言模型幻觉检测的评估方法，提出了一个包含理想特性清单的新评估框架，并基于RAG构建了新的基准测试。通过实验揭示了现有评估方法的局限性，为更可靠的幻觉检测提供了新见解。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "evaluation",
+    "rag"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-13T10:18:24.675971+00:00"
+}

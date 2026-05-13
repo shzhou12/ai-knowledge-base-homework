@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260513-004",
+  "title": "EVOCHAMBER: Test-Time Co-evolution of Multi-Agent System at Individual, Team, and Population Scales",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.11136",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-13T10:17:12.339689+00:00",
+  "collected_at": "2026-05-13T10:17:12.339689+00:00",
+  "summary": "EVOCHAMBER 提出了一种多智能体系统在测试时协同进化的框架，涵盖个体、团队和群体三个尺度。该工作通过进化机制动态优化智能体协作策略，提升了系统的适应性和性能，为多智能体系统的自适应演化提供了新思路。",
+  "score": 8,
+  "tags": [
+    "multi-agent",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-13T10:18:24.675927+00:00"
+}

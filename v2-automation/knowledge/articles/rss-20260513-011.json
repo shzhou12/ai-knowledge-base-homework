@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260513-011",
+  "title": "Rethinking LLMOps for Fraud and AML: Building a Compliance-Grade LLM Serving Stack",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.11232",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-13T10:17:12.339734+00:00",
+  "collected_at": "2026-05-13T10:17:12.339734+00:00",
+  "summary": "该文章探讨了将LLMOps应用于欺诈检测和反洗钱（AML）领域的挑战与解决方案，提出了构建符合合规要求的LLM服务栈。核心内容聚焦于如何确保LLM在金融合规场景中的可靠性、可审计性和安全性。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-13T10:18:24.675953+00:00"
+}

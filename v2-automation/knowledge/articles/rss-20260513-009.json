@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260513-009",
+  "title": "Do Vision-Language-Models show human-like logical problem-solving capability in point and click puzzle games?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.11223",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-13T10:17:12.339725+00:00",
+  "collected_at": "2026-05-13T10:17:12.339725+00:00",
+  "summary": "该论文评估了视觉语言模型（VLM）在点击解谜游戏中展现类人逻辑推理能力的能力。通过设计特定游戏场景，研究分析了模型在规划、因果推理和空间理解方面的表现，揭示了当前VLM在复杂逻辑任务中的优势与局限。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-13T10:18:24.675947+00:00"
+}

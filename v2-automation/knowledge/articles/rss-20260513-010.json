@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260513-010",
+  "title": "PIVOT: Bridging Planning and Execution in LLM Agents via Trajectory Refinement",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.11225",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-13T10:17:12.339730+00:00",
+  "collected_at": "2026-05-13T10:17:12.339730+00:00",
+  "summary": "PIVOT 提出一种通过轨迹优化来桥接大语言模型代理规划与执行阶段的方法，旨在提升代理在复杂任务中的表现。该技术通过迭代修正代理的决策轨迹，减少规划与执行之间的偏差，从而增强任务完成的准确性和效率。其核心价值在于为 LLM 代理提供更鲁棒的自我修正机制，适用于需要多步推理和动态调整的场景。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-13T10:18:24.675950+00:00"
+}
