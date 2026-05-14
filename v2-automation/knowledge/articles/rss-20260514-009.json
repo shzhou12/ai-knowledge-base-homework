@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260514-009",
+  "title": "BEHAVE: A Hybrid AI Framework for Real-Time Modeling of Collective Human Dynamics",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.12730",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-14T10:09:56.374307+00:00",
+  "collected_at": "2026-05-14T10:09:56.374307+00:00",
+  "summary": "本文介绍了一种名为BEHAVE的混合AI框架，用于实时建模集体人类动态。该框架结合了基于物理的模型和深度学习技术，能够高效模拟人群行为，在交通、应急管理等场景具有应用价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-14T10:11:05.710080+00:00"
+}

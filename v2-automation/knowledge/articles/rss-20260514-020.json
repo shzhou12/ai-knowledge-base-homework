@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260514-020",
+  "title": "Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.12988",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-14T10:09:56.374364+00:00",
+  "collected_at": "2026-05-14T10:09:56.374364+00:00",
+  "summary": "该论文提出了一种基于检索增强的辅导方法，用于AI教育中的算法追踪和问题解决。通过结合检索增强生成（RAG）技术，系统能够为学生提供个性化的学习支持，提升教学效果。",
+  "score": 7,
+  "tags": [
+    "rag",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-14T10:11:05.710141+00:00"
+}

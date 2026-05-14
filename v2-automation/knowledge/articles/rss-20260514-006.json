@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260514-006",
+  "title": "On the Size Complexity and Decidability of First-Order Progression",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.12691",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-14T10:09:56.374292+00:00",
+  "collected_at": "2026-05-14T10:09:56.374292+00:00",
+  "summary": "该论文研究了一阶逻辑（First-Order Logic）中进展（Progression）操作的大小复杂性和可判定性问题，为知识表示与推理提供了理论基础。核心价值在于揭示了在特定条件下进展操作的计算边界，对AI中的自动推理和知识更新有重要指导意义。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-14T10:11:05.710067+00:00"
+}
