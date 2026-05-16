@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260516-007",
+  "title": "Mixed Integer Goal Programming for Personalized Meal Optimization with User-Defined Serving Granularity",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.13849",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-16T09:25:00.943119+00:00",
+  "collected_at": "2026-05-16T09:25:00.943119+00:00",
+  "summary": "该论文提出了一种混合整数目标规划方法，用于个性化膳食优化，允许用户自定义份量粒度。该方法能够根据用户的营养目标和饮食限制，生成最优的膳食组合，具有实际应用价值。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-16T09:26:14.087344+00:00"
+}

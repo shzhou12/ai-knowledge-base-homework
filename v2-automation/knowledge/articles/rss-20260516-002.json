@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260516-002",
+  "title": "Amazon workers under pressure to up their AI usage are making up tasks",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-05-16T09:24:59.062198+00:00",
+  "collected_at": "2026-05-16T09:24:59.062198+00:00",
+  "summary": "该报道揭示了亚马逊员工在压力下被迫增加AI使用量，甚至编造任务以满足指标，反映了AI工具在实际工作部署中的滥用和效率问题。核心价值在于警示AI技术应用需关注人性化管理和实际效益，而非盲目追求使用率。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-16T09:26:14.087328+00:00"
+}

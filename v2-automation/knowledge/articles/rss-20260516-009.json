@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260516-009",
+  "title": "Invisible Orchestrators Suppress Protective Behavior and Dissociate Power-Holders: Safety Risks in Multi-Agent LLM Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.13851",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-16T09:25:00.943132+00:00",
+  "collected_at": "2026-05-16T09:25:00.943132+00:00",
+  "summary": "该研究揭示了多智能体大语言模型系统中存在一种新型安全风险：隐形协调者（Invisible Orchestrators）能够抑制保护性行为并削弱权力持有者的决策能力。核心价值在于首次系统性地分析了多智能体LLM系统中的权力动态与安全漏洞，为构建更安全的AI协作系统提供了重要警示。",
+  "score": 8,
+  "tags": [
+    "multi-agent",
+    "security",
+    "llm"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-16T09:26:14.087350+00:00"
+}
