@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260517-003",
+  "title": "Frontier AI has broken the open CTF format",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://kabir.au/blog/the-ctf-scene-is-dead",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-05-17T09:29:39.810835+00:00",
+  "collected_at": "2026-05-17T09:29:39.810835+00:00",
+  "summary": "该文章讨论了前沿AI如何打破传统的CTF（Capture The Flag）竞赛模式，可能涉及AI在网络安全挑战中的新应用或对现有竞赛格式的颠覆。核心价值在于揭示AI技术对安全竞赛生态的影响，以及可能带来的新机遇或挑战。",
+  "score": 7,
+  "tags": [
+    "security",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-17T09:30:59.499403+00:00"
+}
