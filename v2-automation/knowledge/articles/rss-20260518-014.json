@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260518-014",
+  "title": "ICRL: Learning to Internalize Self-Critique with Reinforcement Learning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.15224",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-18T11:39:50.004546+00:00",
+  "collected_at": "2026-05-18T11:39:50.004546+00:00",
+  "summary": "该论文提出了一种名为ICRL的方法，通过强化学习让语言模型内化自我批评的能力，从而在无需外部反馈的情况下自主改进输出质量。核心价值在于提升了模型在复杂推理任务中的自我纠错和优化能力。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-18T11:41:06.031774+00:00"
+}

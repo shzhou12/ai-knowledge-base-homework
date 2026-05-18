@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260518-015",
+  "title": "NIMO Controller: a self-driving laboratory orchestrator based on the Model Context Protocol",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.15227",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-18T11:39:50.004550+00:00",
+  "collected_at": "2026-05-18T11:39:50.004550+00:00",
+  "summary": "NIMO Controller 是一个基于模型上下文协议（MCP）的自动化实验室协调器，旨在通过标准化接口实现实验流程的自主调度与执行。该技术将MCP应用于实验设备与AI模型的交互，提升了实验室自动化的灵活性和可扩展性。其核心价值在于为科研实验提供了一种模块化、可复用的智能控制框架。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "mcp",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-18T11:41:06.031777+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260518-016",
+  "title": "Verifiable Agentic Infrastructure: Proof-Derived Authorization for Sovereign AI Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.15228",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-18T11:39:50.004557+00:00",
+  "collected_at": "2026-05-18T11:39:50.004557+00:00",
+  "summary": "该论文提出了一种基于证明的授权机制，用于构建可验证的自主AI系统基础设施。核心价值在于通过密码学证明确保AI代理操作的授权和完整性，从而支持主权AI系统的安全运行。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-18T11:41:06.031780+00:00"
+}

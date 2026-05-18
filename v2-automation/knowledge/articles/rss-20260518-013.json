@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260518-013",
+  "title": "NOVA: Fundamental Limits of Knowledge Discovery Through AI",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.15219",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-18T11:39:50.004542+00:00",
+  "collected_at": "2026-05-18T11:39:50.004542+00:00",
+  "summary": "该论文探讨了通过人工智能进行知识发现的基本限制，分析了AI在从数据中提取新知识时的理论边界。核心价值在于为AI驱动的科学发现提供了理论基础，并指出了当前方法的局限性。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-18T11:41:06.031771+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260518-007",
+  "title": "DeepSlide: From Artifacts to Presentation Delivery",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.15202",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-18T11:39:50.004481+00:00",
+  "collected_at": "2026-05-18T11:39:50.004481+00:00",
+  "summary": "DeepSlide 提出了一种从原始图像数据到最终演示文稿的自动化流程，通过深度学习技术将图像中的伪影（artifacts）转化为高质量的幻灯片内容。该方法结合了计算机视觉与自然语言处理，旨在提升演示文稿制作的效率与质量。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-18T11:41:06.031749+00:00"
+}
