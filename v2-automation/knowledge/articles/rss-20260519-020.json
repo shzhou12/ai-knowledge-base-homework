@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260519-020",
+  "title": "Belief Engine: Configurable and Inspectable Stance Dynamics in Multi-Agent LLM Deliberation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.15343",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-19T10:57:27.324354+00:00",
+  "collected_at": "2026-05-19T10:57:27.324354+00:00",
+  "summary": "该论文提出了一种名为Belief Engine的框架，用于多智能体LLM讨论中可配置和可检查的立场动态。其核心价值在于通过显式建模智能体的信念状态，实现了对讨论过程的细粒度控制和透明度，从而提升了多智能体系统的可靠性和可解释性。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-19T10:58:47.585355+00:00"
+}
