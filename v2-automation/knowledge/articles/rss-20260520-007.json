@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260520-007",
+  "title": "AgentNLQ: A General-Purpose Agent for Natural Language to SQL",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.19010",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-20T10:44:59.870814+00:00",
+  "collected_at": "2026-05-20T10:44:59.870814+00:00",
+  "summary": "AgentNLQ 提出了一种通用型智能体，用于将自然语言查询转换为 SQL 语句，旨在降低数据库查询门槛。该技术通过结合大语言模型和结构化查询生成，提升了 NL2SQL 的准确性和灵活性。其核心价值在于为自然语言与数据库交互提供了一种高效、通用的解决方案。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-20T10:46:03.156336+00:00"
+}

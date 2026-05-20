@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260520-017",
+  "title": "Discoverable Agent Knowledge -- A Formal Framework for Agentic KG Affordances (Extended Version)",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.19186",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-20T10:44:59.870893+00:00",
+  "collected_at": "2026-05-20T10:44:59.870893+00:00",
+  "summary": "本文提出了一种名为“可发现代理知识”的形式化框架，用于定义和实现代理型知识图谱的具身能力。该框架通过将知识图谱中的实体和关系与代理的操作能力进行显式关联，使得代理能够自主发现并利用知识图谱中的功能，从而提升智能体的自主性和效率。核心价值在于为构建更智能、更自主的代理系统提供了理论基础和设计指南。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "knowledge-graph",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-20T10:46:03.156376+00:00"
+}

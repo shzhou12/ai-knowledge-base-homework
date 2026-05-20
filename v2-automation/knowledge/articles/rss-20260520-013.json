@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260520-013",
+  "title": "POLAR-Bench: A Diagnostic Benchmark for Privacy-Utility Trade-offs in LLM Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.19127",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-20T10:44:59.870873+00:00",
+  "collected_at": "2026-05-20T10:44:59.870873+00:00",
+  "summary": "POLAR-Bench 是一个用于诊断 LLM 代理在隐私与效用之间权衡的基准测试。它通过系统化的评估方法，帮助研究人员理解不同隐私保护策略对代理性能的影响。该基准为开发更安全、更实用的 LLM 代理提供了重要参考。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "security",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-20T10:46:03.156363+00:00"
+}
