@@ -1,0 +1,18 @@
+{
+  "id": "2026-05-20-003",
+  "title": "firecrawl/firecrawl",
+  "source": "github",
+  "url": "https://github.com/firecrawl/firecrawl",
+  "collected_at": "2026-05-20T02:34:08.417205+00:00",
+  "summary": "Firecrawl 是一个开源项目，专为 AI 代理设计，提供网络搜索、抓取和清洁功能。它能够将网页内容转换为干净的 Markdown 或结构化数据，便于大型语言模型（LLM）和检索增强生成（RAG）系统使用。项目支持 JavaScript 渲染、自定义爬取规则、批量处理，并提供 API 接口，简化了从网络获取高质量训练数据的过程。",
+  "tags": [
+    "web-scraping",
+    "data-cleaning",
+    "ai-agents",
+    "llm",
+    "rag"
+  ],
+  "relevance_score": 0.85,
+  "category": "tool",
+  "key_insight": "Firecrawl 通过自动化网络数据清洗和结构化，解决了 AI 代理获取高质量训练数据的关键瓶颈。"
+}
