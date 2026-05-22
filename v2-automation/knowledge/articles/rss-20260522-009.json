@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260522-009",
+  "title": "OSCToM: RL-Guided Adversarial Generation for High-Order Theory of Mind",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.20423",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-22T10:44:28.188650+00:00",
+  "collected_at": "2026-05-22T10:44:28.188650+00:00",
+  "summary": "该论文提出OSCToM方法，利用强化学习引导的对抗生成技术，提升高阶心智理论（Theory of Mind）能力。核心价值在于通过对抗训练增强AI对他人信念和意图的深层推理，推动社交智能研究。",
+  "score": 8,
+  "tags": [
+    "reasoning",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-22T10:45:40.052412+00:00"
+}

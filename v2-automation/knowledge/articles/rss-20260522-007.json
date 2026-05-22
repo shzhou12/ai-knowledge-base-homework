@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260522-007",
+  "title": "SOLAR: A Self-Optimizing Open-Ended Autonomous Agent for Lifelong Learning and Continual Adaptation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.20189",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-22T10:44:28.188592+00:00",
+  "collected_at": "2026-05-22T10:44:28.188592+00:00",
+  "summary": "SOLAR 提出了一种自我优化的开放式自主代理，旨在实现终身学习和持续适应。其核心价值在于通过自我优化机制，使代理能够在不断变化的环境中持续学习并适应新任务，无需人工干预。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-22T10:45:40.052402+00:00"
+}

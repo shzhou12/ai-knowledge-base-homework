@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260522-010",
+  "title": "AgentCo-op: Retrieval-Based Synthesis of Interoperable Multi-Agent Workflows",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.20425",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-22T10:44:28.188658+00:00",
+  "collected_at": "2026-05-22T10:44:28.188658+00:00",
+  "summary": "AgentCo-op 提出了一种基于检索的合成方法，用于生成可互操作的多智能体工作流。该方法通过从现有工作流库中检索相关组件并组合，以构建协同工作的多智能体系统，提升了工作流的可复用性和灵活性。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "rag"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-22T10:45:40.052416+00:00"
+}

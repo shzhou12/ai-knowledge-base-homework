@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260522-003",
+  "title": "Throwing AI-generated walls of text into conversations",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://noslopgrenade.com/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-05-22T10:44:26.640574+00:00",
+  "collected_at": "2026-05-22T10:44:26.640574+00:00",
+  "summary": "该内容讨论了在对话中插入AI生成的长文本块的现象，可能涉及如何有效使用AI辅助沟通或避免信息过载。核心价值在于提醒用户注意AI生成内容的适用场景和沟通效率。",
+  "score": 6,
+  "tags": [
+    "llm",
+    "prompt-engineering"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-22T10:45:40.052393+00:00"
+}

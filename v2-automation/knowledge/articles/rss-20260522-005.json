@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260522-005",
+  "title": "Google’s AI is being manipulated. The search giant is quietly fighting back",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-05-22T10:44:26.640590+00:00",
+  "collected_at": "2026-05-22T10:44:26.640590+00:00",
+  "summary": "文章讨论了谷歌AI系统正遭受操纵，而这家搜索巨头正在悄然采取反制措施。核心内容涉及AI安全与对抗性攻击的防御策略，体现了技术对抗的持续演进。",
+  "score": 7,
+  "tags": [
+    "security",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-22T10:45:40.052399+00:00"
+}
