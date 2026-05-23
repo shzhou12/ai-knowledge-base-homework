@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260523-008",
+  "title": "Benchmarking and Improving Monitors for Out-Of-Distribution Alignment Failure in LLMs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.21602",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-23T09:45:45.960296+00:00",
+  "collected_at": "2026-05-23T09:45:45.960296+00:00",
+  "summary": "该论文提出了一个用于评估和改进大语言模型（LLM）在分布外（OOD）场景下对齐失败监控器的基准测试框架。核心价值在于系统性地衡量现有监控器在检测LLM对齐失败时的鲁棒性，并提出了改进方法以提升其在未知分布上的泛化能力。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-23T09:46:52.712901+00:00"
+}

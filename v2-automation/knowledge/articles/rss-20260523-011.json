@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260523-011",
+  "title": "MindLoom: Composing Thought Modes for Frontier-Level Reasoning Data Synthesis",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.21630",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-23T09:45:45.960354+00:00",
+  "collected_at": "2026-05-23T09:45:45.960354+00:00",
+  "summary": "MindLoom 提出了一种通过组合多种思维模式来合成前沿推理数据的方法，旨在提升大语言模型的推理能力。该方法通过结构化地融合不同推理策略，生成高质量的训练数据，从而推动模型在复杂推理任务上的表现。",
+  "score": 8,
+  "tags": [
+    "reasoning",
+    "llm",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-23T09:46:52.712914+00:00"
+}

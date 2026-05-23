@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260523-015",
+  "title": "Latent-space Attacks for Refusal Evasion in Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.21706",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-23T09:45:45.960375+00:00",
+  "collected_at": "2026-05-23T09:45:45.960375+00:00",
+  "summary": "该论文提出了一种针对语言模型拒绝机制的潜在空间攻击方法，通过在模型的潜在表示空间中施加扰动来绕过安全对齐。该方法揭示了现有安全机制在潜在层面的脆弱性，为提升模型鲁棒性提供了新视角。",
+  "score": 8,
+  "tags": [
+    "security",
+    "llm"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-23T09:46:52.712926+00:00"
+}
