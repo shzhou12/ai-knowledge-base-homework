@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260524-009",
+  "title": "Introducing the Ettin Reranker Family",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/ettin-reranker",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-05-24T09:49:46.562026+00:00",
+  "collected_at": "2026-05-24T09:49:46.562026+00:00",
+  "summary": "Ettin Reranker 系列是新一代重排序模型，旨在提升检索增强生成（RAG）系统中文档排序的准确性和效率。该技术通过更精细的语义匹配和高效推理，显著改善信息检索质量，为下游任务提供更精准的上下文支持。",
+  "score": 7,
+  "tags": [
+    "rag",
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-24T09:50:53.766823+00:00"
+}
