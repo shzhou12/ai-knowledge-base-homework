@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260525-019",
+  "title": "GENSTRAT: Toward a Science of Strategic Reasoning in Large Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.23238",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-25T11:47:43.536553+00:00",
+  "collected_at": "2026-05-25T11:47:43.536553+00:00",
+  "summary": "GENSTRAT 提出了一种系统化的方法来评估和提升大型语言模型在战略推理任务中的表现，通过构建专门的基准和策略框架，揭示了当前模型在复杂博弈场景中的能力边界。该研究为 LLM 的推理能力研究提供了新的科学视角，有助于推动更智能的决策系统发展。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-25T11:48:47.427724+00:00"
+}

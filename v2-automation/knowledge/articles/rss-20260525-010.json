@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260525-010",
+  "title": "ImProver 2: Iteratively Self-Improving LMs for Neurosymbolic Proof Optimization",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.22885",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-25T11:47:43.536511+00:00",
+  "collected_at": "2026-05-25T11:47:43.536511+00:00",
+  "summary": "本文介绍ImProver 2，一种通过迭代自我改进机制增强语言模型在神经符号证明优化中能力的方法。该方法利用语言模型自身生成反馈并优化证明策略，显著提升了证明的效率和准确性。其核心价值在于展示了语言模型在复杂符号推理任务中的自我改进潜力。",
+  "score": 8,
+  "tags": [
+    "reasoning",
+    "llm",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-25T11:48:47.427697+00:00"
+}

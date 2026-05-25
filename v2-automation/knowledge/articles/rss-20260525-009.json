@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260525-009",
+  "title": "Energy per Successful Goal: Goal-Level Energy Accounting for Agentic AI Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.22883",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-25T11:47:43.536506+00:00",
+  "collected_at": "2026-05-25T11:47:43.536506+00:00",
+  "summary": "该论文提出了一种针对智能体AI系统的目标级能耗核算方法，通过衡量每个成功目标所消耗的能量来评估系统效率。其核心价值在于为资源受限环境下的AI系统优化提供了新的量化指标。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-25T11:48:47.427694+00:00"
+}
