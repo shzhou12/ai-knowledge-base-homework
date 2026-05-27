@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260527-012",
+  "title": "Experiments in Agentic AI for Science",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.26305",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-27T11:32:15.095486+00:00",
+  "collected_at": "2026-05-27T11:32:15.095486+00:00",
+  "summary": "该论文探讨了将智能体AI应用于科学研究中的实验方法，展示了如何通过自主智能体系统加速科学发现过程。核心价值在于提出了一个框架，使AI能够自主设计实验、分析数据并迭代假设，从而提升科研效率。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-27T11:33:31.325632+00:00"
+}

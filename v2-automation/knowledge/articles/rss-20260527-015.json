@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260527-015",
+  "title": "JobBench: Aligning Agent Work With Human Will",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.26329",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-27T11:32:15.095501+00:00",
+  "collected_at": "2026-05-27T11:32:15.095501+00:00",
+  "summary": "JobBench 提出了一种新的基准测试框架，用于评估 AI 智能体在任务执行中与人类意图的对齐程度。该框架通过模拟真实工作场景，衡量智能体在复杂任务中的决策和行动是否符合人类预期。其核心价值在于推动 AI 智能体从单纯的任务完成向更可靠、更符合人类价值观的方向发展。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-27T11:33:31.325641+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260527-017",
+  "title": "ScientistOne: Towards Human-Level Autonomous Research via Chain-of-Evidence",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.26340",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-27T11:32:15.095510+00:00",
+  "collected_at": "2026-05-27T11:32:15.095510+00:00",
+  "summary": "该论文提出ScientistOne系统，通过链式证据（Chain-of-Evidence）机制实现接近人类水平的自主研究能力，核心创新在于将证据推理与LLM结合以提升科学发现的自动化程度。该方法在多个科研任务上展示了优于现有系统的性能，为AI驱动的科学研究提供了新范式。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-27T11:33:31.325648+00:00"
+}

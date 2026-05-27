@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260527-003",
+  "title": "Using AI to write better code more slowly",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-05-27T11:32:13.808058+00:00",
+  "collected_at": "2026-05-27T11:32:13.808058+00:00",
+  "summary": "本文探讨了如何利用AI辅助编程，但强调应放慢速度以提升代码质量。核心价值在于平衡AI效率与代码可维护性，避免因追求速度而引入技术债务。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "prompt-engineering"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-27T11:33:31.325601+00:00"
+}

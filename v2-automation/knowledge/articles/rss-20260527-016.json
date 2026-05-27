@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260527-016",
+  "title": "Managing Uncertainty in LLM-Generated Procedural Knowledge for Virtual Laboratory Planning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.26333",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-27T11:32:15.095506+00:00",
+  "collected_at": "2026-05-27T11:32:15.095506+00:00",
+  "summary": "该论文探讨了如何管理大型语言模型在生成虚拟实验室规划程序性知识时的不确定性。核心价值在于提出了一种方法，通过量化不确定性来提高LLM生成步骤的可靠性和安全性，从而支持更可靠的自动化实验室规划。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-27T11:33:31.325643+00:00"
+}

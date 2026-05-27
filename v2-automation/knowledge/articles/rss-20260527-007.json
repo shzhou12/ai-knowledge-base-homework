@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260527-007",
+  "title": "Can LLMs Introspect? A Reality Check",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.26242",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-27T11:32:15.095460+00:00",
+  "collected_at": "2026-05-27T11:32:15.095460+00:00",
+  "summary": "该论文对大型语言模型（LLMs）的内省能力进行了现实检验，探讨了模型是否能够准确报告其内部状态或知识。研究发现，LLMs在自我评估和知识边界判断上存在显著局限性，其内省能力远不如预期。这项工作为理解LLM的自我认知能力提供了关键实证，对模型的可信度和安全性评估具有重要价值。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-27T11:33:31.325617+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260527-013",
+  "title": "Anchor: Mitigating Artifact Drift in Agent Benchmark Generation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.26321",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-27T11:32:15.095490+00:00",
+  "collected_at": "2026-05-27T11:32:15.095490+00:00",
+  "summary": "该论文提出了一种名为Anchor的方法，旨在解决智能体基准测试生成中出现的“工件漂移”问题，即生成的测试用例与原始任务意图逐渐偏离。通过引入锚定机制，该方法能够更稳定地生成高质量的评估基准，从而提升智能体性能评估的可靠性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-27T11:33:31.325635+00:00"
+}
