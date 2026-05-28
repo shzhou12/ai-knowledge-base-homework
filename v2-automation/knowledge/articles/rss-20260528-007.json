@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260528-007",
+  "title": "Soro: A Lightweight Foundation Model and Chatbot for Tajik",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.27379",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-28T11:32:01.410035+00:00",
+  "collected_at": "2026-05-28T11:32:01.410035+00:00",
+  "summary": "该论文介绍了Soro，一个为塔吉克语设计的轻量级基础模型和聊天机器人。其核心价值在于填补了低资源语言（塔吉克语）在大语言模型领域的空白，通过轻量化设计实现了在有限计算资源下的部署。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-28T11:34:16.414801+00:00"
+}

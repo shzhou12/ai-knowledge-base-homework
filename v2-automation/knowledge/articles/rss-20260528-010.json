@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260528-010",
+  "title": "Why LLMs Fail at Causal Discovery and How Interventional Agents Escape",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.27567",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-28T11:32:01.410051+00:00",
+  "collected_at": "2026-05-28T11:32:01.410051+00:00",
+  "summary": "本文探讨了大语言模型在因果发现任务中的局限性，并提出通过干预智能体来克服这些限制。核心价值在于揭示了LLM在因果推理上的根本缺陷，并提供了基于主动干预的解决方案。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "reasoning",
+    "agent"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-05-28T11:34:16.414809+00:00"
+}
