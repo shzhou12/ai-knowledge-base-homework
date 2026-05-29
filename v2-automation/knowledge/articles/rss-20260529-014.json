@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260529-014",
+  "title": "VFEAgent: A Multimodal Agent Framework for End-to-End Automated Finite Element Analysis",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.28978",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-29T11:22:23.077574+00:00",
+  "collected_at": "2026-05-29T11:22:23.077574+00:00",
+  "summary": "VFEAgent 提出了一种多模态智能体框架，用于端到端的自动化有限元分析，通过集成视觉和语言模型简化了传统 FEA 流程。该框架能够自动处理几何建模、网格划分和结果解释，显著提升了工程分析的效率和可访问性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "vision",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-29T11:23:20.939044+00:00"
+}
