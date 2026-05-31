@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260531-003",
+  "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-05-31T10:09:18.288546+00:00",
+  "collected_at": "2026-05-31T10:09:18.288546+00:00",
+  "summary": "Liquid AI 发布了 8B-A1B 混合专家模型，训练数据规模达 38T tokens，展示了在高效参数利用和扩展训练数据方面的技术进展。该模型可能为资源受限场景提供新的性能基准。",
+  "score": 7,
+  "tags": [
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-31T10:10:24.707289+00:00"
+}
