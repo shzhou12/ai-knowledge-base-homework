@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260601-020",
+  "title": "A Persona-Based Evaluation Framework for Pluralistic Alignment in Generative AI",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.31021",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-01T13:30:57.682545+00:00",
+  "collected_at": "2026-06-01T13:30:57.682545+00:00",
+  "summary": "该论文提出了一种基于角色的评估框架，用于衡量生成式AI在多元对齐方面的表现。核心价值在于为评估AI系统如何适应不同用户群体的价值观和偏好提供了系统化的方法论。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-01T13:32:06.820163+00:00"
+}

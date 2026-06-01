@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260601-014",
+  "title": "Planner-Centric Reinforcement Learning for Deep Research with Structure-Aware Reward",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.30824",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-01T13:30:57.682515+00:00",
+  "collected_at": "2026-06-01T13:30:57.682515+00:00",
+  "summary": "该论文提出了一种以规划器为中心的强化学习方法，通过结构感知奖励机制来提升深度研究任务的性能。核心价值在于将规划与强化学习结合，使模型能够更有效地探索复杂研究空间并生成高质量结果。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "reasoning",
+    "reinforcement-learning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-06-01T13:32:06.820142+00:00"
+}

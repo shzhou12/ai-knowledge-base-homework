@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260601-019",
+  "title": "BilliardPhys-Bench: Benchmarking Physical Reasoning and Visual Dynamics of Multimodal LLMs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.30900",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-01T13:30:57.682540+00:00",
+  "collected_at": "2026-06-01T13:30:57.682540+00:00",
+  "summary": "该论文提出了BilliardPhys-Bench基准，用于评估多模态大语言模型在物理推理和视觉动态理解方面的能力。通过台球物理场景的模拟和测试，揭示了当前模型在物理常识推理上的局限性，为多模态AI的物理世界理解研究提供了重要评估工具。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-01T13:32:06.820160+00:00"
+}

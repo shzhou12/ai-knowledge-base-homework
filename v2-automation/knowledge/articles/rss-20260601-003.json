@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260601-003",
+  "title": "Transforming and Encoding FTS for SAT Solving: What Helps, What Hurts (Extended Version)",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.30563",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-01T13:30:57.682449+00:00",
+  "collected_at": "2026-06-01T13:30:57.682449+00:00",
+  "summary": "该论文研究了将有限转换系统（FTS）编码为SAT求解问题的不同方法，分析了哪些编码策略有助于提升求解效率，哪些会降低性能。通过实验对比，为SAT求解中的FTS编码提供了实用指导。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-01T13:32:06.820103+00:00"
+}

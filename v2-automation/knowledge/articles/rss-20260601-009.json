@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260601-009",
+  "title": "Healthcare Mechanisms from Policy-as-Code Search under Strategic Provider Response",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.30680",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-01T13:30:57.682490+00:00",
+  "collected_at": "2026-06-01T13:30:57.682490+00:00",
+  "summary": "该论文探讨了在医疗服务提供者策略性响应下，如何通过策略即代码（Policy-as-Code）搜索机制来优化医疗政策执行。核心价值在于将策略搜索与博弈论结合，以应对提供者的策略行为，提升医疗系统的效率和公平性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-01T13:32:06.820127+00:00"
+}

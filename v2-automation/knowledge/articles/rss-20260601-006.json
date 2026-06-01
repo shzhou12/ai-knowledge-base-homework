@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260601-006",
+  "title": "Harness Updating Is Not Harness Benefit: Disentangling Evolution Capabilities in Self-Evolving LLM Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.30621",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-01T13:30:57.682471+00:00",
+  "collected_at": "2026-06-01T13:30:57.682471+00:00",
+  "summary": "该论文探讨了自进化LLM智能体在演化能力上的关键问题，指出更新机制（harness updating）并不等同于智能体的实际收益（harness benefit），并提出了解耦演化能力的方法。核心贡献在于澄清了智能体自我进化中的混淆概念，为评估和设计更有效的自进化LLM智能体提供了理论指导。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-01T13:32:06.820113+00:00"
+}
