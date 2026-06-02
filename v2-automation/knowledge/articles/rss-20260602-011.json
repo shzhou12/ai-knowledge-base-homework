@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260602-011",
+  "title": "Universal Quantum Transformer",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.00045",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-02T11:59:43.857289+00:00",
+  "collected_at": "2026-06-02T11:59:43.857289+00:00",
+  "summary": "该论文提出了一种名为Universal Quantum Transformer的量子-经典混合架构，旨在将Transformer模型扩展到量子计算领域。核心价值在于探索量子优势在自然语言处理等任务中的潜力，可能为未来高效AI模型提供新方向。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-02T12:00:45.259215+00:00"
+}
