@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260603-020",
+  "title": "Inducing Reasoning Primitives from Agent Traces",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.02994",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-03T12:37:34.480316+00:00",
+  "collected_at": "2026-06-03T12:37:34.480316+00:00",
+  "summary": "该论文提出从智能体轨迹中归纳推理原语的方法，通过分析智能体行为模式提取可复用的推理步骤，旨在提升大语言模型在复杂任务中的推理能力与效率。其核心价值在于为智能体系统提供更结构化的推理机制，减少对大规模提示工程的依赖。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-03T12:38:35.615020+00:00"
+}

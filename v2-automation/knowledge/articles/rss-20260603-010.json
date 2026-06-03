@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260603-010",
+  "title": "Traj-Evolve: A Self-Evolving Multi-Agent System for Patient Trajectory Modeling in Lung Cancer Early Detection",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.02812",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-03T12:37:34.480269+00:00",
+  "collected_at": "2026-06-03T12:37:34.480269+00:00",
+  "summary": "该论文提出了一种名为Traj-Evolve的自进化多智能体系统，用于肺癌早期检测中的患者轨迹建模。该系统通过多智能体协作和自进化机制，能够动态学习和适应患者数据的变化，从而提高早期检测的准确性和效率。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-03T12:38:35.614989+00:00"
+}

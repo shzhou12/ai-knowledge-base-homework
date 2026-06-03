@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260603-016",
+  "title": "Handoff Debt: The Rediscovery Cost When Coding Agents Take Over Interrupted Tasks",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.02875",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-03T12:37:34.480296+00:00",
+  "collected_at": "2026-06-03T12:37:34.480296+00:00",
+  "summary": "该论文探讨了编码代理在接管中断任务时产生的交接债务，即重新发现成本。它量化了代理切换任务时因上下文丢失导致的效率损失，并提出了缓解策略。这项研究对于提升多代理系统的鲁棒性和效率具有重要价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "code-generation",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-03T12:38:35.615007+00:00"
+}

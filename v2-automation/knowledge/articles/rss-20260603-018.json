@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260603-018",
+  "title": "What Benchmarks Don't Measure: The Case for Evaluating Abstention Competence in Autonomous Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.02965",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-03T12:37:34.480305+00:00",
+  "collected_at": "2026-06-03T12:37:34.480305+00:00",
+  "summary": "该论文指出当前AI基准测试未能评估自主智能体在不确定情况下选择不回答（即弃权）的能力，并提出应专门评估这种“弃权能力”。核心价值在于揭示现有评估体系的盲点，推动更全面的智能体能力测试。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-03T12:38:35.615013+00:00"
+}

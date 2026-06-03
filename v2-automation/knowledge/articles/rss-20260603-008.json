@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260603-008",
+  "title": "BehaviorBench: Modeling Real-World User Decisions from Behavioral Traces",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.02798",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-03T12:37:34.480260+00:00",
+  "collected_at": "2026-06-03T12:37:34.480260+00:00",
+  "summary": "BehaviorBench 提出了一个从用户行为轨迹中建模真实世界决策的基准测试，旨在评估 AI 系统理解和预测人类行为的能力。该工作通过分析实际行为数据，为 AI 在个性化推荐、用户模拟等应用提供了新的评估框架。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-03T12:38:35.614979+00:00"
+}
