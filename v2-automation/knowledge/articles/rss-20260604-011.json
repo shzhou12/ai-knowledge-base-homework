@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260604-011",
+  "title": "VAMPS: Visual-Assisted Mathematical Problem Solving Benchmark",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.04244",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-04T11:01:04.060673+00:00",
+  "collected_at": "2026-06-04T11:01:04.060673+00:00",
+  "summary": "VAMPS是一个视觉辅助数学问题解决基准测试，旨在评估AI模型在结合视觉信息与数学推理方面的能力。该基准测试通过提供包含图表、图像等视觉元素的数学问题，推动多模态AI系统的发展。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "vision",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-04T11:02:08.186921+00:00"
+}

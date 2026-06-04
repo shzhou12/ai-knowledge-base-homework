@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260604-015",
+  "title": "The Saturation Trap and the Subjectivity of Intervention Timing: Why Affect-Based Triggers and LLM Judges Fail to Time Interventions on Autonomous Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.04296",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-04T11:01:04.060692+00:00",
+  "collected_at": "2026-06-04T11:01:04.060692+00:00",
+  "summary": "该论文探讨了自主智能体干预时机的饱和陷阱与主观性问题，指出基于情感触发和LLM评判的方法在时间干预上存在局限性。核心价值在于揭示了现有干预策略的不足，为设计更有效的自主智能体监控机制提供了理论依据。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-04T11:02:08.186934+00:00"
+}

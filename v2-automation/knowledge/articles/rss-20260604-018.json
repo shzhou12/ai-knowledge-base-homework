@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260604-018",
+  "title": "Online Skill Learning for Web Agents via State-Grounded Dynamic Retrieval",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.04391",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-04T11:01:04.060711+00:00",
+  "collected_at": "2026-06-04T11:01:04.060711+00:00",
+  "summary": "该论文提出了一种基于状态接地动态检索的在线技能学习方法，使Web代理能够通过检索相关技能来适应新任务。其核心价值在于提升了代理在动态环境中的泛化能力和任务执行效率。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "rag",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-04T11:02:08.186945+00:00"
+}
