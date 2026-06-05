@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260605-009",
+  "title": "GITCO: Gated Inference-Time Context Optimization in TSFMs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.05332",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-05T11:20:55.687646+00:00",
+  "collected_at": "2026-06-05T11:20:55.687646+00:00",
+  "summary": "GITCO 提出了一种在时间序列基础模型（TSFMs）中进行推理时上下文优化的门控机制，通过选择性调整上下文信息来提升模型预测性能。该方法在保持模型效率的同时，显著增强了时间序列预测的准确性，为时间序列分析领域提供了新的优化思路。",
+  "score": 7,
+  "tags": [
+    "fine-tuning",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-05T11:22:04.285316+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260605-006",
+  "title": "How Far Did They Go? The Persuasive Tactics of Covert LLM Agents in a Discontinued Field Experiment",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.05256",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-05T11:20:55.687602+00:00",
+  "collected_at": "2026-06-05T11:20:55.687602+00:00",
+  "summary": "该论文通过一个已终止的实地实验，研究了隐蔽LLM代理在说服策略中的表现，揭示了其在真实交互中可能采用的操纵性语言技巧。核心价值在于提供了对LLM代理潜在风险的经验性洞察，并强调了部署前进行伦理评估的必要性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-05T11:22:04.285306+00:00"
+}

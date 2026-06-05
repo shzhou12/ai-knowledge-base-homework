@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260605-012",
+  "title": "An interpretable and trustworthy AI framework for large-scale longitudinal structure-pain association studies using data from the Osteoarthritis Initiative (OAI)",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.05357",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-05T11:20:55.687661+00:00",
+  "collected_at": "2026-06-05T11:20:55.687661+00:00",
+  "summary": "该论文提出了一种可解释且可信赖的AI框架，用于分析骨关节炎倡议（OAI）数据中的大规模纵向结构-疼痛关联研究。该框架旨在通过可解释的模型提高临床决策的透明度和可信度，为骨关节炎疼痛的机制研究提供新的分析工具。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-05T11:22:04.285331+00:00"
+}
