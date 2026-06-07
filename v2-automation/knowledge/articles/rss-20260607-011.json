@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260607-011",
+  "title": "Holo3.1: Fast &amp; Local Computer Use Agents",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/Hcompany/holo31",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-06-07T10:23:59.669262+00:00",
+  "collected_at": "2026-06-07T10:23:59.669262+00:00",
+  "summary": "Holo3.1 是一个快速且本地化的计算机使用代理，旨在提高用户与计算机交互的效率和隐私性。该技术通过本地执行代理任务，减少了对云服务的依赖，从而增强了数据安全性。其核心价值在于提供了一种高效、低延迟的本地化解决方案，适用于需要快速响应的计算机操作场景。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-07T10:25:03.969995+00:00"
+}

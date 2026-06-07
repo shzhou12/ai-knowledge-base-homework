@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260607-007",
+  "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-06-07T10:23:59.669240+00:00",
+  "collected_at": "2026-06-07T10:23:59.669240+00:00",
+  "summary": "EVA-Bench Data 2.0 是一个面向AI代理的基准测试数据集，覆盖3个领域、121个工具和213个场景，旨在评估代理在复杂工具使用和多领域任务中的表现。该数据集为代理系统的能力评估提供了标准化和全面的测试框架，有助于推动代理技术的进步。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "tool-use",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-07T10:25:03.969984+00:00"
+}

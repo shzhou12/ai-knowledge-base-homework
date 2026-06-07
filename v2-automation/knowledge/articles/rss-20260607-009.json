@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260607-009",
+  "title": "Direct Preference Optimization Beyond Chatbots",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-06-07T10:23:59.669250+00:00",
+  "collected_at": "2026-06-07T10:23:59.669250+00:00",
+  "summary": "本文探讨了直接偏好优化（DPO）在聊天机器人之外的广泛应用，包括图像生成、机器人控制和推荐系统等领域。它展示了DPO如何通过偏好学习提升模型性能，而无需复杂的强化学习框架，为AI对齐提供了更简洁高效的解决方案。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-07T10:25:03.969990+00:00"
+}
