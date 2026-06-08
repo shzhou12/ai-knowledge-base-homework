@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260608-017",
+  "title": "Workflow-to-Skill: Skill Creation via Routing-Workflow-Semantics-Attachments Decomposition",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.06893",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-08T12:23:32.423465+00:00",
+  "collected_at": "2026-06-08T12:23:32.423465+00:00",
+  "summary": "该论文提出了一种将工作流自动转化为AI技能的方法，通过路由、工作流、语义和附件分解实现技能创建。核心价值在于简化复杂AI工作流的复用与定制，提升开发效率。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "workflow"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-08T12:24:51.518719+00:00"
+}

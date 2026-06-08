@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260608-007",
+  "title": "Attack Selection in Agentic AI Control Evaluations Meaningfully Decreases Safety",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.06529",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-08T12:23:32.423421+00:00",
+  "collected_at": "2026-06-08T12:23:32.423421+00:00",
+  "summary": "该论文研究了在智能体AI控制评估中选择攻击策略的影响，发现攻击选择会显著降低安全性。核心价值在于揭示了评估方法中的潜在偏差，为更可靠的AI安全评估提供了重要见解。",
+  "score": 7,
+  "tags": [
+    "security",
+    "evaluation",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-08T12:24:51.518686+00:00"
+}

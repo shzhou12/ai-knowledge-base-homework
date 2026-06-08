@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260608-009",
+  "title": "Position: Don't Just \"Fix it in Post\": A Science of AI Must Study Training Dynamics",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.06533",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-08T12:23:32.423430+00:00",
+  "collected_at": "2026-06-08T12:23:32.423430+00:00",
+  "summary": "该论文主张AI科学应重点研究训练动态，而非仅依赖后期修正。它强调理解模型训练过程中的行为变化对于构建更可靠、可解释的AI系统至关重要。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-08T12:24:51.518696+00:00"
+}
