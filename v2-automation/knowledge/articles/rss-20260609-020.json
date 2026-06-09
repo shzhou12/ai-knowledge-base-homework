@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260609-020",
+  "title": "Overcoming the Regulatory Bottleneck via Agent-to-Agent Protocols: A Nuclear Case Study",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.07866",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-09T10:55:20.792699+00:00",
+  "collected_at": "2026-06-09T10:55:20.792699+00:00",
+  "summary": "该论文提出通过智能体间协议（Agent-to-Agent Protocols）来克服核能领域的监管瓶颈，展示了AI技术在高度监管行业中的应用潜力。核心价值在于为复杂合规流程提供自动化解决方案，减少人工干预并提升效率。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-09T10:56:32.696336+00:00"
+}

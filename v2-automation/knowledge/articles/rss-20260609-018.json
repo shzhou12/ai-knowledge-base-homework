@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260609-018",
+  "title": "Scaling Participation in Modular AI Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.07812",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-09T10:55:20.792690+00:00",
+  "collected_at": "2026-06-09T10:55:20.792690+00:00",
+  "summary": "该论文探讨了在模块化AI系统中如何扩大参与度，提出了一种通过标准化接口和激励机制促进多方协作的框架。其核心价值在于为构建可扩展、去中心化的AI生态系统提供了理论依据和实践指导。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-09T10:56:32.696329+00:00"
+}
