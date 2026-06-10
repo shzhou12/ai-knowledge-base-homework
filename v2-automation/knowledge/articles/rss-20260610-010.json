@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260610-010",
+  "title": "Business World Model",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.10044",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-10T11:34:00.711784+00:00",
+  "collected_at": "2026-06-10T11:34:00.711784+00:00",
+  "summary": "该内容标题为'Business World Model'，可能探讨了一种用于商业领域的世界模型，旨在模拟商业环境中的动态变化和决策影响。其核心价值在于为商业智能和自动化决策提供新的技术视角。",
+  "score": 6,
+  "tags": [
+    "reasoning",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-10T11:35:24.353946+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260610-011",
+  "title": "Deployment-Time Memorization in Foundation-Model Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.10062",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-10T11:34:00.711811+00:00",
+  "collected_at": "2026-06-10T11:34:00.711811+00:00",
+  "summary": "该论文研究了基础模型代理在部署阶段的内存化现象，即模型在推理时记忆并重复使用之前交互中的信息。核心价值在于揭示了这种非预期记忆行为对代理系统安全性和隐私性的潜在威胁，并提出了相应的检测与缓解方法。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "security",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-10T11:35:24.353949+00:00"
+}
