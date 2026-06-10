@@ -1,0 +1,18 @@
+{
+  "id": "2026-06-10-002",
+  "title": "langchain-ai/langchain",
+  "source": "github",
+  "url": "https://github.com/langchain-ai/langchain",
+  "collected_at": "2026-06-10T02:39:14.390399+00:00",
+  "summary": "LangChain 是一个用于构建基于大型语言模型（LLM）的代理（Agent）工程的平台。它提供了模块化的组件，如模型、提示、链和代理，使开发者能够轻松组合和编排复杂的 LLM 应用，支持多种模型提供商和工具集成，广泛应用于对话系统、自动化工作流和智能代理场景。",
+  "tags": [
+    "llm",
+    "agent",
+    "framework",
+    "tool",
+    "rag"
+  ],
+  "relevance_score": 0.95,
+  "category": "framework",
+  "key_insight": "LangChain 通过抽象 LLM 交互为可组合的链和代理，降低了构建复杂 AI 应用的门槛，成为代理工程的核心基础设施。"
+}
