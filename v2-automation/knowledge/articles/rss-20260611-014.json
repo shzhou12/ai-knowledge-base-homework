@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260611-014",
+  "title": "HERO: Hindsight-Enhanced Reflection from Environment Observations for Agentic Self-Distillation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.11559",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-11T12:05:37.845978+00:00",
+  "collected_at": "2026-06-11T12:05:37.845978+00:00",
+  "summary": "HERO 提出了一种基于环境观察的事后反思机制，用于智能体自我蒸馏，通过利用历史经验来优化智能体的决策策略。该方法通过反思环境反馈，提升了智能体在复杂任务中的表现和泛化能力。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "reinforcement-learning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-11T12:06:58.020246+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260611-008",
+  "title": "Automated Mediator for Human Negotiation: Pre-Mediation via a Structured LLM Pipeline",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.11379",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-11T12:05:37.845951+00:00",
+  "collected_at": "2026-06-11T12:05:37.845951+00:00",
+  "summary": "该论文提出了一种基于结构化LLM流水线的自动化调解系统，用于人类谈判前的预调解阶段。通过将大型语言模型组织成多步骤流程，系统能够分析谈判立场、生成调解建议并促进共识形成，展示了LLM在复杂人际交互中的实用价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-11T12:06:58.020218+00:00"
+}

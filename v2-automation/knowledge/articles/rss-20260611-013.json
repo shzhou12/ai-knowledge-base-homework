@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260611-013",
+  "title": "SkillJuror: Measuring How Agent Skill Organization Changes Runtime Behavior",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.11543",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-11T12:05:37.845973+00:00",
+  "collected_at": "2026-06-11T12:05:37.845973+00:00",
+  "summary": "该论文研究如何通过组织智能体技能（skill organization）来影响其运行时行为，提出了一种名为SkillJuror的评估框架。核心价值在于为智能体系统的技能编排提供可量化的行为分析工具，有助于优化智能体在复杂任务中的表现。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-11T12:06:58.020243+00:00"
+}
