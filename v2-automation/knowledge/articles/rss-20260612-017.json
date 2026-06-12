@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260612-017",
+  "title": "Benchmarking AI Agents for Addressing Scientific Challenges Across Scales",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.12736",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-12T11:39:03.865461+00:00",
+  "collected_at": "2026-06-12T11:39:03.865461+00:00",
+  "summary": "该论文提出了一个用于评估AI智能体在解决跨尺度科学挑战方面能力的基准测试框架。通过系统性地测试AI智能体在不同科学领域和问题规模上的表现，该工作为衡量和比较AI智能体的科学推理与问题解决能力提供了标准化方法。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-12T11:40:16.825134+00:00"
+}

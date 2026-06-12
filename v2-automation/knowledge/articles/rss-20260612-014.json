@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260612-014",
+  "title": "Definitional alignment before capability alignment: a Design-Science framework for adjudicating claims about AGI",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.12713",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-12T11:39:03.865448+00:00",
+  "collected_at": "2026-06-12T11:39:03.865448+00:00",
+  "summary": "本文提出了一种设计科学框架，用于在AGI能力对齐之前先进行定义对齐，以解决关于AGI主张的争议。该框架通过明确AGI的定义标准，为评估和比较不同AGI系统提供了方法论基础。其价值在于为AI社区提供了一种系统化的方式来协调对AGI的理解和预期。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-12T11:40:16.825123+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260612-005",
+  "title": "Arbor: Tree Search as a Cognition Layer for Autonomous Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.12563",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-12T11:39:03.865384+00:00",
+  "collected_at": "2026-06-12T11:39:03.865384+00:00",
+  "summary": "该论文提出Arbor框架，将树搜索算法作为自主智能体的认知层，通过结构化搜索增强智能体的决策与推理能力。核心价值在于将传统搜索算法与LLM结合，提升智能体在复杂任务中的表现。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-12T11:40:16.825094+00:00"
+}

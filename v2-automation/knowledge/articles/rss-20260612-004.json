@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260612-004",
+  "title": "ToolSense: A Diagnostic Framework for Auditing Parametric Tool Knowledge in LLMs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.12451",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-12T11:39:03.865360+00:00",
+  "collected_at": "2026-06-12T11:39:03.865360+00:00",
+  "summary": "该论文提出了ToolSense，一个用于审计大型语言模型中参数化工具知识的诊断框架。它通过系统化评估模型对工具功能、参数和用法的内化程度，帮助识别知识盲区与偏差，从而提升工具使用的可靠性与安全性。",
+  "score": 7,
+  "tags": [
+    "tool-use",
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-12T11:40:16.825091+00:00"
+}

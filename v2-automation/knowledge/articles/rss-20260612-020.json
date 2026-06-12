@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260612-020",
+  "title": "Constructing Evaluation Datasets for Procedural Reasoning: Balancing Naturalness, Grounding, and Multi-Hop Coverage",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.12767",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-12T11:39:03.865473+00:00",
+  "collected_at": "2026-06-12T11:39:03.865473+00:00",
+  "summary": "该论文提出了一种构建程序性推理评估数据集的方法，重点平衡了自然性、基础性和多跳覆盖。通过该方法生成的数据集可用于评估AI模型在复杂程序性推理任务上的表现，具有重要的实用价值。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-12T11:40:16.825141+00:00"
+}
