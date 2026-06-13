@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260613-002",
+  "title": "How to setup a local coding agent on macOS",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-06-13T10:23:24.034341+00:00",
+  "collected_at": "2026-06-13T10:23:24.034341+00:00",
+  "summary": "该内容介绍了在macOS系统上搭建本地编码代理的步骤，适合开发者快速上手实践。核心价值在于提供了一种无需依赖云端服务的本地化AI编码辅助方案。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "code-generation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-13T10:24:44.629941+00:00"
+}
