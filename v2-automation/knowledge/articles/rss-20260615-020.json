@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260615-020",
+  "title": "A Multi-Agent AI System for Automated High School Transcript Processing: Collaborative Document Analysis at Scale",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.13916",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-15T13:49:39.971468+00:00",
+  "collected_at": "2026-06-15T13:49:39.971468+00:00",
+  "summary": "该论文提出了一种基于多智能体AI系统的高中成绩单自动处理方案，通过协作式文档分析实现大规模处理。核心价值在于利用多智能体协同工作，提升文档处理的自动化程度和准确性。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-15T13:50:56.271823+00:00"
+}

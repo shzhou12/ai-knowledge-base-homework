@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260615-006",
+  "title": "UP-NRPA: User Portrait based Nested Rollout Policy Adaptation for Planning with Large Language Models in Goal-oriented Dialogue Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.13683",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-15T13:49:39.971394+00:00",
+  "collected_at": "2026-06-15T13:49:39.971394+00:00",
+  "summary": "提出一种基于用户画像的嵌套式策略适应方法（UP-NRPA），用于在目标导向对话系统中结合大型语言模型进行规划。该方法通过用户画像信息优化策略搜索，提升对话系统的任务完成效率和适应性。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-15T13:50:56.271767+00:00"
+}

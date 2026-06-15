@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260615-016",
+  "title": "MA-ProofBench: A Two-Tiered Evaluation of LLMs for Theorem Proving in Mathematical Analysis",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.13782",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-15T13:49:39.971450+00:00",
+  "collected_at": "2026-06-15T13:49:39.971450+00:00",
+  "summary": "该论文提出了MA-ProofBench，一个用于评估大型语言模型（LLMs）在数学分析定理证明能力的两层基准。它通过不同难度和复杂度的定理证明任务，系统性地测试了LLMs的推理和形式化证明能力，为评估LLMs在高级数学推理中的表现提供了标准化框架。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-15T13:50:56.271808+00:00"
+}

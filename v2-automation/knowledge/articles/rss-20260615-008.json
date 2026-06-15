@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260615-008",
+  "title": "Orchestra-o1: Omnimodal Agent Orchestration",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.13707",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-15T13:49:39.971408+00:00",
+  "collected_at": "2026-06-15T13:49:39.971408+00:00",
+  "summary": "Orchestra-o1 提出了一种全模态智能体编排框架，旨在统一管理文本、图像、音频等多模态输入，并协调多个专业智能体协同工作。其核心价值在于通过动态任务分配和跨模态推理，提升复杂场景下的智能体系统效率和准确性。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "vision",
+    "audio"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-15T13:50:56.271773+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260615-005",
+  "title": "A Deep Reinforcement Learning (DRL)-Based Transformer Method for Solving the Open Shop Scheduling Problem",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.13682",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-15T13:49:39.971345+00:00",
+  "collected_at": "2026-06-15T13:49:39.971345+00:00",
+  "summary": "该论文提出了一种基于深度强化学习（DRL）的Transformer方法，用于解决开放车间调度问题（OSSP）。该方法结合了DRL的决策优化能力和Transformer的序列建模优势，旨在高效生成高质量调度方案。核心价值在于为组合优化问题提供了一种新的智能求解范式。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-15T13:50:56.271762+00:00"
+}
