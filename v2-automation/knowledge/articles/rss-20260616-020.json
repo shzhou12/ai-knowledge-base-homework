@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260616-020",
+  "title": "Attribute Inference from Interactive Targeted Ads",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.15209",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-16T12:48:02.679796+00:00",
+  "collected_at": "2026-06-16T12:48:02.679796+00:00",
+  "summary": "该论文探讨了如何通过交互式定向广告推断用户属性，揭示了广告系统在用户隐私方面的潜在风险。研究提出了一种方法，利用广告反馈机制来推测用户的敏感信息，对隐私保护具有重要警示意义。",
+  "score": 7,
+  "tags": [
+    "security",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-16T12:49:09.977389+00:00"
+}

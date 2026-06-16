@@ -1,0 +1,19 @@
+{
+  "id": "github-20260616-020",
+  "title": "chopratejas/headroom",
+  "source": "github",
+  "source_url": "https://github.com/chopratejas/headroom",
+  "author": "chopratejas",
+  "published_at": "2026-06-16T06:35:10Z",
+  "collected_at": "2026-06-16T12:48:01.585530+00:00",
+  "summary": "该工具通过压缩工具输出、日志、文件和RAG块，在传输到LLM之前减少60-95%的令牌，同时保持相同的答案质量。它提供了库、代理和MCP服务器三种使用方式，旨在优化LLM的输入效率。",
+  "score": 7,
+  "tags": [
+    "rag",
+    "mcp",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-16T12:49:09.977315+00:00"
+}
