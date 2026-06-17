@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260617-020",
+  "title": "DeepInsight: A Unified Evaluation Infrastructure Across the Physical AI Stack",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.17574",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-17T12:12:06.291439+00:00",
+  "collected_at": "2026-06-17T12:12:06.291439+00:00",
+  "summary": "DeepInsight 提出了一种统一的评估基础设施，旨在覆盖物理 AI 堆栈的各个层面，包括感知、决策和控制。该工作通过标准化评估流程和指标，解决了物理 AI 系统在真实世界部署中的可重复性和可比性问题，为研究和开发提供了有价值的基准工具。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-17T12:13:28.694570+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260617-011",
+  "title": "Distributed General-Purpose Agent Networks: Architecture, Key Mechanisms, and Prototypes",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.17368",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-17T12:12:06.291397+00:00",
+  "collected_at": "2026-06-17T12:12:06.291397+00:00",
+  "summary": "本文提出了一种分布式通用智能体网络架构，详细阐述了其核心机制与原型实现，旨在通过去中心化方式提升智能体的协作效率与通用性。该研究为多智能体系统的设计提供了新的理论框架和实践参考。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-17T12:13:28.694540+00:00"
+}

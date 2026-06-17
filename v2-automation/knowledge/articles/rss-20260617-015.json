@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260617-015",
+  "title": "MapSatisfyBench: Benchmarking Satisfaction-Aware Map Agents through Behavior-Grounded Implicit Decision Factors",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.17453",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-17T12:12:06.291416+00:00",
+  "collected_at": "2026-06-17T12:12:06.291416+00:00",
+  "summary": "本文提出了MapSatisfyBench，一个用于评估地图代理（map agents）满意度的基准测试，通过行为隐含的决策因素来测试代理在满足用户需求方面的能力。该基准的核心价值在于提供了一种更贴近实际应用场景的评估方法，有助于推动更智能、更用户友好的地图代理系统的发展。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-17T12:13:28.694555+00:00"
+}
