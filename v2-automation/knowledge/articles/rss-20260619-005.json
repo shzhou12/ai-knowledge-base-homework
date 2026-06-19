@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260619-005",
+  "title": "Measuring Curriculum Alignment across Topical Coverage, Competency, and Cognitive Depth: A Longitudinal Framework Applied to CS2013 and CS2023",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.19469",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-19T12:00:53.368741+00:00",
+  "collected_at": "2026-06-19T12:00:53.368741+00:00",
+  "summary": "该论文提出了一个纵向框架，用于衡量课程在主题覆盖、能力和认知深度方面的对齐程度，并应用于CS2013和CS2023课程体系。核心价值在于为课程设计和评估提供了系统化的量化方法，有助于教育者追踪课程演变和优化教学内容。",
+  "score": 7,
+  "tags": [
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-19T12:02:11.896929+00:00"
+}

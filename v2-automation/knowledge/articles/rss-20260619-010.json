@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260619-010",
+  "title": "REVEAL++: Differentiable Phenotypic Grouping for Vision-Language Retinal Modeling of Alzheimer's Disease Risk",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.19522",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-19T12:00:53.368772+00:00",
+  "collected_at": "2026-06-19T12:00:53.368772+00:00",
+  "summary": "该论文提出了一种名为REVEAL++的可微分表型分组方法，用于视觉-语言视网膜建模以评估阿尔茨海默病风险。核心创新在于通过可微分技术自动学习与疾病相关的表型分组，从而提升模型的可解释性和预测性能。该工作为利用视网膜图像和语言数据联合分析神经退行性疾病提供了新思路。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-19T12:02:11.896947+00:00"
+}

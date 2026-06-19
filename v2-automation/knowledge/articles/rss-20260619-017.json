@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260619-017",
+  "title": "Toten: Knowledge-Based Ontological Tokenization Of Physical Quantities And Technical Notation In Brazilian Portuguese",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.19626",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-19T12:00:53.368803+00:00",
+  "collected_at": "2026-06-19T12:00:53.368803+00:00",
+  "summary": "该论文提出了一种基于本体的分词方法Toten，专门用于处理巴西葡萄牙语中的物理量和技术符号。该方法通过知识图谱增强分词能力，提升了自然语言处理在科学和技术文本中的准确性和语义理解。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-19T12:02:11.896971+00:00"
+}

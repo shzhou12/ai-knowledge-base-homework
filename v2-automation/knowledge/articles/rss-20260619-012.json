@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260619-012",
+  "title": "ITNet: A Learnable Integral Transform That Subsumes Convolution, Attention, and Recurrence",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.19538",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-19T12:00:53.368781+00:00",
+  "collected_at": "2026-06-19T12:00:53.368781+00:00",
+  "summary": "ITNet 提出了一种可学习的积分变换框架，统一了卷积、注意力和循环神经网络的核心操作，为构建更通用的神经网络架构提供了理论基础。该工作通过数学上的统一视角，有望简化模型设计并提升表达能力。",
+  "score": 8,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-06-19T12:02:11.896952+00:00"
+}
