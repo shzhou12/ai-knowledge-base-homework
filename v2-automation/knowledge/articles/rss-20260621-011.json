@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260621-011",
+  "title": "Agentic Resource Discovery: Let agents search",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-06-21T11:11:35.772777+00:00",
+  "collected_at": "2026-06-21T11:11:35.772777+00:00",
+  "summary": "本文介绍了Agentic Resource Discovery的概念，即让AI代理能够自主搜索和发现外部资源，以增强其任务执行能力。该方法通过赋予代理主动探索和整合信息的能力，提升了AI系统的灵活性和实用性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use",
+    "rag"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-21T11:12:52.005184+00:00"
+}
