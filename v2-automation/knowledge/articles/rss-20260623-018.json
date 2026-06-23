@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260623-018",
+  "title": "An LLM-Explainable DRL Framework for Passenger-Directed Autonomous Driving",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.20640",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-23T10:57:04.492613+00:00",
+  "collected_at": "2026-06-23T10:57:04.492613+00:00",
+  "summary": "该框架结合大语言模型（LLM）与深度强化学习（DRL），使自动驾驶系统能够根据乘客的个性化指令（如偏好、安全要求）动态调整驾驶策略。通过LLM的可解释性，系统能向乘客清晰解释决策原因，提升了人机信任与交互体验。核心价值在于将乘客意图直接融入自动驾驶决策过程，实现更人性化的控制。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "reasoning",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-23T10:58:17.065625+00:00"
+}

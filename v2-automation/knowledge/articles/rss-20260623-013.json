@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260623-013",
+  "title": "Harnessing Agent Skills: Architectural Patterns and a Reference Architecture for Skill-Mediated LLM Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.20631",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-23T10:57:04.492590+00:00",
+  "collected_at": "2026-06-23T10:57:04.492590+00:00",
+  "summary": "该论文探讨了基于技能中介的LLM代理架构模式，提出了一种参考架构来有效管理和利用代理技能。核心价值在于为构建可扩展、模块化的LLM代理系统提供了系统化的设计指导。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "architecture"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-23T10:58:17.065610+00:00"
+}

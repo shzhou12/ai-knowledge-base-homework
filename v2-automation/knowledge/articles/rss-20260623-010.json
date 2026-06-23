@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260623-010",
+  "title": "AlphaMemo: Structured Search-Process Memory for Self-Evolving Alpha Mining Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.20625",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-23T10:57:04.492577+00:00",
+  "collected_at": "2026-06-23T10:57:04.492577+00:00",
+  "summary": "该论文提出了一种名为AlphaMemo的结构化搜索-过程记忆方法，旨在增强自我进化的Alpha挖掘代理的性能。通过将搜索过程记忆结构化，代理能够更有效地从历史搜索中学习并优化其策略，从而在金融等领域实现更智能的自动化决策。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "rag"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-23T10:58:17.065601+00:00"
+}
