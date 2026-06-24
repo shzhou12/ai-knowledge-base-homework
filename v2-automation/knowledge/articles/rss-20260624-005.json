@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260624-005",
+  "title": "Safe and Generalizable Hierarchical Multi-Agent RL via Constraint Manifold Control",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.24010",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-24T10:43:04.874521+00:00",
+  "collected_at": "2026-06-24T10:43:04.874521+00:00",
+  "summary": "该论文提出了一种基于约束流形控制的安全且可泛化的分层多智能体强化学习方法。核心价值在于通过约束流形确保智能体行为的安全性，同时提升多智能体系统在复杂环境中的泛化能力。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "agent"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-06-24T10:44:25.740694+00:00"
+}

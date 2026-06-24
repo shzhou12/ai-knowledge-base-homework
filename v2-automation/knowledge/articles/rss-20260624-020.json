@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260624-020",
+  "title": "Exploring the relationship between human-centric AI and firm idiosyncratic risks",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.24224",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-24T10:43:04.874596+00:00",
+  "collected_at": "2026-06-24T10:43:04.874596+00:00",
+  "summary": "该研究探讨了以人为中心的人工智能（human-centric AI）与企业特质风险（firm idiosyncratic risks）之间的关系。通过分析相关数据，揭示了人本AI实践如何影响企业的风险水平，为企业在采用AI技术时提供了风险管理方面的见解。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-24T10:44:25.740736+00:00"
+}

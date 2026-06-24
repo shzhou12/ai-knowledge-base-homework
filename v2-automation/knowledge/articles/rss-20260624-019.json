@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260624-019",
+  "title": "Navigating User Behavior toward Personalized Multimodal Generation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.24196",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-24T10:43:04.874592+00:00",
+  "collected_at": "2026-06-24T10:43:04.874592+00:00",
+  "summary": "该论文探讨了如何根据用户行为进行个性化多模态生成，通过分析用户交互模式来调整生成内容，提升用户体验。核心价值在于将用户行为数据融入多模态生成模型，实现更精准的个性化输出。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-24T10:44:25.740734+00:00"
+}
