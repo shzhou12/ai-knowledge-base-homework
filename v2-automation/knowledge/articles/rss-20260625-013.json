@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260625-013",
+  "title": "To Isolate or to Score? Model-Adaptive Assessment for Cost-Efficient Multi-Agent RAG",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.25191",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-25T10:37:01.656572+00:00",
+  "collected_at": "2026-06-25T10:37:01.656572+00:00",
+  "summary": "本文提出了一种模型自适应的评估方法，用于在多智能体RAG系统中实现成本高效的检索与评分决策。该方法通过动态判断何时需要隔离检索或进行评分，从而在保证性能的同时降低计算开销。核心价值在于为多智能体RAG系统提供了一种资源优化的评估策略。",
+  "score": 7,
+  "tags": [
+    "rag",
+    "multi-agent",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-25T10:38:09.512652+00:00"
+}
