@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260626-015",
+  "title": "The Verification Horizon: No Silver Bullet for Coding Agent Rewards",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.26300",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-26T10:45:32.342060+00:00",
+  "collected_at": "2026-06-26T10:45:32.342060+00:00",
+  "summary": "本文探讨了在编码智能体奖励机制中缺乏通用解决方案的问题，强调了验证环节的复杂性和挑战。核心价值在于提醒开发者不要依赖单一方法，而应结合多种验证策略来提升智能体的可靠性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "code-generation",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-26T10:46:56.067669+00:00"
+}

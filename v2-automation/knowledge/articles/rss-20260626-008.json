@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260626-008",
+  "title": "Refusal Lives Downstream of Persona in Chat Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.26161",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-26T10:45:32.342028+00:00",
+  "collected_at": "2026-06-26T10:45:32.342028+00:00",
+  "summary": "该论文研究了聊天模型中拒绝行为（refusal）如何依赖于模型的人格设定（persona），发现拒绝机制主要受下游人格层的影响。通过调整人格参数，可以显著改变模型对有害请求的拒绝率，为模型安全对齐提供了新的视角。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-26T10:46:56.067642+00:00"
+}

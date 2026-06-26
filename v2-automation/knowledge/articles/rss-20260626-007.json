@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260626-007",
+  "title": "Life After Benchmark Saturation: A Case Study of CORE-Bench",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.26158",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-26T10:45:32.342020+00:00",
+  "collected_at": "2026-06-26T10:45:32.342020+00:00",
+  "summary": "该论文探讨了基准测试饱和后的技术评估问题，以CORE-Bench为例提出新的评估方法。核心价值在于为AI模型在基准测试饱和后提供更可靠的性能衡量标准。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-26T10:46:56.067639+00:00"
+}
