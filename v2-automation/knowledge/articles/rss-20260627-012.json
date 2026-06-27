@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260627-012",
+  "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/cross-origin-storage",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-06-27T09:58:33.581907+00:00",
+  "collected_at": "2026-06-27T09:58:33.581907+00:00",
+  "summary": "本文介绍了在Transformers.js中实验性地实现跨源存储API（Cross-Origin Storage API），旨在解决浏览器中跨源数据共享的隐私与性能问题。该技术允许模型和推理数据在安全边界内高效复用，为客户端AI应用提供了新的基础设施支持。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-27T09:59:56.623288+00:00"
+}

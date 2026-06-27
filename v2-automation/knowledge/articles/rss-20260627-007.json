@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260627-007",
+  "title": "Which tokens does a hybrid model predict better?",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-06-27T09:58:33.581880+00:00",
+  "collected_at": "2026-06-27T09:58:33.581880+00:00",
+  "summary": "该文章探讨混合模型在不同类型token上的预测表现差异，分析其优势与局限。通过实验对比，揭示混合模型在特定token类别上的预测准确性，为模型优化提供参考。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-27T09:59:56.623272+00:00"
+}
