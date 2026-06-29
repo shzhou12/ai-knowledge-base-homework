@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260629-006",
+  "title": "When Does Personality Composition Matter for Multi-Agent LLM Teams?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.27443",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-29T12:25:34.156897+00:00",
+  "collected_at": "2026-06-29T12:25:34.156897+00:00",
+  "summary": "该论文探讨了在多智能体LLM团队中，人格特质组合对团队协作效率与任务表现的影响。通过实验分析不同人格配置下的交互模式与输出质量，揭示了人格多样性在提升团队整体性能中的关键作用。研究为设计更高效的多智能体协作系统提供了理论依据与实践指导。",
+  "score": 8,
+  "tags": [
+    "multi-agent",
+    "agent",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-29T12:26:48.293800+00:00"
+}

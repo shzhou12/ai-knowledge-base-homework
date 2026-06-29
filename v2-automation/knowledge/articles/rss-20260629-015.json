@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260629-015",
+  "title": "ATOD: Annealed Turn-aware On-policy Distillation for Multi-turn Autonomous Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.27814",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-29T12:25:34.156943+00:00",
+  "collected_at": "2026-06-29T12:25:34.156943+00:00",
+  "summary": "该论文提出了一种名为ATOD的退火轮次感知在线蒸馏方法，用于提升多轮对话自主智能体的性能。通过退火策略和轮次感知机制，该方法能有效蒸馏教师模型的知识到学生模型，从而改善多轮交互中的决策质量。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-29T12:26:48.293832+00:00"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260629-018",
+  "title": "RelBall: Relation Ball with Quaternion Rotation for Knowledge Graph Completion",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.27967",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-29T12:25:34.156957+00:00",
+  "collected_at": "2026-06-29T12:25:34.156957+00:00",
+  "summary": "该论文提出了一种名为RelBall的新型知识图谱补全方法，利用四元数旋转操作来建模关系球体，从而更有效地表示和推理知识图谱中的复杂关系。该方法在多个基准数据集上取得了优异的性能，为知识图谱补全任务提供了新的技术思路。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-29T12:26:48.293841+00:00"
+}
