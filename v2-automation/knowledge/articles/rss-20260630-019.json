@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260630-019",
+  "title": "Tandem Reinforcement Learning with Verifiable Rewards",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.28166",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-30T10:50:47.479888+00:00",
+  "collected_at": "2026-06-30T10:50:47.479888+00:00",
+  "summary": "该论文提出了一种名为Tandem Reinforcement Learning（TRL）的新框架，通过结合可验证奖励（verifiable rewards）来增强强化学习在复杂任务中的训练效率和稳定性。其核心价值在于利用可验证的奖励信号减少对人工标注的依赖，同时提升模型在稀疏奖励环境下的学习性能。",
+  "score": 8,
+  "tags": [
+    "reinforcement-learning",
+    "reward-modeling",
+    "llm"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-06-30T10:51:59.977562+00:00"
+}
