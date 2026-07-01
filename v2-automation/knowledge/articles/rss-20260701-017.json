@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260701-017",
+  "title": "Beyond Compilation: Evaluating Faithful Natural-Language-to-Lean Statement Formalization",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.31002",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-01T11:18:37.542711+00:00",
+  "collected_at": "2026-07-01T11:18:37.542711+00:00",
+  "summary": "该论文探讨了自然语言到Lean定理证明器语句形式化的忠实性评估问题，超越了传统的编译验证方法。核心贡献在于提出了一种新的评估框架，用于衡量形式化过程是否准确保留了原始自然语言语义。这项工作对于提升AI辅助数学证明的可靠性和可解释性具有重要价值。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-01T11:19:49.935307+00:00"
+}
