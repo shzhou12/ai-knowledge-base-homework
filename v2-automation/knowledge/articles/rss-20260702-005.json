@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260702-005",
+  "title": "Making Failure Safe: A Constrained, Verifiable Agent Framework for Open-Web Data Collection",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.00035",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-02T10:31:25.162284+00:00",
+  "collected_at": "2026-07-02T10:31:25.162284+00:00",
+  "summary": "该论文提出了一种约束性、可验证的智能体框架，旨在确保开放网络数据收集过程中的安全性。通过形式化验证和约束机制，该框架能够在数据收集失败时保证系统安全，为AI智能体的可靠部署提供了重要参考。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "security",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-02T10:32:32.053733+00:00"
+}

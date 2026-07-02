@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260702-017",
+  "title": "Multi-scale Mixture of World Models for Embodied Agents in Evolving Environments",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.00457",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-02T10:31:25.162345+00:00",
+  "collected_at": "2026-07-02T10:31:25.162345+00:00",
+  "summary": "该论文提出了一种多尺度世界模型混合架构，用于在动态环境中增强具身智能体的适应能力。通过结合不同时间尺度的世界模型，智能体能够更有效地进行规划和决策，提升了在复杂演化环境中的表现。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-02T10:32:32.053773+00:00"
+}

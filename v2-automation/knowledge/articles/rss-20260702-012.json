@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260702-012",
+  "title": "Mnemosyne: Agentic Transaction Processing for Validating and Repairing AI-generated Workflows",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.00269",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-02T10:31:25.162322+00:00",
+  "collected_at": "2026-07-02T10:31:25.162322+00:00",
+  "summary": "该论文提出了Mnemosyne，一种用于验证和修复AI生成工作流的代理事务处理系统。其核心价值在于通过事务性处理机制确保AI生成工作流的正确性和可靠性，解决了AI工作流中常见的错误和一致性问题。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-02T10:32:32.053758+00:00"
+}
