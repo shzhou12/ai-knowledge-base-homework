@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260703-012",
+  "title": "The Agentic Garden of Forking Paths",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.01507",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-03T10:29:09.831373+00:00",
+  "collected_at": "2026-07-03T10:29:09.831373+00:00",
+  "summary": "该论文探讨了在智能体系统中，路径选择与决策分叉的复杂性问题，提出了一个基于分叉路径的智能体决策框架。其核心价值在于为多智能体系统中的路径规划与优化提供了新的理论视角和实用方法。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-03T10:30:26.867952+00:00"
+}

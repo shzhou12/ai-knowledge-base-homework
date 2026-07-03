@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260703-020",
+  "title": "SemHash-LLM: A Multi-Granularity Semantic Hashing Framework for Document Deduplication",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.01601",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-03T10:29:09.831410+00:00",
+  "collected_at": "2026-07-03T10:29:09.831410+00:00",
+  "summary": "该论文提出了一种名为SemHash-LLM的多粒度语义哈希框架，用于文档去重。它利用大语言模型生成语义哈希码，支持从粗粒度到细粒度的文档相似性比较，有效提升去重效率与准确性。该工作为大规模文档管理提供了高效且可扩展的解决方案。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "rag"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-03T10:30:26.867977+00:00"
+}

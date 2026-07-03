@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260703-008",
+  "title": "Discrete Diffusion Language Models for Interactive Radiology Report Drafting",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.01436",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-03T10:29:09.831354+00:00",
+  "collected_at": "2026-07-03T10:29:09.831354+00:00",
+  "summary": "该论文提出了一种用于交互式放射学报告起草的离散扩散语言模型，通过逐步生成和编辑文本，实现了医生与AI的协同工作。核心价值在于提高了放射学报告的生成效率和准确性，同时保持了临床可解释性。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-03T10:30:26.867932+00:00"
+}

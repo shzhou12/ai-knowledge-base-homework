@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260703-007",
+  "title": "CreativityNeuro: Steering Language Model Weights to Improve Divergent Thinking and Reduce Mode Collapse",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.01433",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-03T10:29:09.831349+00:00",
+  "collected_at": "2026-07-03T10:29:09.831349+00:00",
+  "summary": "该研究提出了一种名为CreativityNeuro的方法，通过调整语言模型的权重来增强其发散性思维能力，并减少模式崩溃现象。核心价值在于为提升AI创造力提供了新的技术路径，有助于生成更多样化和创新的内容。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-03T10:30:26.867929+00:00"
+}
