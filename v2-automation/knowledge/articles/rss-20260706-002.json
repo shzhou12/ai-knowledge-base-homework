@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260706-002",
+  "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-07-06T11:58:04.019483+00:00",
+  "collected_at": "2026-07-06T11:58:04.019483+00:00",
+  "summary": "该论文介绍了一种新型AI导师系统，在达特茅斯学院课程中实现了0.71至1.30标准差的效果量，表明其显著提升了学习成效。这一成果展示了AI在教育领域的巨大潜力，为个性化教学提供了有力工具。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "evaluation",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-06T11:59:26.426022+00:00"
+}

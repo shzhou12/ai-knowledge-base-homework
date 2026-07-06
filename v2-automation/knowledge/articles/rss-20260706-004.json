@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260706-004",
+  "title": "🤗 Kernels: Major Updates",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/revamped-kernels",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-07-06T11:58:12.085347+00:00",
+  "collected_at": "2026-07-06T11:58:12.085347+00:00",
+  "summary": "该内容介绍了 Hugging Face 平台上 Kernels 功能的主要更新，可能涉及性能优化、新特性或用户体验改进。这些更新有助于提升 AI 模型开发和实验的效率，对使用 Hugging Face 生态的开发者具有实用价值。",
+  "score": 7,
+  "tags": [
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-06T11:59:26.426029+00:00"
+}
