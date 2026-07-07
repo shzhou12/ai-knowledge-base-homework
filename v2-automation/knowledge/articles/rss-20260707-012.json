@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260707-012",
+  "title": "A Sliding-Window-Based Reinforcement Learning for Dynamic Assembly Flow Shop Scheduling with Multi-Product Delivery",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.02941",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-07T10:49:25.111412+00:00",
+  "collected_at": "2026-07-07T10:49:25.111412+00:00",
+  "summary": "本文提出了一种基于滑动窗口的强化学习方法，用于解决动态装配流水车间调度问题，并考虑了多产品交付的约束。该方法通过滑动窗口机制处理动态变化的生产环境，利用强化学习优化调度决策，以提高生产效率和交付准时性。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-07T10:50:31.539085+00:00"
+}
