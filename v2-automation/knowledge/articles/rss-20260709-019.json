@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260709-019",
+  "title": "Reason Less, Verify More: Deterministic Gates Recover a Silent Policy-Violation Failure Mode in Tool-Using LLM Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.07405",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-09T10:48:08.598535+00:00",
+  "collected_at": "2026-07-09T10:48:08.598535+00:00",
+  "summary": "该论文提出了一种通过确定性门控机制来恢复工具使用LLM代理中因策略违规导致的静默失败模式的方法。核心价值在于通过减少推理、增加验证来提升代理的可靠性和安全性，为LLM代理的鲁棒性设计提供了新思路。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-09T10:49:31.506481+00:00"
+}

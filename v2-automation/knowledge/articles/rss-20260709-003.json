@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260709-003",
+  "title": "LLM-powered reasoning in agent-based modeling",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.06757",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-09T10:48:08.598470+00:00",
+  "collected_at": "2026-07-09T10:48:08.598470+00:00",
+  "summary": "该论文探讨了如何利用大型语言模型（LLM）增强基于智能体的建模（ABM）中的推理能力，通过将LLM集成到智能体决策过程中，提升了模型在复杂环境下的适应性和解释性。核心价值在于为ABM领域提供了一种结合自然语言推理的新范式，有望推动社会模拟、经济预测等应用的发展。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-09T10:49:31.506438+00:00"
+}

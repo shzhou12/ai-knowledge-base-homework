@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260709-020",
+  "title": "InductWave: Inductive Multi-Hop Logical Query Answering on Knowledge Graphs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.07422",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-09T10:48:08.598539+00:00",
+  "collected_at": "2026-07-09T10:48:08.598539+00:00",
+  "summary": "该论文提出了一种名为InductWave的归纳式多跳逻辑查询方法，用于在知识图谱上进行复杂逻辑推理。它通过引入归纳学习机制，能够处理未见过的实体和关系，从而提升了知识图谱问答的泛化能力。该方法在多个基准数据集上取得了优异的性能，展示了其在知识推理任务中的实用价值。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-09T10:49:31.506483+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260709-010",
+  "title": "Learning social norms enhances compatibility in dynamic human-AI coordination",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.07021",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-09T10:48:08.598504+00:00",
+  "collected_at": "2026-07-09T10:48:08.598504+00:00",
+  "summary": "该研究探讨了在动态人机协作中，通过让AI系统学习社会规范来增强与人类行为的兼容性。核心价值在于提出了一种使AI能够适应人类群体中隐含的社会规则，从而提升协作效率与自然度的新方法。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-09T10:49:31.506459+00:00"
+}

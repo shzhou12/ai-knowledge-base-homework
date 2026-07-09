@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260709-002",
+  "title": "When Does In-Context Search Help? A Sampling-Complexity Theory of Reflection-Driven Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.06720",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-09T10:48:08.598465+00:00",
+  "collected_at": "2026-07-09T10:48:08.598465+00:00",
+  "summary": "该论文从采样复杂度理论角度，系统分析了上下文搜索（in-context search）在反思驱动推理（reflection-driven reasoning）中的有效性条件，揭示了何时以及为何引入外部搜索能提升推理性能。研究为设计更高效的推理增强型AI系统提供了理论指导。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "rag",
+    "llm"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-09T10:49:31.506434+00:00"
+}

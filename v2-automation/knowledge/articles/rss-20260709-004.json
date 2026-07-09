@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260709-004",
+  "title": "QANTIS: Hardware-Calibrated Sequential POMDP Belief Updates on IBM Heron",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.06760",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-09T10:48:08.598473+00:00",
+  "collected_at": "2026-07-09T10:48:08.598473+00:00",
+  "summary": "该论文提出了一种名为QANTIS的硬件校准方法，用于在IBM Heron量子处理器上实现序贯部分可观测马尔可夫决策过程（POMDP）信念更新。其核心价值在于通过硬件校准提高了量子计算在复杂决策问题中的实用性和准确性。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-09T10:49:31.506441+00:00"
+}
