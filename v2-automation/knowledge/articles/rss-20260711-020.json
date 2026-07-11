@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260711-020",
+  "title": "From Prompts to Contracts: Harness Engineering for Auditable Enterprise LLM Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.08028",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-11T09:20:52.929552+00:00",
+  "collected_at": "2026-07-11T09:20:52.929552+00:00",
+  "summary": "本文探讨了如何将提示工程（prompt engineering）扩展到合同工程（contract engineering），以实现企业级LLM代理的可审计性。核心价值在于提出一种系统化的方法，通过合同（contracts）来约束和记录LLM代理的行为，从而增强其透明度和可追溯性，适用于需要严格合规和审计的企业场景。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "prompt-engineering"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-11T09:22:05.813650+00:00"
+}

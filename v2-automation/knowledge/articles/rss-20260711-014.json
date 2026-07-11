@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260711-014",
+  "title": "Feedback Manipulation Regularization: Enabling Offline Agent Alignment for Imitation Learning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.07859",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-11T09:20:52.929529+00:00",
+  "collected_at": "2026-07-11T09:20:52.929529+00:00",
+  "summary": "该论文提出了一种名为反馈操纵正则化的方法，旨在通过离线方式对齐模仿学习中的智能体行为。核心价值在于无需在线交互即可提升智能体对反馈的鲁棒性，从而改善模仿学习的效果。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-11T09:22:05.813634+00:00"
+}

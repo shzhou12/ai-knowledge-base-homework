@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260711-018",
+  "title": "Agentic Neural Architecture Search",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.07984",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-11T09:20:52.929545+00:00",
+  "collected_at": "2026-07-11T09:20:52.929545+00:00",
+  "summary": "该内容提出了一种智能体驱动的神经架构搜索方法，通过将智能体与自动化机器学习结合，实现更高效的网络结构发现。其核心价值在于利用智能体的决策能力优化搜索过程，可能提升模型性能与搜索效率。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-11T09:22:05.813646+00:00"
+}
