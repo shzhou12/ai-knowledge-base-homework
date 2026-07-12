@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260712-008",
+  "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-07-12T09:45:14.898701+00:00",
+  "collected_at": "2026-07-12T09:45:14.898701+00:00",
+  "summary": "该内容介绍了一种将Hugging Face模型一键部署到Amazon SageMaker Studio的解决方案，简化了从模型选择到云上部署的流程。核心价值在于降低了AI模型部署的门槛，提升了开发效率。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-12T09:46:37.868745+00:00"
+}
