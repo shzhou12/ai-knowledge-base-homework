@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260713-018",
+  "title": "OpenProver: Agentic and Interactive Theorem Proving with Lean 4",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.09217",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-13T10:53:11.628111+00:00",
+  "collected_at": "2026-07-13T10:53:11.628111+00:00",
+  "summary": "OpenProver 提出了一种基于智能体（agentic）和交互式（interactive）的方法，用于在 Lean 4 证明助手中进行定理证明。该方法通过将大语言模型与 Lean 4 环境深度集成，实现了自动化的交互式证明搜索，提升了定理证明的效率和可扩展性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-13T10:54:32.324107+00:00"
+}

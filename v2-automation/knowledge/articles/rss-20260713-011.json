@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260713-011",
+  "title": "ARCANA: A Reflective Multi-Agent Program Synthesis Framework for ARC-AGI-2 Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.09059",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-13T10:53:11.628079+00:00",
+  "collected_at": "2026-07-13T10:53:11.628079+00:00",
+  "summary": "该论文提出了ARCANA，一个基于反思的多智能体程序合成框架，专门用于解决ARC-AGI-2推理任务。通过多个智能体协作和反思机制，框架能够生成更鲁棒的程序，在抽象推理任务上展现出显著优势。",
+  "score": 8,
+  "tags": [
+    "multi-agent",
+    "reasoning",
+    "code-generation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-13T10:54:32.324082+00:00"
+}

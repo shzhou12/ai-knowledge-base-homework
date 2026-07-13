@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260713-009",
+  "title": "Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.08964",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-13T10:53:11.628069+00:00",
+  "collected_at": "2026-07-13T10:53:11.628069+00:00",
+  "summary": "该论文提出了一个名为Long-Horizon-Terminal-Bench的基准测试，专门用于评估AI代理在长时间跨度终端任务上的表现，并采用密集奖励机制进行评分。该基准测试旨在测试代理在复杂、长期任务中的极限能力，为评估和比较不同代理系统提供了新的标准化方法。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-13T10:54:32.324075+00:00"
+}
