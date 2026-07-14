@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260714-011",
+  "title": "The Verifier is the Curriculum: Execution-Gated Self-Distillation for Cross-Family Game Generation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.09709",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-14T09:50:20.210090+00:00",
+  "collected_at": "2026-07-14T09:50:20.210090+00:00",
+  "summary": "该论文提出了一种名为“执行门控自蒸馏”的方法，通过验证器（Verifier）作为课程来指导跨系列游戏生成。核心价值在于利用自蒸馏技术，使模型在生成游戏时能够自我改进，无需外部监督，从而提升生成质量和多样性。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-14T09:51:34.337513+00:00"
+}

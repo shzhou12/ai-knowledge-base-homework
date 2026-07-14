@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260714-007",
+  "title": "Boltzmann MapReduce: A Partition-Function Reduce for Forkable Sandboxes",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.09689",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-14T09:50:20.210071+00:00",
+  "collected_at": "2026-07-14T09:50:20.210071+00:00",
+  "summary": "本文提出Boltzmann MapReduce，一种用于可分支沙箱的分区函数归约方法，通过将统计力学中的玻尔兹曼分布与MapReduce范式结合，实现高效的概率计算与资源管理。该方法在分布式AI系统中具有潜在应用价值，可优化复杂任务分解与结果聚合过程。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-14T09:51:34.337499+00:00"
+}

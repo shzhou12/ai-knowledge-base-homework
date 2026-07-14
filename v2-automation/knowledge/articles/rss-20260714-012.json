@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260714-012",
+  "title": "Closed-Loop Control with Rule-Aligned Small Language Models and Multi-Agent Self-Correction",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.09713",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-14T09:50:20.210095+00:00",
+  "collected_at": "2026-07-14T09:50:20.210095+00:00",
+  "summary": "该论文提出了一种基于规则对齐的小型语言模型与多智能体自我修正的闭环控制方法，旨在提升AI系统的可靠性和准确性。通过多智能体协作与自我修正机制，该方法在复杂任务中实现了更优的控制性能。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-14T09:51:34.337520+00:00"
+}
