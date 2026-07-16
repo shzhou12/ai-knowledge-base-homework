@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260716-005",
+  "title": "Interventional Grounding Audits: Black-Box Premise-Dependency Tests for LLM Chain-of-Thought via Predicate Substitution",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.13069",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-16T10:01:17.354675+00:00",
+  "collected_at": "2026-07-16T10:01:17.354675+00:00",
+  "summary": "该论文提出了一种黑盒前提依赖性测试方法，通过谓词替换来审计LLM链式思维推理中的前提依赖关系。该方法无需访问模型内部，即可评估推理步骤是否真正基于给定前提，为提升推理可靠性和可解释性提供了新工具。",
+  "score": 8,
+  "tags": [
+    "reasoning",
+    "evaluation",
+    "llm"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-16T10:02:18.037143+00:00"
+}

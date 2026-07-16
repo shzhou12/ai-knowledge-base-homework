@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260716-015",
+  "title": "Harness Handbook: Making Evolving Agent Harnesses Readable,Navigable, and Editable",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.13285",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-16T10:01:17.354725+00:00",
+  "collected_at": "2026-07-16T10:01:17.354725+00:00",
+  "summary": "本文介绍了Harness Handbook，旨在通过提升可读性、可导航性和可编辑性来改进不断演化的AI代理框架。核心价值在于提供一种系统化的方法，使开发者能更高效地理解、调试和定制复杂的代理系统。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-16T10:02:18.037181+00:00"
+}
