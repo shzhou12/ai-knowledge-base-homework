@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-17-007",
+  "title": "OpenHands/OpenHands",
+  "source": "github",
+  "url": "https://github.com/OpenHands/OpenHands",
+  "collected_at": "2026-07-17T01:55:06.501933+00:00",
+  "summary": "OpenHands 是一个基于 AI 驱动的开发平台，旨在通过智能代理和自动化工具提升软件开发效率。它集成了大型语言模型（LLM）来辅助代码生成、调试、测试和项目管理，支持多种编程语言和开发环境。项目强调人机协作，允许开发者通过自然语言指令与 AI 交互，从而加速开发流程。其开源特性鼓励社区贡献，适用于从个人项目到企业级应用的多种场景。",
+  "tags": [
+    "AI开发",
+    "代码生成",
+    "自动化工具",
+    "LLM",
+    "开源"
+  ],
+  "relevance_score": 0.85,
+  "category": "agent",
+  "key_insight": "OpenHands 通过 AI 代理将自然语言指令转化为实际的开发操作，显著降低了编程门槛并提升了开发效率。"
+}
