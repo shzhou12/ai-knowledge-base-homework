@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260718-005",
+  "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://blog.lyc8503.net/en/post/llm-classifier/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-07-18T09:17:37.554000+00:00",
+  "collected_at": "2026-07-18T09:17:37.554000+00:00",
+  "summary": "该文章探讨了使用传统机器学习方法检测LLM生成文本的技术，提供了一种无需依赖复杂深度学习模型的替代方案。核心价值在于展示了经典算法在AI文本检测中的有效性，为实际应用提供了低成本、可解释的解决方案。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-18T09:18:52.754891+00:00"
+}
