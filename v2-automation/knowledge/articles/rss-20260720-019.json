@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260720-019",
+  "title": "MGDT: MLLM-Guided Diffusion Transformer with Relation-Adaptive Mixture-of-Experts for Multimodal Knowledge Graph Completion",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.15592",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-20T10:44:16.977598+00:00",
+  "collected_at": "2026-07-20T10:44:16.977598+00:00",
+  "summary": "该论文提出了一种名为MGDT的模型，利用多模态大语言模型（MLLM）引导扩散Transformer，并结合关系自适应混合专家网络，用于多模态知识图谱补全任务。核心创新在于通过MLLM增强对多模态信息的理解，并利用扩散过程生成缺失的知识图谱元素，从而提升补全的准确性和鲁棒性。这项工作为多模态知识图谱的自动化构建和推理提供了新的技术路径。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-20T10:45:28.196405+00:00"
+}

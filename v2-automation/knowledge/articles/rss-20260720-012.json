@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260720-012",
+  "title": "DrawingVQA: A Real-World Benchmark for Multi-Depth Visual-Textual Reasoning on Construction Drawings",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.15418",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-20T10:44:16.977565+00:00",
+  "collected_at": "2026-07-20T10:44:16.977565+00:00",
+  "summary": "该论文提出了一个针对建筑图纸的多深度视觉-文本推理基准测试DrawingVQA，旨在评估AI模型在复杂专业文档上的理解与推理能力。通过构建包含多层次问题（从简单识别到复杂推理）的数据集，为视觉语言模型在工程领域的应用提供了标准化评估工具。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-20T10:45:28.196380+00:00"
+}

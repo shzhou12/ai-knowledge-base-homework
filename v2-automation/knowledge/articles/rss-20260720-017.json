@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260720-017",
+  "title": "Logic, Optimization, and Artificial Intelligence",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.15532",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-20T10:44:16.977589+00:00",
+  "collected_at": "2026-07-20T10:44:16.977589+00:00",
+  "summary": "该内容探讨了逻辑、优化与人工智能之间的交叉领域，可能涉及如何将逻辑推理与优化技术结合以提升AI系统的决策能力。其核心价值在于为AI研究提供理论框架，推动更高效、可解释的智能系统设计。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-20T10:45:28.196400+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260720-013",
+  "title": "Do Coding Agents Need Executable World Models, Simplification, and Verification to Solve ARC-AGI-3?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.15439",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-20T10:44:16.977572+00:00",
+  "collected_at": "2026-07-20T10:44:16.977572+00:00",
+  "summary": "该论文探讨了编码代理在解决ARC-AGI-3任务时是否需要可执行世界模型、简化与验证机制，旨在提升AI的抽象推理能力。核心价值在于为构建更通用的智能体提供方法论指导，强调结构化推理与验证的重要性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-20T10:45:28.196383+00:00"
+}

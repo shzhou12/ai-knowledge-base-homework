@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260720-009",
+  "title": "Cura 1T: Specialized Model for Agentic Healthcare",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.15314",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-20T10:44:16.977549+00:00",
+  "collected_at": "2026-07-20T10:44:16.977549+00:00",
+  "summary": "Cura 1T 是一个专门为医疗健康领域设计的智能体模型，旨在通过代理式AI技术提升医疗服务的效率与准确性。该模型结合了大规模语言模型与医疗专业知识，能够处理复杂的医疗任务，如诊断辅助、患者交互和医疗文档管理。其核心价值在于为医疗行业提供定制化的AI解决方案，推动医疗自动化和智能化发展。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-20T10:45:28.196370+00:00"
+}
