@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260721-011",
+  "title": "Deterministic Replay for AI Agent Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.16200",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-21T10:19:17.307409+00:00",
+  "collected_at": "2026-07-21T10:19:17.307409+00:00",
+  "summary": "该论文提出了一种针对AI智能体系统的确定性重放方法，旨在解决智能体行为的不确定性和可复现性问题。通过记录和重放关键状态与事件，该方法能有效提升智能体系统的调试效率和可靠性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-21T10:20:26.619999+00:00"
+}
