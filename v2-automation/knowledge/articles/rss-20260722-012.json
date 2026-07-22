@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260722-012",
+  "title": "MILP-Evo: Closed-Loop Fully Automatic Design of MILP Solvers",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.18252",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-22T10:19:12.283463+00:00",
+  "collected_at": "2026-07-22T10:19:12.283463+00:00",
+  "summary": "该论文提出了一种名为MILP-Evo的闭环全自动设计方法，用于自动生成混合整数线性规划求解器。它通过进化算法和自动评估，实现了求解器设计的端到端优化，显著提升了求解效率。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-22T10:20:19.454483+00:00"
+}
