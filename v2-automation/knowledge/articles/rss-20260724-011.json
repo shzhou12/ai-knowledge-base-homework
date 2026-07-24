@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260724-011",
+  "title": "DC-Leap: Training-Free Acceleration of dLLMs via Draft-Guided Contiguous Leaping Decoding",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.20467",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-24T10:10:17.022424+00:00",
+  "collected_at": "2026-07-24T10:10:17.022424+00:00",
+  "summary": "DC-Leap 提出了一种无需训练的加速方法，通过草稿引导的连续跳跃解码来提升大语言模型（dLLMs）的推理速度。该方法利用草稿模型生成候选序列，并采用连续跳跃策略减少自回归解码步骤，从而在保持生成质量的同时实现高效加速。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-24T10:11:24.747433+00:00"
+}

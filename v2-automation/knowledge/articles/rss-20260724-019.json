@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260724-019",
+  "title": "SonicSampler: Unified Tile-Aware Kernels for LLM Sampling and Speculative Verification",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.20475",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-24T10:10:17.022460+00:00",
+  "collected_at": "2026-07-24T10:10:17.022460+00:00",
+  "summary": "SonicSampler 提出了一种统一的、基于 tile 感知的核函数，用于加速 LLM 采样和推测验证过程。该方法通过优化内存访问模式和计算调度，显著提升了推理效率，尤其适用于大规模语言模型的部署场景。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-24T10:11:24.747461+00:00"
+}

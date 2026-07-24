@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260724-015",
+  "title": "Benchmarking the Personalization Capabilities of Large Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.20471",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-24T10:10:17.022442+00:00",
+  "collected_at": "2026-07-24T10:10:17.022442+00:00",
+  "summary": "该论文提出了一种评估大型语言模型个性化能力的方法，通过构建包含用户偏好和上下文信息的基准测试集，系统性地衡量模型在个性化任务中的表现。研究揭示了当前模型在理解用户独特需求方面的局限性，并为提升模型个性化能力提供了方向。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-24T10:11:24.747450+00:00"
+}

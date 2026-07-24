@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260724-009",
+  "title": "Stochastic Sampling is Epistemically Shallow: The Dimensionality Gap Between Temperature Variation and Model Diversity in LLMs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.20464",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-24T10:10:17.022414+00:00",
+  "collected_at": "2026-07-24T10:10:17.022414+00:00",
+  "summary": "该论文探讨了大型语言模型（LLMs）中随机采样（如温度调节）与模型多样性之间的维度差距，指出温度变化在生成多样性上存在局限性。核心价值在于揭示了当前采样策略在提升模型输出多样性方面的浅层性，为改进LLM的生成机制提供了理论依据。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-24T10:11:24.747427+00:00"
+}
