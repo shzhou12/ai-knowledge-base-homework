@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260727-020",
+  "title": "LeafData: An Agentic System for Data Migration",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.21618",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-27T11:12:51.496949+00:00",
+  "collected_at": "2026-07-27T11:12:51.496949+00:00",
+  "summary": "该论文提出了一种名为LeafData的智能体系统，用于自动化数据迁移任务。核心价值在于利用AI智能体简化复杂的数据迁移流程，提高效率和准确性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-27T11:13:57.228024+00:00"
+}

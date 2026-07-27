@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260727-010",
+  "title": "TILT: Improving Compositional Generation in Diffusion Models with a Model-Intrinsic Reward",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.21606",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-27T11:12:51.496912+00:00",
+  "collected_at": "2026-07-27T11:12:51.496912+00:00",
+  "summary": "该论文提出了一种名为TILT的方法，通过模型内在奖励来改进扩散模型中的组合生成能力。核心价值在于无需外部监督即可提升模型在复杂场景下的生成质量。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-27T11:13:57.228000+00:00"
+}
