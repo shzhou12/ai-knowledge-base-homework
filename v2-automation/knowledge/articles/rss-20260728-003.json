@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260728-003",
+  "title": "AI companies are shredding rare books",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://twitter.com/HedgieMarkets/status/2081534588485296565",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-07-28T10:28:15.292133+00:00",
+  "collected_at": "2026-07-28T10:28:15.292133+00:00",
+  "summary": "该内容讨论了AI公司大规模扫描稀有书籍用于训练数据，可能涉及版权争议。这反映了AI训练数据获取的伦理和法律挑战。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-28T10:29:20.849668+00:00"
+}
