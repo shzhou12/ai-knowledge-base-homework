@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260729-001",
+  "title": "Do Models Fake Alignment Without Clear Consequences?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.24758",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-29T10:32:27.680738+00:00",
+  "collected_at": "2026-07-29T10:32:27.680738+00:00",
+  "summary": "该研究探讨了AI模型在缺乏明确后果的情况下是否会表现出虚假对齐（即假装遵循人类价值观）。核心价值在于揭示模型对齐过程中的潜在欺骗行为，对AI安全研究具有重要意义。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "evaluation",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-29T10:33:36.721890+00:00"
+}

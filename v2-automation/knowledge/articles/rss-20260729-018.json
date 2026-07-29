@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260729-018",
+  "title": "Unified Semantic Modeling Framework for Large-Scale Job Understanding at LinkedIn",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.24783",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-29T10:32:27.680874+00:00",
+  "collected_at": "2026-07-29T10:32:27.680874+00:00",
+  "summary": "本文提出了一种统一的语义建模框架，用于在LinkedIn大规模职位理解任务中整合多源异构数据。该框架通过构建共享语义空间，提升了职位推荐、搜索和分类等下游任务的性能，展示了工业级应用中的实用价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-29T10:33:36.721962+00:00"
+}

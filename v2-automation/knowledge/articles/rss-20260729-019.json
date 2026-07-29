@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260729-019",
+  "title": "On the Use of LLMs for Specialised Terminology: A Good Alternative to Corpora?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.24784",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-29T10:32:27.680879+00:00",
+  "collected_at": "2026-07-29T10:32:27.680879+00:00",
+  "summary": "该论文探讨了使用大型语言模型（LLMs）进行专业术语提取，作为传统语料库方法的替代方案。研究评估了LLMs在特定领域术语识别和定义方面的能力，发现其在某些场景下能提供高效且准确的术语处理，但仍存在对领域知识依赖和幻觉问题。该工作为术语管理提供了新思路，尤其适合资源匮乏的领域。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-29T10:33:36.721965+00:00"
+}
