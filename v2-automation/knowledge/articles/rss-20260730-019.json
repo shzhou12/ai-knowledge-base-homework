@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260730-019",
+  "title": "Fewer Clarifications, Better Code: Benchmarking Cross-Session Personalized Ambiguity Adaptation in Coding Assistants",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.26611",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-30T10:17:27.811618+00:00",
+  "collected_at": "2026-07-30T10:17:27.811618+00:00",
+  "summary": "该论文提出了一种跨会话个性化歧义适应方法，旨在减少编码助手在代码生成中的澄清需求，从而提升代码质量。通过基准测试，验证了该方法在适应不同用户偏好和上下文方面的有效性，为编码助手的人机交互优化提供了新思路。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-30T10:18:28.993604+00:00"
+}

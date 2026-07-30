@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260730-011",
+  "title": "TraceCoder: Explainable and Auditable Code Generation with Position-Key Snippet Versioning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.26307",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-30T10:17:27.811580+00:00",
+  "collected_at": "2026-07-30T10:17:27.811580+00:00",
+  "summary": "TraceCoder 提出了一种基于位置键片段版本控制的代码生成方法，通过可解释和可审计的机制提升代码生成的透明度和可靠性。该技术有助于开发者理解代码生成过程并追踪变更，适用于需要高可信度的软件开发场景。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-30T10:18:28.993576+00:00"
+}
