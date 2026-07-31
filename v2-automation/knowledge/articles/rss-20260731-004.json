@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260731-004",
+  "title": "LLM Honeypot",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://llm2human.pages.dev/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-07-31T10:31:19.529961+00:00",
+  "collected_at": "2026-07-31T10:31:19.529961+00:00",
+  "summary": "LLM Honeypot 是一种利用大型语言模型作为诱饵的安全机制，旨在吸引和检测恶意攻击者。该技术通过模拟易受攻击的AI接口，收集攻击行为数据，从而增强AI系统的安全性。其核心价值在于将LLM应用于主动防御，为AI安全领域提供了新的思路。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-31T10:32:34.876372+00:00"
+}
