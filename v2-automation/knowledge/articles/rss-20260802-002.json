@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260802-002",
+  "title": "AI doesn't generate working products, that's still your job",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://weeraman.com/the-prototype-isnt-the-product/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-02T09:50:13.546115+00:00",
+  "collected_at": "2026-08-02T09:50:13.546115+00:00",
+  "summary": "本文强调尽管AI技术日益强大，但生成可工作的产品仍需人类工程师的参与和判断。文章指出AI工具在代码生成方面存在局限性，开发者需要负责架构设计、调试和验证，以确保最终产品的质量和可靠性。核心价值在于提醒开发者合理定位AI辅助角色，避免过度依赖。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-02T09:51:25.225260+00:00"
+}
