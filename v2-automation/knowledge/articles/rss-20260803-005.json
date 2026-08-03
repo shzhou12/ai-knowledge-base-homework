@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260803-005",
+  "title": "LLM Framework for Discovering Major Mathematical Conjectures: AI's Quest for the Next Riemann Hypothesis",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.28632",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-03T11:15:13.251312+00:00",
+  "collected_at": "2026-08-03T11:15:13.251312+00:00",
+  "summary": "该论文提出了一种利用大型语言模型（LLM）自动发现数学猜想的新框架，旨在通过AI辅助探索如黎曼猜想等重大数学问题。其核心价值在于将LLM的推理能力与数学研究相结合，为自动化科学发现提供了创新路径。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-03T11:16:31.295292+00:00"
+}

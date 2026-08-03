@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260803-019",
+  "title": "Best Friends, Not Forever: Evaluating Long-Horizon Persona Collapse and Behavioral Drift in AI Companions",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.28818",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-03T11:15:13.251360+00:00",
+  "collected_at": "2026-08-03T11:15:13.251360+00:00",
+  "summary": "该研究评估了AI伴侣在长时间交互中的人格一致性和行为漂移问题，提出了新的评估框架。研究发现当前模型在长期对话中会出现人格崩溃和偏离初始设定的现象，为改进AI伴侣的稳定性提供了重要参考。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "evaluation",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-03T11:16:31.295329+00:00"
+}

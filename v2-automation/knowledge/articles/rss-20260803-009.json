@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260803-009",
+  "title": "An Ontology-Guided, Deduplication-Aware Extraction Layer for Knowledge Graph Construction from Heterogeneous Documents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.28662",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-03T11:15:13.251328+00:00",
+  "collected_at": "2026-08-03T11:15:13.251328+00:00",
+  "summary": "该论文提出了一种基于本体引导和去重感知的提取层，用于从异构文档中构建知识图谱，通过利用本体结构指导信息提取并集成去重机制，提高了知识图谱构建的准确性和效率。该方法解决了异构文档中实体和关系提取的歧义性和重复问题，为知识图谱自动化构建提供了新的技术路径。",
+  "score": 8,
+  "tags": [
+    "rag",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-03T11:16:31.295302+00:00"
+}

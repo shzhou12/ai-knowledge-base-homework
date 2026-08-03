@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260803-013",
+  "title": "Multi-Agent Planning with Spatio-Temporal and Topological Constraints using STL-GO",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.28679",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-03T11:15:13.251342+00:00",
+  "collected_at": "2026-08-03T11:15:13.251342+00:00",
+  "summary": "本文提出了一种名为STL-GO的框架，用于在多智能体规划中整合时空与拓扑约束，通过信号时序逻辑（STL）和几何优化方法，实现了复杂环境下的高效协同规划。该工作为多智能体系统在动态约束下的任务分配与路径规划提供了新的解决方案，具有较高的实用价值。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-03T11:16:31.295315+00:00"
+}

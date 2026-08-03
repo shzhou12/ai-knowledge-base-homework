@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260803-011",
+  "title": "Reasoning in Real World Clinical Care: Why Large Language Models Are Not Yet Safe for Autonomous Clinical Decision Support",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.28677",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-03T11:15:13.251334+00:00",
+  "collected_at": "2026-08-03T11:15:13.251334+00:00",
+  "summary": "本文探讨了大型语言模型（LLMs）在真实世界临床决策支持中的安全性问题，指出尽管LLMs在医学推理任务上表现出色，但由于其缺乏可靠的事实核查、对不确定性的处理能力不足以及易受对抗性攻击，目前尚不适合用于自主临床决策。文章强调了需要结合外部知识库、验证机制和人工监督来确保临床安全，为医疗AI的部署提供了重要的风险评估和设计指导。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "reasoning",
+    "security",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-03T11:16:31.295310+00:00"
+}

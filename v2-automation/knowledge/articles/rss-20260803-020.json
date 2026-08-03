@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260803-020",
+  "title": "Fragility of Value under Imperfect Alignment",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.28881",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-03T11:15:13.251363+00:00",
+  "collected_at": "2026-08-03T11:15:13.251363+00:00",
+  "summary": "该论文探讨了在AI系统对齐不完美的情况下，价值函数可能表现出的脆弱性，分析了这种脆弱性如何导致系统行为偏离预期目标，并提出了缓解策略。研究对于理解AI安全性和可靠性具有重要意义，为设计更稳健的对齐机制提供了理论指导。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "security",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-03T11:16:31.295331+00:00"
+}
