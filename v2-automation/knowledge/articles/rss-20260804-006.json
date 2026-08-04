@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260804-006",
+  "title": "Enhancing LLMs with Context-Specific Knowledge for Mitigating Misinformation in SMEs: A RAG-based Modeling and Analysis",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.00006",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-04T10:29:50.456992+00:00",
+  "collected_at": "2026-08-04T10:29:50.456992+00:00",
+  "summary": "该论文提出了一种基于RAG（检索增强生成）的方法，通过注入特定上下文知识来增强大型语言模型（LLM）在中小企业（SME）环境中缓解错误信息的能力。研究重点在于建模和分析如何利用领域特定知识提高LLM的准确性和可靠性，为实际应用提供了有效策略。",
+  "score": 7,
+  "tags": [
+    "rag",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-04T10:32:35.615342+00:00"
+}

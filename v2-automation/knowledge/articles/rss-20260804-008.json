@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260804-008",
+  "title": "CoT-Core: Accelerating LLM Evaluation via CoT-Aware Coreset Selection",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.00014",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-04T10:29:50.457004+00:00",
+  "collected_at": "2026-08-04T10:29:50.457004+00:00",
+  "summary": "该论文提出CoT-Core方法，通过感知思维链（CoT）的核心集选择技术，加速大型语言模型（LLM）的评估过程。它旨在减少评估所需的数据量，同时保持评估准确性，从而提高LLM评估的效率。该研究对LLM评估领域具有实用价值，尤其适用于需要频繁评估的场景。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-04T10:32:35.615348+00:00"
+}

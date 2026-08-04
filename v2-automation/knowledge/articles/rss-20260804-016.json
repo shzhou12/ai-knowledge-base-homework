@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260804-016",
+  "title": "RAG-TESTER: Automated End-to-End Testing of Retrieval-Augmented Large Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.00054",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-04T10:29:50.457045+00:00",
+  "collected_at": "2026-08-04T10:29:50.457045+00:00",
+  "summary": "RAG-TESTER 提出了一种自动化端到端测试框架，用于验证检索增强生成（RAG）系统在真实场景中的可靠性。该框架通过模拟用户查询和评估生成结果，帮助开发者系统性地发现和修复 RAG 管道中的错误，提升应用质量。",
+  "score": 7,
+  "tags": [
+    "rag",
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-04T10:32:35.615376+00:00"
+}
