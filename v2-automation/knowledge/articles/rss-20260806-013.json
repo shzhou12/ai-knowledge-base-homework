@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260806-013",
+  "title": "Improving Auto-Design of Neural PDE Solvers with a Domain-Specific Language",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.04384",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-06T10:32:14.600518+00:00",
+  "collected_at": "2026-08-06T10:32:14.600518+00:00",
+  "summary": "该论文提出了一种结合领域特定语言（DSL）的方法，用于自动设计神经偏微分方程求解器，通过DSL抽象和优化搜索空间，提升了求解器的设计效率和性能。该方法在多个PDE基准上验证了其有效性，展示了在科学计算与深度学习交叉领域的应用潜力。",
+  "score": 8,
+  "tags": [
+    "code-generation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-06T10:33:29.936540+00:00"
+}

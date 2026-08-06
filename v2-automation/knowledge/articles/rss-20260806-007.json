@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260806-007",
+  "title": "Adversarially Robust Abductive Fusion of Pre-trained Transformer-based Perception Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.04190",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-06T10:32:14.600490+00:00",
+  "collected_at": "2026-08-06T10:32:14.600490+00:00",
+  "summary": "该论文提出了一种对抗性鲁棒的溯因融合方法，用于整合多个基于Transformer的预训练感知模型，以增强模型在对抗性攻击下的鲁棒性。该方法通过溯因推理机制有效融合不同模型的输出，在保持性能的同时提升安全性，为多模型融合提供了新的思路。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "security",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-06T10:33:29.936516+00:00"
+}
