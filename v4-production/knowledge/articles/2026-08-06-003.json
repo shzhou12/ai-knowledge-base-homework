@@ -1,0 +1,16 @@
+{
+  "id": "2026-08-06-003",
+  "title": "Shubhamsaboo/awesome-llm-apps",
+  "source": "github",
+  "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+  "collected_at": "2026-08-06T01:48:35.432625+00:00",
+  "summary": "这是一个精选的GitHub仓库，汇集了100多个开源的AI代理、代理技能和RAG（检索增强生成）应用示例。项目旨在为开发者提供丰富的参考实现，涵盖从基础到高级的LLM应用场景，包括对话系统、知识库问答、自动化任务等。所有代码均免费开放，便于学习和二次开发。",
+  "tags": [
+    "AI Agents",
+    "RAG",
+    "LLM应用"
+  ],
+  "relevance_score": 0.95,
+  "category": "llm",
+  "key_insight": "通过大量可复用的开源示例，降低了LLM应用开发的门槛，促进了AI技术的普及和创新。"
+}
