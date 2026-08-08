@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260808-007",
+  "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-08-08T08:31:34.274997+00:00",
+  "collected_at": "2026-08-08T08:31:34.274997+00:00",
+  "summary": "该文章介绍了LFM2.5-2.6B模型，这是一个轻量级本地代理模型，旨在实现边缘设备上的高效部署。它通过优化模型大小和推理性能，使开发者能够在资源受限的环境中运行AI代理，从而扩展了本地AI的应用场景。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "deployment",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-08T08:32:40.344776+00:00"
+}

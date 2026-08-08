@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260808-002",
+  "title": "Oracle bans AI-generated code from OpenJDK",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-08T08:31:32.404557+00:00",
+  "collected_at": "2026-08-08T08:31:32.404557+00:00",
+  "summary": "Oracle 已禁止在 OpenJDK 项目中使用 AI 生成的代码，这一政策旨在确保代码质量和知识产权合规性。该决定对依赖 AI 辅助开发的开发者具有重要影响，并可能引发开源社区对 AI 贡献政策的广泛讨论。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-08T08:32:40.344764+00:00"
+}

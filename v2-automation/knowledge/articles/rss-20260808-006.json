@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260808-006",
+  "title": "Baseten on Hugging Face Inference Providers 🔥",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/baseten",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-08-08T08:31:34.274988+00:00",
+  "collected_at": "2026-08-08T08:31:34.274988+00:00",
+  "summary": "Baseten 现已作为 Hugging Face 推理提供方之一，用户可直接在 Hugging Face 平台上调用 Baseten 托管的模型，简化了模型部署和推理流程。该集成提升了模型访问的便捷性和灵活性，尤其适合需要快速部署和扩展的开发者。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-08T08:32:40.344773+00:00"
+}
