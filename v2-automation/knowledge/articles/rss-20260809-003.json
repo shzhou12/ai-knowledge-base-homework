@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260809-003",
+  "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://blog.cloudflare.com/kitesurf/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-09T08:33:37.217054+00:00",
+  "collected_at": "2026-08-09T08:33:37.217054+00:00",
+  "summary": "Kitesurf 是一款以代理为核心、在 V8 隔离环境中运行的浏览器，旨在提供安全、高效的自动化浏览能力。该技术通过将浏览器逻辑封装在 V8 隔离中，增强了安全性和性能，为 AI 代理的网页交互提供了新的基础设施。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use",
+    "security"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-09T08:34:41.382360+00:00"
+}
