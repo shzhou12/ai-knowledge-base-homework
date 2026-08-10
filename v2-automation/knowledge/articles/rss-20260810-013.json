@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260810-013",
+  "title": "NxN E-valuation: Hypothesis Certification via a Conformal CRT Null",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.06621",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-10T09:11:07.908199+00:00",
+  "collected_at": "2026-08-10T09:11:07.908199+00:00",
+  "summary": "该论文提出了一种名为NxN E-valuation的新型假设验证方法，通过结合共形预测和CRT零模型来提供统计保证的假设认证。该方法在AI模型评估中具有创新性，能够有效处理多重检验问题，提升评估的可靠性和鲁棒性。",
+  "score": 8,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-10T09:12:08.344311+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260810-009",
+  "title": "KNOWPLAN: Knowledge-Driven AI Agents for Smart Degree Pathway Planning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.06530",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-10T09:11:07.908180+00:00",
+  "collected_at": "2026-08-10T09:11:07.908180+00:00",
+  "summary": "KNOWPLAN提出了一种基于知识驱动的AI代理框架，用于智能学位路径规划，通过整合领域知识和用户上下文来生成个性化的学术规划建议。该框架展示了如何将知识图谱与大型语言模型结合，提升规划任务的准确性和可解释性，为教育领域的AI应用提供了新思路。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-10T09:12:08.344292+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260810-012",
+  "title": "Automated item evaluation: Predicting item acceptance and rejection using LLM-generated critiques",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.06609",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-10T09:11:07.908195+00:00",
+  "collected_at": "2026-08-10T09:11:07.908195+00:00",
+  "summary": "该研究提出利用LLM生成的批评性反馈来自动评估物品的接受与拒绝，通过生成结构化批评来预测决策结果。其核心价值在于将LLM的推理能力应用于自动化评估流程，提升评估的准确性和可解释性。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-10T09:12:08.344308+00:00"
+}

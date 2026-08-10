@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260810-006",
+  "title": "Learning to Predict Middle-Layer Attention in MLLMs for Visual Token Prunin",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.06411",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-10T09:11:07.908164+00:00",
+  "collected_at": "2026-08-10T09:11:07.908164+00:00",
+  "summary": "该论文提出了一种在多模态大语言模型（MLLMs）中预测中间层注意力以进行视觉标记剪枝的方法，旨在减少计算开销并提升推理效率。通过利用中间层的注意力信息，该方法能够有效识别并移除不重要的视觉标记，从而在保持模型性能的同时加速处理。其核心价值在于为多模态模型的部署提供了一种实用的优化策略。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-10T09:12:08.344283+00:00"
+}
