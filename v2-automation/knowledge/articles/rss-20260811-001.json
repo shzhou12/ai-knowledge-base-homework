@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260811-001",
+  "title": "As AI eats the web, the internet’s collective memory is disappearing",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://thewalrus.ca/google-search-is-dying/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-11T08:46:01.752044+00:00",
+  "collected_at": "2026-08-11T08:46:01.752044+00:00",
+  "summary": "文章探讨了AI技术对互联网内容生态的深远影响，指出AI生成内容正在取代人类创作，导致网络集体记忆的流失。这一现象对信息真实性、文化传承和知识管理提出了严峻挑战，值得技术社区关注。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-11T08:47:08.701420+00:00"
+}
