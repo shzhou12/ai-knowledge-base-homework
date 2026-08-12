@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260812-020",
+  "title": "Mendel G\\\"odel Machine: Recursive Self-Improving Coding Agents via Comparative Evolution",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.07645",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-12T09:05:04.521607+00:00",
+  "collected_at": "2026-08-12T09:05:04.521607+00:00",
+  "summary": "该论文提出了一种名为Mendel Gödel Machine的递归自改进编码智能体框架，通过比较进化机制实现代码生成能力的持续提升。核心价值在于将进化算法与自改进逻辑结合，为AI编码智能体的自主优化提供了新思路。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "code-generation",
+    "multi-agent"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-12T09:06:10.703558+00:00"
+}

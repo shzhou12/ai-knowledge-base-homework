@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260812-016",
+  "title": "Controlled Memory Interference in Continual LLM Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.07622",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-12T09:05:04.521589+00:00",
+  "collected_at": "2026-08-12T09:05:04.521589+00:00",
+  "summary": "该论文提出了一种在持续学习的大型语言模型代理中控制记忆干扰的方法，旨在解决代理在长期任务中遗忘旧知识的问题。通过引入记忆干扰控制机制，该方法能够提升代理在连续任务中的稳定性和适应性，为构建更可靠的终身学习AI系统提供了新思路。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "agent",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-12T09:06:10.703545+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260812-014",
+  "title": "TeXFix-Bench: An Empirically Grounded Multi-Format Benchmark for LLM-Based Document Source Repair",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.07617",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-12T09:05:04.521578+00:00",
+  "collected_at": "2026-08-12T09:05:04.521578+00:00",
+  "summary": "该论文提出了TeXFix-Bench，一个用于评估LLM修复文档源（如LaTeX）能力的多格式基准。它基于实证数据构建，旨在推动LLM在文档源修复任务上的发展。该基准为AI在文档处理领域的应用提供了标准化评估工具。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-12T09:06:10.703532+00:00"
+}

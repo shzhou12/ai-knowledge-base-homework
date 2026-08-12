@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260812-018",
+  "title": "Agent-MD: Selective LLM Intervention with Event-Driven Escalation for Stateful GCMC--MD Campaigns",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.07637",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-12T09:05:04.521598+00:00",
+  "collected_at": "2026-08-12T09:05:04.521598+00:00",
+  "summary": "该论文提出Agent-MD框架，通过选择性LLM干预和事件驱动的升级机制，优化有状态GCMC-MD模拟流程。核心价值在于减少不必要的LLM调用，同时保证关键事件得到及时处理，提升计算效率与决策质量。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-12T09:06:10.703552+00:00"
+}
