@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260813-017",
+  "title": "Identity from the Outside: A Conceptual Framework and Research Program for AI Personality Clones",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.11225",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-13T09:04:55.901202+00:00",
+  "collected_at": "2026-08-13T09:04:55.901202+00:00",
+  "summary": "该论文提出了一种从外部视角构建AI人格克隆的概念框架和研究计划，强调通过外部观察和交互数据来塑造AI的个性，而非仅依赖内部模型。它为AI人格克隆提供了系统化的方法论，对个性化AI助手和社交机器人领域具有重要价值。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-13T09:06:07.683509+00:00"
+}

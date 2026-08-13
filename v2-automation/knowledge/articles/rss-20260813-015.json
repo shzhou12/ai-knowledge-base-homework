@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260813-015",
+  "title": "A Conceptual Framework for Refining Influence Knowledge from Simulation Evidence in Cyber-Physical Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.11221",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-13T09:04:55.901194+00:00",
+  "collected_at": "2026-08-13T09:04:55.901194+00:00",
+  "summary": "本文提出一个概念框架，用于从网络物理系统的仿真证据中提炼影响知识，旨在系统化地整合仿真结果以支持决策和系统优化。该框架为处理仿真数据中的因果关系提供了结构化方法，具有较高的理论价值和实践潜力。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-13T09:06:07.683503+00:00"
+}
