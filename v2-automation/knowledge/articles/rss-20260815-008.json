@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260815-008",
+  "title": "Position: We Need Practical AI Alignment Methods to Mirror Human Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.12372",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-15T08:18:46.304546+00:00",
+  "collected_at": "2026-08-15T08:18:46.304546+00:00",
+  "summary": "该论文提出了一种实用的人工智能对齐方法，旨在使AI系统的推理过程更贴近人类思维方式，以提高可解释性和安全性。文章强调了当前对齐方法的局限性，并倡导开发更符合人类认知模式的技术路径，为AI安全领域提供了新的研究方向。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-15T08:19:50.081944+00:00"
+}

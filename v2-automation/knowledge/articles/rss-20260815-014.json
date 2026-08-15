@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260815-014",
+  "title": "MindMemOS: A Portable and Self-Evolving Memory Operating Layer for AI Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.12428",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-15T08:18:46.304574+00:00",
+  "collected_at": "2026-08-15T08:18:46.304574+00:00",
+  "summary": "MindMemOS 提出了一种可移植且自进化的记忆操作系统层，旨在为 AI 代理提供持久、动态更新的记忆管理能力，从而提升代理在复杂任务中的表现和适应性。该工作通过模块化设计实现记忆的跨环境迁移和自动优化，为代理系统的高效运行提供了新的基础设施。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "memory",
+    "self-evolving"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-15T08:19:50.081969+00:00"
+}

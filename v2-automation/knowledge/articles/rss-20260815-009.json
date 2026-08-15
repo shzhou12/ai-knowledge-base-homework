@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260815-009",
+  "title": "Don't Want Your LLM to Recommend Nuclear Strike? Try Asking It in Japanese",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.12373",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-15T08:18:46.304551+00:00",
+  "collected_at": "2026-08-15T08:18:46.304551+00:00",
+  "summary": "该研究探讨了通过改变提问语言（如使用日语）来影响大型语言模型（LLM）的安全决策，发现语言差异可能导致模型对危险指令（如核打击）的响应不同。这一发现揭示了LLM在多语言环境下的安全漏洞，并为安全对齐提供了新的视角。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "security",
+    "prompt-engineering"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-15T08:19:50.081948+00:00"
+}

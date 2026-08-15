@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260815-006",
+  "title": "Agreement Is Not Alignment: Divergent Moral Grounds in Human and LLM Ethical Judgments",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.12368",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-15T08:18:46.304533+00:00",
+  "collected_at": "2026-08-15T08:18:46.304533+00:00",
+  "summary": "该研究探讨了人类与大型语言模型（LLM）在道德判断上的分歧，指出即使表面意见一致，其背后的道德基础可能截然不同。通过分析人类和LLM对伦理困境的反应，揭示了LLM在道德推理中可能缺乏人类所依赖的深层道德原则，这对AI伦理对齐提出了重要挑战。该研究为理解和改进AI系统的伦理决策提供了关键见解。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-15T08:19:50.081938+00:00"
+}

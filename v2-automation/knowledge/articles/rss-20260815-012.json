@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260815-012",
+  "title": "Research Assistant: AstraZeneca's Agentic System for R&amp;D",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.12395",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-15T08:18:46.304566+00:00",
+  "collected_at": "2026-08-15T08:18:46.304566+00:00",
+  "summary": "本文介绍了阿斯利康研发部门构建的智能体系统，该系统利用AI代理技术辅助科研工作，旨在提升研发效率和加速药物发现。核心价值在于展示了大型制药企业如何将AI代理集成到实际研发流程中，为行业提供了实践案例。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-15T08:19:50.081962+00:00"
+}
