@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260816-009",
+  "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-08-16T08:20:00.977885+00:00",
+  "collected_at": "2026-08-16T08:20:00.977885+00:00",
+  "summary": "LFM2.5-VL-3B 是一个为边缘设备优化的视觉语言模型，旨在提供更快、更强的视觉能力。该模型通过高效的设计，在资源受限的环境下实现了先进的视觉理解性能，适合部署在边缘计算场景中。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "deployment",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-16T08:21:03.061052+00:00"
+}

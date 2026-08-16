@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260816-002",
+  "title": "Working with AI feels more like leadership than coding",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-16T08:19:58.804674+00:00",
+  "collected_at": "2026-08-16T08:19:58.804674+00:00",
+  "summary": "本文探讨了使用AI进行编程时，工作性质从编码向领导力转变的现象，强调开发者需要更多关注任务分配、结果验证和团队协作。文章提供了对AI辅助开发工作流的新视角，有助于开发者调整心态和技能。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "code-generation",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-16T08:21:03.061035+00:00"
+}

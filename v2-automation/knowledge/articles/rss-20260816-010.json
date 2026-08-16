@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260816-010",
+  "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-08-16T08:20:00.977890+00:00",
+  "collected_at": "2026-08-16T08:20:00.977890+00:00",
+  "summary": "本文介绍了一种在保持与ACE（Agentic Code Editing）相当性能的同时，通过优化token使用来降低推理成本的方法。文章提出了减少token消耗的技术策略，并展示了在代码编辑任务上的有效性，为高效AI代理提供了实用方案。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "code-generation",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-16T08:21:03.061056+00:00"
+}
