@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260817-014",
+  "title": "Measuring Cross-Task Behavioral Consistency in Language Model Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.13598",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-17T08:34:34.831810+00:00",
+  "collected_at": "2026-08-17T08:34:34.831810+00:00",
+  "summary": "该研究提出了一种衡量语言模型代理在跨任务行为一致性的方法，旨在评估模型在不同任务中是否保持稳定的决策模式。通过引入一致性指标，该工作为代理的可信度和可靠性提供了新的评估维度，对构建更稳健的AI系统具有重要价值。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-17T08:35:36.364973+00:00"
+}

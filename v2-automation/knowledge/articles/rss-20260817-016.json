@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260817-016",
+  "title": "Active Perception for Embodied Disambiguation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.13605",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-17T08:34:34.831819+00:00",
+  "collected_at": "2026-08-17T08:34:34.831819+00:00",
+  "summary": "该论文探讨了具身智能体在感知歧义环境中通过主动感知策略进行消歧的方法，核心在于利用交互式感知动作（如移动、观察）来减少环境不确定性，提升任务执行的准确性和鲁棒性。该研究为具身AI在复杂动态场景中的应用提供了新的技术路径，具有重要的理论与实践价值。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "reasoning",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-17T08:35:36.364979+00:00"
+}

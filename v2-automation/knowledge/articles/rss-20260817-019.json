@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260817-019",
+  "title": "Evaluating Agentic Learning Harness Capabilities Without Labels via the Scaling Hypothesis",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.13608",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-17T08:34:34.831834+00:00",
+  "collected_at": "2026-08-17T08:34:34.831834+00:00",
+  "summary": "本文提出了一种基于缩放假设的无标签评估方法，用于衡量智能体学习框架的能力，无需依赖人工标注数据。该方法通过分析模型规模与性能的关系，为智能体系统的自动评估提供了新思路，具有较高的实用价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-17T08:35:36.364986+00:00"
+}

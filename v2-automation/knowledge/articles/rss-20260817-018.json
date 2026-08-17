@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260817-018",
+  "title": "No Universal Signal Predicts Sample-Level LLM Regression under Version Updates",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.13607",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-17T08:34:34.831827+00:00",
+  "collected_at": "2026-08-17T08:34:34.831827+00:00",
+  "summary": "该研究系统评估了LLM版本更新后样本级性能回归的可预测性，发现不存在通用的信号能准确预测单个样本的回归现象。研究通过多种模型和任务验证了该结论，对模型更新评估和部署策略具有重要参考价值。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-17T08:35:36.364984+00:00"
+}

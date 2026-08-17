@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260817-003",
+  "title": "Patterns and problems in emerging multi-agent systems",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.anthropic.com/research/multiagent-systems",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-17T08:34:34.053833+00:00",
+  "collected_at": "2026-08-17T08:34:34.053833+00:00",
+  "summary": "本文探讨了新兴多智能体系统中的常见模式与挑战，分析了智能体协作、通信及任务分配等关键问题，为构建可靠的多智能体应用提供了实践指导。内容兼具理论深度与工程视角，对理解当前多智能体技术趋势具有较高参考价值。",
+  "score": 8,
+  "tags": [
+    "multi-agent",
+    "agent",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-17T08:35:36.364939+00:00"
+}

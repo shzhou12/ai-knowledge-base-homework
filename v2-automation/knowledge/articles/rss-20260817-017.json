@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260817-017",
+  "title": "MobileMem: Learning from a Year of Mobile Experiences",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.13606",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-17T08:34:34.831823+00:00",
+  "collected_at": "2026-08-17T08:34:34.831823+00:00",
+  "summary": "MobileMem 论文基于一年的移动设备使用数据，提出了一种从移动体验中学习的方法，旨在提升AI对用户行为的理解和个性化服务能力。该研究为移动端AI应用提供了新的数据驱动视角，具有实际应用价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-17T08:35:36.364981+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "github-20260817-018",
+  "title": "Hmbown/CodeWhale",
+  "source": "github",
+  "source_url": "https://github.com/Hmbown/CodeWhale",
+  "author": "Hmbown",
+  "published_at": "2026-08-17T08:23:22Z",
+  "collected_at": "2026-08-17T08:34:33.786941+00:00",
+  "summary": "CodeWhale 是一个开源的、社区驱动的代理框架，旨在为开发者提供构建和部署 AI 代理的灵活工具。它强调可扩展性和社区协作，适合用于开发自定义的智能代理应用。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-17T08:35:36.364922+00:00"
+}

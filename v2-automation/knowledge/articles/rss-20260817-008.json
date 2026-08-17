@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260817-008",
+  "title": "Depth-Aware Sensitivity Analysis of Mixture-of-Experts Models via Magnitude-Based Expert Masking",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.13565",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-17T08:34:34.831779+00:00",
+  "collected_at": "2026-08-17T08:34:34.831779+00:00",
+  "summary": "该论文提出了一种基于幅度的专家掩蔽方法，用于对混合专家模型进行深度感知的敏感性分析。通过识别和掩蔽对模型输出影响最大的专家，该方法能够揭示模型内部不同层和专家的重要性，为模型压缩和解释性提供新视角。其核心价值在于提供了一种高效且可解释的工具，用于理解和优化MoE架构。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-17T08:35:36.364949+00:00"
+}
