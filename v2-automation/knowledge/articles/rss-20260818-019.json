@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260818-019",
+  "title": "OGX: An Open-Source, Vendor-Neutral Generative AI Application Server",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.14580",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-18T08:27:10.102941+00:00",
+  "collected_at": "2026-08-18T08:27:10.102941+00:00",
+  "summary": "OGX 是一个开源的、供应商中立的生成式 AI 应用服务器，旨在提供标准化的部署和管理接口，简化 AI 应用的集成与运维。其核心价值在于降低对特定云厂商的依赖，提升 AI 应用的可移植性和互操作性。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-18T08:28:15.667241+00:00"
+}
