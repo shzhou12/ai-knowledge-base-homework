@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260819-011",
+  "title": "Memory Is Communication: The Frontier Between Remembering and Signaling",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.17053",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-19T08:27:35.624707+00:00",
+  "collected_at": "2026-08-19T08:27:35.624707+00:00",
+  "summary": "该论文探讨了记忆系统在AI代理中的通信角色，提出记忆不仅是存储机制，更是代理间信号传递的媒介。通过分析记忆与信号传递的边界，为设计更高效的记忆共享和协作推理提供了理论框架，对多代理系统和RAG设计具有指导意义。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "rag",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-19T08:28:41.376542+00:00"
+}
