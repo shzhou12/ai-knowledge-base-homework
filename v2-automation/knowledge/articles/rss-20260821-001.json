@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260821-001",
+  "title": "Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.18078",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-21T08:31:40.236637+00:00",
+  "collected_at": "2026-08-21T08:31:40.236637+00:00",
+  "summary": "该论文探讨了AI推理代理在做出市场决策时可能产生的合谋风险，并论证了对此类系统进行认证的必要性。研究揭示了多代理系统中潜在的安全漏洞，提出了通过认证要求来缓解这些风险的政策建议，为AI安全治理提供了新的视角。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "security",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-21T08:32:43.986150+00:00"
+}

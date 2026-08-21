@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260821-003",
+  "title": "Large Language Models in Mental Health: A Systematic Review of Applications, Innovations, and Ethical Challenges",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.18080",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-21T08:31:40.236675+00:00",
+  "collected_at": "2026-08-21T08:31:40.236675+00:00",
+  "summary": "本文系统综述了大型语言模型在心理健康领域的应用、创新及伦理挑战，涵盖了从诊断辅助到治疗干预的多种场景，并探讨了隐私、偏见等关键问题。该研究为AI在心理健康领域的应用提供了全面的技术概览和伦理指导，具有重要的参考价值。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "evaluation",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-21T08:32:43.986169+00:00"
+}

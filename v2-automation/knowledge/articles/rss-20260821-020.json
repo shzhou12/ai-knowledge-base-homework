@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260821-020",
+  "title": "Looped Language Models Improve Compositional Tool Calling",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.18171",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-21T08:31:40.236759+00:00",
+  "collected_at": "2026-08-21T08:31:40.236759+00:00",
+  "summary": "该论文提出了一种循环语言模型架构，通过迭代处理工具调用结果来提升组合性工具调用的能力。该方法在多个基准测试上显著优于传统单次调用模型，展示了循环机制在复杂任务分解与工具协同中的潜力。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "tool-use",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-21T08:32:43.986226+00:00"
+}

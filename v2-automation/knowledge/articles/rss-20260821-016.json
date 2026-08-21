@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260821-016",
+  "title": "FraudBench: Stress-Testing Policy-Grounded Banking Agents Against Adaptive Fraud",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.18136",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-21T08:31:40.236741+00:00",
+  "collected_at": "2026-08-21T08:31:40.236741+00:00",
+  "summary": "FraudBench 是一个针对银行智能体在应对自适应欺诈场景下的压力测试基准，通过策略约束的智能体评估其鲁棒性。该研究提供了新的评估框架，有助于提升金融AI系统的安全性和可靠性。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "evaluation",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-21T08:32:43.986215+00:00"
+}
