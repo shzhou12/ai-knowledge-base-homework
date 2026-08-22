@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260822-005",
+  "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://github.com/zachahn/vomit",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-22T08:19:59.670098+00:00",
+  "collected_at": "2026-08-22T08:19:59.670098+00:00",
+  "summary": "该内容介绍了一种通过独立LLM清理Claude 5模型token输出的技术方案，旨在提升生成文本的质量和可读性。该方法可能涉及后处理步骤，利用另一模型对原始输出进行优化，适用于需要高精度输出的应用场景。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-22T08:21:07.088989+00:00"
+}

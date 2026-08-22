@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260822-009",
+  "title": "How Much Memory Does Your Agent Actually Need?",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-08-22T08:20:01.161523+00:00",
+  "collected_at": "2026-08-22T08:20:01.161523+00:00",
+  "summary": "本文探讨了AI代理在实际应用中所需的内存大小问题，分析了不同任务场景下内存需求的变化，并提供了优化内存使用的实用建议。内容对构建高效AI代理系统具有重要参考价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-22T08:21:07.089005+00:00"
+}

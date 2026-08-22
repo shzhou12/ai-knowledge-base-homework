@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260822-006",
+  "title": "Don't paste the AI, please",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://dontpastetheai.com/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-22T08:19:59.670106+00:00",
+  "collected_at": "2026-08-22T08:19:59.670106+00:00",
+  "summary": "文章标题'Don't paste the AI, please'强调在AI应用中不应简单复制粘贴AI生成内容，而应注重上下文整合与人工审查。核心价值在于提醒开发者关注AI输出的质量控制和实际应用场景的适配性。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-22T08:21:07.088992+00:00"
+}
