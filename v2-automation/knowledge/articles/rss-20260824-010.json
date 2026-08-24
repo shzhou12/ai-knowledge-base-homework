@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260824-010",
+  "title": "Nexus: Depth-Adaptive KV-Cache Splicing and Retrieval-Decoupled Tool Routing for Agentic LLMs on Unified Memory",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.20397",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-24T08:39:05.078283+00:00",
+  "collected_at": "2026-08-24T08:39:05.078283+00:00",
+  "summary": "该论文提出了一种针对统一内存架构上代理型大语言模型（LLMs）的深度自适应KV缓存拼接与检索解耦工具路由方法，旨在优化内存使用和工具调用效率。通过动态调整KV缓存深度并解耦检索与工具路由，该方法提升了代理任务中的推理性能和资源利用率。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "llm",
+    "deployment",
+    "tool-use"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-24T08:40:11.848782+00:00"
+}

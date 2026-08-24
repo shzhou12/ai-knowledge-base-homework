@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260824-019",
+  "title": "Lost in Translation: How Universal Ethical Values Fail to Translate Across Global Contexts",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.20490",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-24T08:39:05.078337+00:00",
+  "collected_at": "2026-08-24T08:39:05.078337+00:00",
+  "summary": "该论文探讨了普遍伦理价值观在全球不同文化背景下翻译和应用的失败问题，分析了伦理原则在跨文化语境中的语义和语境偏差。研究为AI伦理对齐提供了跨文化视角，强调了本地化伦理适配的重要性。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-24T08:40:11.848809+00:00"
+}

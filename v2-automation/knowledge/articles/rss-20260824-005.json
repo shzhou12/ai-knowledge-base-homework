@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260824-005",
+  "title": "PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.20342",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-24T08:39:05.078250+00:00",
+  "collected_at": "2026-08-24T08:39:05.078250+00:00",
+  "summary": "该论文提出PrimeAgentOrchestrator，一种基于记忆预激活的智能体生成框架，用于个人AI基础设施。其核心价值在于通过记忆机制提升多智能体系统的响应效率与个性化能力，为个人AI部署提供可扩展的架构方案。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "memory"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-24T08:40:11.848755+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260824-006",
+  "title": "Truth Lies Deep: Countering Semantic Camouflage via Latent Intent Verification",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.20378",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-24T08:39:05.078262+00:00",
+  "collected_at": "2026-08-24T08:39:05.078262+00:00",
+  "summary": "该论文提出了一种通过潜在意图验证来对抗语义伪装的技术方法，旨在识别和应对AI系统中被隐藏或误导的语义信息。其核心价值在于提升AI系统对复杂欺骗性输入的鲁棒性和安全性。",
+  "score": 7,
+  "tags": [
+    "security",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-24T08:40:11.848758+00:00"
+}
