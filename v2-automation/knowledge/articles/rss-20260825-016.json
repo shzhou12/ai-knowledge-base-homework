@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260825-016",
+  "title": "Software Frameworks for Explainable AI in Time Series Classification: A Systematic Review",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.21449",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-25T08:33:29.392672+00:00",
+  "collected_at": "2026-08-25T08:33:29.392672+00:00",
+  "summary": "本文系统综述了用于时间序列分类的可解释AI软件框架，涵盖现有工具、方法及其应用场景，为研究者提供了技术选型参考。该综述梳理了该领域的最新进展，并指出了未来研究方向，具有较高的实用价值。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-25T08:34:26.213916+00:00"
+}

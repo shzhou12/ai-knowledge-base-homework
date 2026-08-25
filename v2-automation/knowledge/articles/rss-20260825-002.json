@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260825-002",
+  "title": "AIREP: A Protocol for Per-Decision Evidence in AI Runtime Governance",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.21363",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-25T08:33:29.392599+00:00",
+  "collected_at": "2026-08-25T08:33:29.392599+00:00",
+  "summary": "AIREP 提出了一种用于 AI 运行时治理的协议，旨在为每个决策提供证据记录，以增强 AI 系统的透明度和可审计性。该协议通过标准化证据收集和报告机制，支持对 AI 行为进行实时监控和事后审查，有助于提升 AI 治理的可靠性和合规性。",
+  "score": 7,
+  "tags": [
+    "security",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-25T08:34:26.213868+00:00"
+}

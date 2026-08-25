@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260825-019",
+  "title": "Quantifying geographic domain shift to decouple the geospatial transferability of human mobility flow generation models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.21567",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-25T08:33:29.392688+00:00",
+  "collected_at": "2026-08-25T08:33:29.392688+00:00",
+  "summary": "该研究量化了地理域偏移，以解耦人类流动性生成模型的地理可迁移性，提出了一种评估和提升模型跨区域泛化能力的方法。其价值在于为地理空间AI模型的可靠性提供理论依据和实践指导。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-25T08:34:26.213924+00:00"
+}

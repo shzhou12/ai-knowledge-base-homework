@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260825-006",
+  "title": "SchemaRouter: Field-Aware Tool Routing for Efficient Heterogeneous Agentic RAG",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.21375",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-25T08:33:29.392628+00:00",
+  "collected_at": "2026-08-25T08:33:29.392628+00:00",
+  "summary": "SchemaRouter 提出了一种字段感知的工具路由机制，用于在异构代理检索增强生成（RAG）系统中高效地选择和调度工具。通过利用工具的模式信息，该方法提升了路由准确性和系统效率，为复杂代理工作流中的工具管理提供了新的解决方案。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "rag",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-25T08:34:26.213882+00:00"
+}

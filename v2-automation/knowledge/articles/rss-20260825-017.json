@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260825-017",
+  "title": "Enhanced Artificial Neural Networks Using QHAdamW in Air Quality Forecasting",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.21463",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-25T08:33:29.392679+00:00",
+  "collected_at": "2026-08-25T08:33:29.392679+00:00",
+  "summary": "该研究提出将QHAdamW优化器应用于人工神经网络，用于空气质量预测任务，通过改进优化算法提升模型预测精度和收敛速度。该方法在空气质量数据集上验证了有效性，为环境监测领域的深度学习应用提供了优化方案。",
+  "score": 7,
+  "tags": [
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-25T08:34:26.213919+00:00"
+}

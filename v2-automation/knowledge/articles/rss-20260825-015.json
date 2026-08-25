@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260825-015",
+  "title": "Agentic AI for Safety-critical Multi-drone Systems: Challenges and Opportunities",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.21444",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-25T08:33:29.392668+00:00",
+  "collected_at": "2026-08-25T08:33:29.392668+00:00",
+  "summary": "该论文探讨了将智能体AI（Agentic AI）应用于安全关键的多无人机系统中的挑战与机遇，重点分析了自主决策、实时响应和系统可靠性等问题。文章提出了潜在的研究方向，旨在推动智能体AI在无人机协同任务中的安全部署，具有重要的理论价值和实践指导意义。",
+  "score": 8,
+  "tags": [
+    "multi-agent",
+    "deployment",
+    "security"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-25T08:34:26.213913+00:00"
+}

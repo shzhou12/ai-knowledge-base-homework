@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260825-008",
+  "title": "There Is No Neutral Harness: Modern LLM Leaderboards Are Manufactured by Config-Fragile Items",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.21382",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-25T08:33:29.392638+00:00",
+  "collected_at": "2026-08-25T08:33:29.392638+00:00",
+  "summary": "该论文指出现代LLM排行榜的排名结果严重依赖于评测配置中的脆弱项，如解码参数、提示模板等，导致排名不可靠。作者通过实验证明这些配置因素对模型性能有显著影响，并呼吁建立更稳健的评测方法。该研究对LLM评估领域具有重要警示意义，推动评测标准的改进。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-25T08:34:26.213888+00:00"
+}

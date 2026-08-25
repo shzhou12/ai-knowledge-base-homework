@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260825-020",
+  "title": "A Reproducible, License-Aware Distillation Recipe for CPUDeployable Safety Classification",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.21570",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-25T08:33:29.392694+00:00",
+  "collected_at": "2026-08-25T08:33:29.392694+00:00",
+  "summary": "该论文提出了一种可复现的、考虑许可证限制的蒸馏方法，用于在CPU上部署安全分类模型，解决了资源受限环境下的安全分类问题。通过蒸馏技术，在保持较高分类性能的同时显著降低模型部署成本，为实际应用提供了实用方案。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "security",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-25T08:34:26.213927+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260825-018",
+  "title": "Let Credit Follow Computation: Architecture-Aware Credit Transport for Large Language Model Reinforcement Learning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.21501",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-25T08:33:29.392684+00:00",
+  "collected_at": "2026-08-25T08:33:29.392684+00:00",
+  "summary": "该论文提出了一种架构感知的信用传输方法，用于大型语言模型强化学习，通过让信用跟随计算路径流动，解决了传统信用分配在分布式和异构计算架构中的效率问题。该方法显著提升了训练稳定性和样本效率，为大规模RL训练提供了新的优化方向。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-25T08:34:26.213922+00:00"
+}
