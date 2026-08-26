@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260826-020",
+  "title": "Serving Masked Diffusion LLMs: Characterization and Design Principles from Real Hardware",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.23807",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-26T08:34:37.662955+00:00",
+  "collected_at": "2026-08-26T08:34:37.662955+00:00",
+  "summary": "本文基于真实硬件环境，对掩码扩散大语言模型（Masked Diffusion LLMs）的服务性能进行了系统表征，并提出了设计原则。研究揭示了此类模型在推理延迟、吞吐量和资源利用方面的独特特性，为优化其部署提供了实用指导。该工作填补了扩散式LLM在实际服务场景中性能分析的空白，对高效推理系统设计具有重要参考价值。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-26T08:35:43.137594+00:00"
+}

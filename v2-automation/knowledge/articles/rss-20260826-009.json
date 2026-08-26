@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260826-009",
+  "title": "Auditing the Synthetic Memoir: Measuring Scene-Level Confabulation in LLM-Generated Autobiography Against the Documented Record of the Life It Describes",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.23640",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-26T08:34:37.662905+00:00",
+  "collected_at": "2026-08-26T08:34:37.662905+00:00",
+  "summary": "该研究针对大型语言模型生成自传时可能出现的场景级虚构（confabulation）问题，提出了一种审计方法，通过将生成的文本与真实生活记录进行对比，衡量虚构程度。这项工作为评估LLM在个人叙事生成中的事实准确性提供了新视角，对AI伦理和可靠性研究具有参考价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-26T08:35:43.137563+00:00"
+}

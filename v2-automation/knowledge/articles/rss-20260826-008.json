@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260826-008",
+  "title": "Function-Level Execution Feedback for Code Preference Optimization",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.23632",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-26T08:34:37.662900+00:00",
+  "collected_at": "2026-08-26T08:34:37.662900+00:00",
+  "summary": "该论文提出了一种在代码偏好优化过程中利用函数级执行反馈的新方法，旨在通过更细粒度的运行时信息提升代码生成模型的性能。该方法可能通过将执行结果作为偏好信号，优化模型对代码正确性和功能性的理解，从而增强代码生成质量。其核心价值在于将执行反馈融入偏好学习，为代码生成任务提供更有效的训练信号。",
+  "score": 8,
+  "tags": [
+    "code-generation",
+    "fine-tuning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-26T08:35:43.137558+00:00"
+}

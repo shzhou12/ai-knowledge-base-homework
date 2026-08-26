@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260826-003",
+  "title": "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.23568",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-26T08:34:37.662842+00:00",
+  "collected_at": "2026-08-26T08:34:37.662842+00:00",
+  "summary": "该论文提出RENDER方法，用于在LLM记忆评估中控制面向读者的证据，旨在提升评估的可靠性和可解释性。通过引入可控的证据生成机制，该方法有助于更准确地衡量模型记忆能力，并支持细粒度的性能分析。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-26T08:35:43.137539+00:00"
+}

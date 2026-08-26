@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260826-006",
+  "title": "A survey detection channel overrides the pixels in an astronomical foundation model, and biases tomographic mean redshifts",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.23626",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-26T08:34:37.662890+00:00",
+  "collected_at": "2026-08-26T08:34:37.662890+00:00",
+  "summary": "该研究探讨了天文基础模型中的检测通道如何覆盖像素信息，并导致层析红移估计出现偏差。通过分析检测通道对模型输出的影响，揭示了基础模型在天文图像处理中的潜在局限性，为改进模型设计提供了重要参考。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-26T08:35:43.137548+00:00"
+}
