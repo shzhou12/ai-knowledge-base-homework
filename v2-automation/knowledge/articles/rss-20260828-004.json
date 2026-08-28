@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260828-004",
+  "title": "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.26109",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-28T19:49:10.620134+00:00",
+  "collected_at": "2026-08-28T19:49:10.620134+00:00",
+  "summary": "该研究探讨了使用独立的大型语言模型（LLM）与预定义的智能体流水线来解释ICU死亡率预测的可行性，基于eICU演示数据集进行验证。研究旨在通过自然语言生成可解释的预测理由，提升临床决策支持系统的透明度和可信度。核心价值在于评估LLM在医疗领域解释性任务中的潜力，并为后续研究提供基线方法。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-28T19:50:13.862179+00:00"
+}

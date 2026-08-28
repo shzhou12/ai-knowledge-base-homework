@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260828-007",
+  "title": "CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework for Financial Query Answering",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.26114",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-28T19:49:10.620159+00:00",
+  "collected_at": "2026-08-28T19:49:10.620159+00:00",
+  "summary": "该论文提出了CIFQA，一个确定性的、基于工具的多智能体LLM框架，用于金融查询回答。它通过将查询分解为子任务并调用外部工具，提高了回答的准确性和可解释性，为金融领域的复杂问题解答提供了可靠的解决方案。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "tool-use",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-28T19:50:13.862189+00:00"
+}

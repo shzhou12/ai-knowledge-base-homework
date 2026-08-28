@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260828-020",
+  "title": "Refusal Is Not Robustness: Auditing Confident Fabrication in Large Language Models on a Provably Uninformative Clinical Pain Speech Transcript",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.26167",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-28T19:49:10.620223+00:00",
+  "collected_at": "2026-08-28T19:49:10.620223+00:00",
+  "summary": "该论文指出，大型语言模型在接收到无法提供有效信息的临床疼痛语音转录时，会自信地生成虚构内容，并强调拒绝生成并不等同于模型的鲁棒性。研究通过审计方法揭示了模型在信息不足情况下的幻觉行为，为评估和改进LLM的可靠性提供了重要视角。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-28T19:50:13.862232+00:00"
+}

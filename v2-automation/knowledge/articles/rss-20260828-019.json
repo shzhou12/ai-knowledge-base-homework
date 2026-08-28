@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260828-019",
+  "title": "A Task-Centric Ontology and Deterministic Domain Rules as a Verifiable Core for AI-Assisted Chemistry Problem Solving",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.26164",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-28T19:49:10.620219+00:00",
+  "collected_at": "2026-08-28T19:49:10.620219+00:00",
+  "summary": "该论文提出了一种以任务为中心的化学问题求解本体论和确定性领域规则，作为AI辅助化学问题求解的可验证核心。通过将化学知识结构化并引入确定性规则，增强了AI系统在化学推理中的可靠性和可解释性，为科学AI应用提供了新的方法论。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-28T19:50:13.862229+00:00"
+}

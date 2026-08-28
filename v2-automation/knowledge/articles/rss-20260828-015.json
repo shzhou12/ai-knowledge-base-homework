@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260828-015",
+  "title": "Selection Bias Correction in Retail Intelligence",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.26156",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-28T19:49:10.620201+00:00",
+  "collected_at": "2026-08-28T19:49:10.620201+00:00",
+  "summary": "该论文提出了一种在零售智能分析中修正选择偏差的方法，通过统计建模和因果推断技术提高数据驱动的决策准确性。其核心价值在于解决零售数据中因非随机样本选择导致的估计偏差问题，从而提升推荐系统和需求预测的可靠性。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-28T19:50:13.862218+00:00"
+}
