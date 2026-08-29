@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260829-004",
+  "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-08-29T13:31:12.357611+00:00",
+  "collected_at": "2026-08-29T13:31:12.357611+00:00",
+  "summary": "本文介绍了一种名为Quantization-Aware Healing的技术，通过该技术可以在4-bit量化模型上实现超越原始全精度模型的性能。该技术通过特定的训练或微调策略，在量化过程中补偿精度损失，从而提升模型在低比特下的表现。这一方法为在资源受限环境中部署高性能模型提供了新思路。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "deployment",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-29T13:32:16.025572+00:00"
+}
