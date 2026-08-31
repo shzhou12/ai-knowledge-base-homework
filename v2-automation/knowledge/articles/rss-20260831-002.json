@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260831-002",
+  "title": "The Rise and Fall of Agent Civilizations",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.dwarkesh.com/p/openai-huggingface",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-31T15:43:51.179634+00:00",
+  "collected_at": "2026-08-31T15:43:51.179634+00:00",
+  "summary": "本文探讨了AI代理文明的兴衰，分析了代理系统在技术演进中的生命周期，以及其背后的关键因素。文章提供了对代理技术发展轨迹的深刻见解，有助于理解当前AI代理领域的趋势与挑战。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-31T15:44:57.671351+00:00"
+}

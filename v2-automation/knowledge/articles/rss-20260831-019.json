@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260831-019",
+  "title": "LongGuard: Mechanistic Analysis and Training-Free Mitigation of Long-Context Failure in Safety Guardrails",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.27580",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-31T15:43:52.110032+00:00",
+  "collected_at": "2026-08-31T15:43:52.110032+00:00",
+  "summary": "LongGuard 通过机制分析揭示了安全护栏在长上下文场景下失效的原因，并提出了一种无需训练的缓解方法，有效提升了长上下文中的安全性能。该工作为长上下文安全提供了新的视角和实用解决方案。",
+  "score": 8,
+  "tags": [
+    "security",
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-31T15:44:57.671409+00:00"
+}
