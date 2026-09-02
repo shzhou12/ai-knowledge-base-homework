@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260902-019",
+  "title": "IMPACT: Attention Is the Interaction Map for Scalable Interaction-Aware World Model Training",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.00161",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-02T12:26:06.213090+00:00",
+  "collected_at": "2026-09-02T12:26:06.213090+00:00",
+  "summary": "IMPACT 提出了一种基于注意力机制的世界模型训练方法，将交互建模为可扩展的交互图，以提升多智能体或复杂环境下的预测性能。该方法通过注意力映射实现高效交互感知，适用于大规模世界模型训练，具有较好的扩展性和实用性。",
+  "score": 8,
+  "tags": [
+    "multi-agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-02T12:27:19.881635+00:00"
+}

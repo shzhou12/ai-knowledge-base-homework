@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260902-005",
+  "title": "I-CARE: Analysis of interference-related phenomena in a controllable, diverse and representative unlearning setting for text-to-image models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.00003",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-02T12:26:06.213019+00:00",
+  "collected_at": "2026-09-02T12:26:06.213019+00:00",
+  "summary": "该论文提出了I-CARE框架，用于在文本到图像模型中可控、多样且具代表性的遗忘设置下分析干扰相关现象，旨在提升模型遗忘的精确性和安全性。其核心价值在于为AI模型的安全性和隐私保护提供了系统性的评估方法。",
+  "score": 8,
+  "tags": [
+    "vision",
+    "security",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-02T12:27:19.881587+00:00"
+}

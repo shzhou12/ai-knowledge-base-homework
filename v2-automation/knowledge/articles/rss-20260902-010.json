@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260902-010",
+  "title": "SCAFFOLD: A Large-Scale Structured Dataset of Computer Science Research Figures with Diagram QA and Chain-of-Thought Reasoning Traces",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.00018",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-02T12:26:06.213049+00:00",
+  "collected_at": "2026-09-02T12:26:06.213049+00:00",
+  "summary": "SCAFFOLD 是一个大规模结构化数据集，包含计算机科学研究论文中的图表，并配有图表问答和思维链推理轨迹。该数据集旨在支持图表理解、推理和问答任务，为视觉语言模型的研究提供了丰富的资源。其价值在于推动科学文献中复杂图表的自动理解和推理能力。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-02T12:27:19.881607+00:00"
+}
