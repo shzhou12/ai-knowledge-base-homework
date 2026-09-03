@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260903-006",
+  "title": "When Can a Machine Trust a Statute? A Survival Certificate for Machine-Extracted Legal Logic",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.01741",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-03T12:26:45.037865+00:00",
+  "collected_at": "2026-09-03T12:26:45.037865+00:00",
+  "summary": "该论文探讨了机器从法规文本中提取法律逻辑的可靠性问题，提出了一种“生存证书”机制来验证机器提取的法律逻辑是否可信。研究旨在提升AI在法律领域的应用安全性，通过评估和验证方法确保机器理解的法律规则准确无误。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-03T12:27:43.450807+00:00"
+}

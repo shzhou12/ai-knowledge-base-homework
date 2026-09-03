@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260903-007",
+  "title": "When Does Information Sharing Improve Decentralized Discovery? Aggregation, Independent Rescue, and Equilibrium Selection",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.01814",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-03T12:26:45.037872+00:00",
+  "collected_at": "2026-09-03T12:26:45.037872+00:00",
+  "summary": "该论文研究了在分散式发现任务中，信息共享何时能提升整体性能，通过引入聚合与独立救援机制，并探讨了均衡选择的影响。研究为多智能体协作中的信息策略设计提供了理论依据，有助于优化分布式决策系统的效率。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-03T12:27:43.450810+00:00"
+}
