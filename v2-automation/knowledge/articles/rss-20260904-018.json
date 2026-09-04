@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260904-018",
+  "title": "What Matters for Aggressive Decoding-Time KV Eviction? Temporal Aggregation and Ranking Preservation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.03515",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-04T12:24:51.386081+00:00",
+  "collected_at": "2026-09-04T12:24:51.386081+00:00",
+  "summary": "该论文探讨了在解码时进行激进KV缓存驱逐的关键因素，提出时间聚合与排名保持是维持模型性能的核心。通过分析不同驱逐策略，作者揭示了如何在不显著损失质量的前提下大幅减少KV缓存，从而提升长上下文场景下的推理效率。这项工作为高效LLM推理提供了新的理论指导和实用方法。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "reasoning",
+    "deployment"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-04T12:25:47.042841+00:00"
+}

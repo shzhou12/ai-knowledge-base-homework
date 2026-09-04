@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260904-009",
+  "title": "Caught in the Story: Narrative Captivity in Multi-turn LLMs Conversation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.03407",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-04T12:24:51.386038+00:00",
+  "collected_at": "2026-09-04T12:24:51.386038+00:00",
+  "summary": "该论文探讨了多轮大语言模型对话中的“叙事俘获”现象，即模型可能被用户构建的故事或上下文所引导，偏离客观事实或任务目标。研究通过实验分析这一现象的影响因素，并提出缓解策略，对提升LLM在复杂对话中的鲁棒性和可控性具有重要价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-04T12:25:47.042806+00:00"
+}

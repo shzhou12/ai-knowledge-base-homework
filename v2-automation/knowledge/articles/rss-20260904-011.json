@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260904-011",
+  "title": "DuplexSpeechBench-IFEval: Evaluating Implicit Instruction Following in Full-Duplex Voice Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.03423",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-04T12:24:51.386050+00:00",
+  "collected_at": "2026-09-04T12:24:51.386050+00:00",
+  "summary": "该论文提出了DuplexSpeechBench-IFEval基准，用于评估全双工语音代理在隐式指令遵循方面的能力，填补了现有评估方法主要关注显式指令的空白。通过设计包含隐式指令的对话场景和自动化评估指标，该工作为提升语音代理的实用性和自然交互提供了重要工具。",
+  "score": 8,
+  "tags": [
+    "evaluation",
+    "audio",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-04T12:25:47.042814+00:00"
+}

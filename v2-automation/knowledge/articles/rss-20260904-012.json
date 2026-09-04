@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260904-012",
+  "title": "Do GUI Agents Know When Not to Act? Enabling Conflict-Aware Termination for Multimodal GUI Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.03438",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-04T12:24:51.386054+00:00",
+  "collected_at": "2026-09-04T12:24:51.386054+00:00",
+  "summary": "该论文探讨了多模态GUI代理在任务执行中何时应停止行动的问题，提出了一种冲突感知的终止机制，以避免代理在不确定或冲突情境下继续执行无效操作。该研究通过引入冲突检测与终止决策模块，提升了代理的鲁棒性和用户交互的安全性，对GUI自动化领域具有重要价值。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "vision",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-04T12:25:47.042818+00:00"
+}
