@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260905-020",
+  "title": "GPS-Bench: A Governance Policy Benchmark for Automating Policy Analysis",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.03553",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-05T11:31:37.925764+00:00",
+  "collected_at": "2026-09-05T11:31:37.925764+00:00",
+  "summary": "GPS-Bench 提出了一个用于自动化政策分析的治理政策基准，旨在评估和提升 AI 系统在理解和应用复杂政策文本方面的能力。该基准通过标准化测试场景，为政策分析领域的 AI 应用提供了可量化的评估框架，有助于推动 AI 在公共治理中的可靠部署。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-05T11:32:36.441155+00:00"
+}

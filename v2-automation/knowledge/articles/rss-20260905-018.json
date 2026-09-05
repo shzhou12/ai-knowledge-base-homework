@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260905-018",
+  "title": "Feature Reconfiguration With Visual Prior for Medical Lesion Segmentation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.03535",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-05T11:31:37.925757+00:00",
+  "collected_at": "2026-09-05T11:31:37.925757+00:00",
+  "summary": "该论文提出了一种特征重配置方法，利用视觉先验知识改进医学病灶分割任务。通过将预训练视觉模型中的语义信息融入分割网络的特征层，模型能够更准确地定位和分割病变区域，在多个医学影像数据集上取得了优于现有方法的性能。其核心价值在于为医学图像分析提供了一种有效的特征增强策略，提升了分割精度和鲁棒性。",
+  "score": 7,
+  "tags": [
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-05T11:32:36.441132+00:00"
+}

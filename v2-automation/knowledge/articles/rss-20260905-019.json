@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260905-019",
+  "title": "Dalek: A Constructive Agent Machine",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.03546",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-05T11:31:37.925760+00:00",
+  "collected_at": "2026-09-05T11:31:37.925760+00:00",
+  "summary": "Dalek 提出了一种建设性代理机器架构，旨在通过结构化方法增强AI代理的自主构建与执行能力。该研究为代理系统的设计与实现提供了新思路，可能对多代理协作和复杂任务自动化产生积极影响。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-05T11:32:36.441150+00:00"
+}
