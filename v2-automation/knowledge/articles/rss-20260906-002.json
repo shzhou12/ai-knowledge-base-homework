@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260906-002",
+  "title": "Can AI design circuit boards yet?",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-09-06T11:51:48.196410+00:00",
+  "collected_at": "2026-09-06T11:51:48.196410+00:00",
+  "summary": "本文探讨了当前AI技术在电路板设计领域的应用进展与局限性，分析了AI辅助设计工具的实际能力与挑战。内容为技术社区提供了关于AI在硬件设计领域落地现状的客观评估，具有参考价值。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-06T11:52:42.906284+00:00"
+}

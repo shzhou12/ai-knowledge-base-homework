@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260906-011",
+  "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/allenai/benchmirt",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-09-06T11:51:49.687296+00:00",
+  "collected_at": "2026-09-06T11:51:49.687296+00:00",
+  "summary": "BenchMIRT 探讨了当前 LLM 基准测试的实际测量内容，指出传统基准可能无法准确反映模型在真实任务中的表现。文章分析了基准测试的局限性，并提出改进评估方法的思路，以更全面地衡量 LLM 的能力。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-06T11:52:42.906313+00:00"
+}

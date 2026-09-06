@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260906-009",
+  "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/train-to-paint-with-code",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-09-06T11:51:49.687286+00:00",
+  "collected_at": "2026-09-06T11:51:49.687286+00:00",
+  "summary": "该文章介绍了如何使用TRL和OpenEnv训练一个编码模型来绘制水彩画，展示了将代码生成与视觉艺术结合的技术方法。内容可能涉及强化学习或环境交互在模型训练中的应用，为跨领域AI模型开发提供了实践案例。",
+  "score": 7,
+  "tags": [
+    "fine-tuning",
+    "code-generation",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-06T11:52:42.906307+00:00"
+}

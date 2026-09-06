@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260906-008",
+  "title": "Give Your Coding Agents a Memory You Own",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/funes",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-09-06T11:51:49.687280+00:00",
+  "collected_at": "2026-09-06T11:51:49.687280+00:00",
+  "summary": "本文探讨了如何为编码智能体提供用户自主拥有的记忆机制，强调通过可定制的记忆存储来增强智能体的个性化与连续性。核心价值在于赋予开发者对智能体记忆数据的完全控制权，从而提升代码生成任务的上下文相关性和长期一致性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "code-generation",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-06T11:52:42.906304+00:00"
+}

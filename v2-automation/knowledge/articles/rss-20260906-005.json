@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260906-005",
+  "title": "Discovery of a new OpenAI agent message board",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://collusion.wiki/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-09-06T11:51:48.196429+00:00",
+  "collected_at": "2026-09-06T11:51:48.196429+00:00",
+  "summary": "该内容报道了OpenAI新推出的Agent消息板功能，可能涉及多智能体通信或用户与AI代理交互的新界面。作为Hacker News上的热门讨论，它反映了社区对OpenAI最新代理技术的关注，但缺乏具体技术细节，价值有限。",
+  "score": 6,
+  "tags": [
+    "agent",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-06T11:52:42.906295+00:00"
+}

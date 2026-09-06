@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260906-001",
+  "title": "AI handles incidents, engineers lose touch with their systems",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-09-06T11:51:48.196380+00:00",
+  "collected_at": "2026-09-06T11:51:48.196380+00:00",
+  "summary": "本文探讨了当AI系统接管事件处理时，工程师与系统脱节的风险，强调保持人类监督和系统理解的重要性。文章提供了平衡自动化与人工介入的见解，对运维实践具有参考价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-06T11:52:42.906269+00:00"
+}
