@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260907-007",
+  "title": "A Removal Based Approach to Improve LLM Faithfulness at Test-Time",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.04343",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-07T13:51:07.740844+00:00",
+  "collected_at": "2026-09-07T13:51:07.740844+00:00",
+  "summary": "本文提出了一种基于移除的测试时方法，旨在提升大语言模型（LLM）在生成过程中的忠实度（faithfulness），通过识别并移除导致幻觉的关键输入部分，从而在不重新训练的情况下改善模型输出的可靠性。该方法为提升LLM在推理时的可信度提供了一种新颖且实用的策略。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-07T13:52:08.533228+00:00"
+}

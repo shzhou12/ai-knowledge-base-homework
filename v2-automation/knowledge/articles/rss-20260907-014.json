@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260907-014",
+  "title": "Rethinking Indirect Prompt Injection as a Test-Time Search Problem",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.04495",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-07T13:51:07.740878+00:00",
+  "collected_at": "2026-09-07T13:51:07.740878+00:00",
+  "summary": "本文提出将间接提示注入问题重新定义为测试时搜索问题，通过搜索策略在推理阶段识别和缓解恶意指令，从而增强LLM应用的安全性。该方法为防御提示注入提供了新的理论视角和实用框架。",
+  "score": 8,
+  "tags": [
+    "security",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-07T13:52:08.533250+00:00"
+}
