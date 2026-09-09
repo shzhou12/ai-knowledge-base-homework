@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260909-016",
+  "title": "Reasoning-Aware Compression: Identifying and Protecting Vulnerable Reasoning Circuits for Energy-Efficient LLM Deployment",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.05512",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-09T12:36:56.989846+00:00",
+  "collected_at": "2026-09-09T12:36:56.989846+00:00",
+  "summary": "该论文提出了一种推理感知的压缩方法，通过识别并保护大型语言模型中的关键推理电路，在模型压缩过程中保持推理能力，从而实现能效更高的部署。该方法针对模型压缩对复杂推理任务性能损害的问题，提供了新的解决思路。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "deployment",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-09T12:37:58.456204+00:00"
+}

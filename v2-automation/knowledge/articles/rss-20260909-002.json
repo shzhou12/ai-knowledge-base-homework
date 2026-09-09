@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260909-002",
+  "title": "Muse – Meta’s personal AI agent",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://ai.meta.com/muse/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-09-09T12:36:56.061796+00:00",
+  "collected_at": "2026-09-09T12:36:56.061796+00:00",
+  "summary": "Muse 是 Meta 推出的个人 AI 代理，旨在通过自然交互帮助用户完成日常任务，整合了 Meta 的先进 AI 技术。该产品展示了 AI 代理在个性化助手领域的应用潜力，强调易用性和智能性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-09T12:37:58.456142+00:00"
+}

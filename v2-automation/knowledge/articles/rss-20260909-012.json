@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260909-012",
+  "title": "RAPID: Reliability-Aware Pair Importance Distillation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.05481",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-09T12:36:56.989828+00:00",
+  "collected_at": "2026-09-09T12:36:56.989828+00:00",
+  "summary": "RAPID 提出了一种基于可靠性感知的成对重要性蒸馏方法，旨在提升知识蒸馏过程中对样本对重要性的建模能力，从而增强学生模型的泛化性能。该方法通过引入可靠性权重来优化蒸馏损失，适用于大规模模型压缩场景，具有较高的实用价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-09T12:37:58.456192+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260909-019",
+  "title": "Beyond \"AI Helps Humans\": Decision-Targeted Evaluation Design for Human-Agent Teams in the Agentic Era",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.05527",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-09T12:36:56.989859+00:00",
+  "collected_at": "2026-09-09T12:36:56.989859+00:00",
+  "summary": "该论文提出了一种面向人机协作团队的决策导向评估设计方法，超越了传统的“AI辅助人类”框架，旨在解决智能体时代中人类与AI代理协作的评估难题。其核心价值在于为设计有效的人机团队评估策略提供理论指导，以提升团队整体决策性能。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-09T12:37:58.456214+00:00"
+}

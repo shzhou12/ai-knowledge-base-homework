@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260909-018",
+  "title": "The Failure Happens Before the Drift: The Social Dynamics of Values in LLM Agent Societies",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.05514",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-09T12:36:56.989855+00:00",
+  "collected_at": "2026-09-09T12:36:56.989855+00:00",
+  "summary": "该论文探讨了大型语言模型（LLM）智能体社会中价值观的社会动态，指出价值失败发生在漂移之前，并分析了社会互动如何影响智能体的价值一致性。研究为理解和设计多智能体系统的社会行为提供了新视角，具有重要的理论价值。",
+  "score": 8,
+  "tags": [
+    "multi-agent",
+    "llm",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-09T12:37:58.456211+00:00"
+}

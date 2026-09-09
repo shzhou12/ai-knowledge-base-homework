@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260909-020",
+  "title": "EdgeMem: LLM-Free Agent Memory Construction and Retrieval via Evidence-Preserving Multi-Anchor Hypergraph",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.05553",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-09T12:36:56.989867+00:00",
+  "collected_at": "2026-09-09T12:36:56.989867+00:00",
+  "summary": "EdgeMem 提出了一种无需 LLM 的智能体记忆构建与检索方法，通过证据保留的多锚点超图结构来高效组织和管理记忆，避免了传统 LLM 在记忆处理中的高计算开销。该方法在保持记忆证据完整性的同时，提升了检索准确性和效率，为智能体长期记忆系统提供了新的技术路径。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "rag",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-09T12:37:58.456221+00:00"
+}
