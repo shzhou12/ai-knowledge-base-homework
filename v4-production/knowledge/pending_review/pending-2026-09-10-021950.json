@@ -1,0 +1,208 @@
+{
+  "timestamp": "2026-09-10-021950",
+  "iterations_used": 2,
+  "max_iterations": 2,
+  "last_feedback": "[弱项: technical_depth, originality] 整体结构完整、字段齐全，但存在若干需要修正的实质性问题：\n\n1. 【数据可信度存疑，最严重】stars 数值异常偏高（hermes-agent 243884、ponytail 133494、awesome-llm-apps 136868），与这些项目的真实体量明显不符，疑似采集或字段映射错误。作为知识库审核员，这是首要红线——错误数据会直接污染知识库。建议核对 GitHub API 原始返回值，并增加 stars 合理性校验（如与项目知名度交叉验证）。\n\n2. 【technical_depth 偏弱】五条摘要基本停留在「是什么 + 有什么功能」的复述层面，缺少：\n   - 技术原理（如 Dify 的可视化编排如何映射到执行引擎、LangChain 的抽象层设计）；\n   - 横向对比（LangChain vs Dify 在 Agent 编排上的定位差异）；\n   - 实现细节或架构说明。\n   建议对 framework 类项目补充「与同类框架的差异点」和「核心抽象/关键模块」。\n\n3. 【originality 不足】key_insight 多为对 description 或官方口号的转述（如 ponytail 的「最好的代码是你从未写过的代码」直接来自项目 description），缺乏审核者独立提炼的洞察。建议 key_insight 给出「为什么值得收录/对使用者的实际价值」这类判断性结论。\n\n4. 【分类一致性】awesome-llm-apps 是资源合集（awesome list），归为 category=agent 不够准确，建议新增或归入「resource/collection」类；ponytail 本质是提示词约束方案，归为 agent 也偏宽泛，可考虑「prompt-engineering」。\n\n5. 【relevance_score 与 category 的匹配】ponytail relevance 0.72 却与 0.9 的项目同列，评分标准需说明依据；建议在字段中补充评分理由或统一 rubric。\n\n6. 【formatting 小问题】tags 中英文混用（如「开源」「个性化」与英文标签并存），建议统一语言或明确规范；collected_at 时间戳为 2026 年，需确认是否为测试数据。\n\n改进优先级：先修复 stars 数据错误（阻断性问题），再提升 technical_depth 与 originality。",
+  "analyses": [
+    {
+      "source": "github",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 243884,
+      "language": "Python",
+      "collected_at": "2026-09-10T02:19:17.066121+00:00",
+      "summary": "Hermes Agent 是 NousResearch 推出的开源 AI 智能体项目，核心理念是「与你共同成长的智能体」。项目基于 NousResearch 自研的 Hermes 系列大语言模型构建，强调智能体具备持续学习与个性化演进能力，能够随用户交互不断积累经验、优化行为策略。作为 GitHub 开源项目，它提供了智能体的核心框架与工具调用能力，支持任务规划、记忆管理和多轮交互，旨在打造可长期陪伴用户、逐步适配个人需求的自主 AI 助手。",
+      "tags": [
+        "agent",
+        "llm",
+        "NousResearch",
+        "开源",
+        "个性化"
+      ],
+      "relevance_score": 0.82,
+      "category": "agent",
+      "key_insight": "以「持续成长」为核心设计理念，让智能体通过长期交互实现个性化演进，而非静态部署。"
+    },
+    {
+      "source": "github",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "stars": 155263,
+      "language": "TypeScript",
+      "collected_at": "2026-09-10T02:19:17.066141+00:00",
+      "summary": "Dify 是一个开源的大语言模型应用开发平台，旨在帮助团队在单一协作工作空间中构建 Agentic 工作流和 RAG 管道。它支持丰富的 AI 模型和工具集成，并提供云端、VPC 或自托管部署选项，使团队能够从原型快速过渡到生产环境，而无需重建技术栈。该平台降低了 LLM 应用开发的门槛，通过可视化编排和模块化组件，加速了 AI 应用的迭代与落地。",
+      "tags": [
+        "LLM应用开发",
+        "Agent工作流",
+        "RAG",
+        "低代码平台",
+        "开源"
+      ],
+      "relevance_score": 0.9,
+      "category": "framework",
+      "key_insight": "Dify 通过一体化协作平台和灵活的部署方式，简化了从原型到生产的 LLM 应用开发流程。"
+    },
+    {
+      "source": "github",
+      "title": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "description": "The agent engineering platform.",
+      "stars": 146032,
+      "language": "Python",
+      "collected_at": "2026-09-10T02:19:17.066146+00:00",
+      "summary": "LangChain 是一个用于构建基于大语言模型（LLM）应用的工程平台，专注于智能体（Agent）开发。它提供模块化组件，支持链式调用、工具集成、记忆管理、检索增强生成（RAG）等功能，简化了复杂 LLM 工作流的编排。该项目已成为 LLM 应用开发的主流框架之一，拥有活跃的社区和丰富的生态集成，帮助开发者快速搭建从原型到生产的智能体系统。",
+      "tags": [
+        "LLM",
+        "Agent",
+        "框架",
+        "RAG",
+        "工具集成"
+      ],
+      "relevance_score": 0.95,
+      "category": "framework",
+      "key_insight": "LangChain 通过模块化抽象和工具集成，降低了构建 LLM 智能体应用的门槛，成为该领域的核心工程平台。"
+    },
+    {
+      "source": "github",
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "stars": 136868,
+      "language": "Python",
+      "collected_at": "2026-09-10T02:19:17.066149+00:00",
+      "summary": "这是一个由 Shubhamsaboo 维护的开源项目，汇集了 100 多个基于大语言模型（LLM）的应用示例，涵盖 AI Agents、Agent Skills 以及 RAG（检索增强生成）应用。项目旨在为开发者提供免费、可直接参考的实战代码，帮助快速上手构建各类 LLM 驱动的智能应用。内容覆盖从基础对话代理到复杂多步推理、工具调用与知识库检索等场景，是学习与落地 LLM 应用的高价值资源库。",
+      "tags": [
+        "LLM应用",
+        "AI Agents",
+        "RAG",
+        "开源项目",
+        "实战示例"
+      ],
+      "relevance_score": 0.9,
+      "category": "agent",
+      "key_insight": "一个集中展示 100+ 可运行 LLM 应用的开源合集，是快速获取 Agent 与 RAG 实战代码的捷径。"
+    },
+    {
+      "source": "github",
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 133494,
+      "language": "JavaScript",
+      "collected_at": "2026-09-10T02:19:17.066151+00:00",
+      "summary": "Ponytail 是一个面向 AI 编程代理（AI coding agent）的提示词/行为约束项目，核心理念是让 AI 像团队里最懒的资深开发者一样思考——即优先选择不写代码、少写代码、复用现有方案的解决路径。它通过引导 agent 在动手前先质疑需求必要性、寻找已有实现、避免过度工程，从而减少冗余代码、降低维护成本。该项目属于 AI 辅助软件开发中的「反过度工程」实践，适用于与 Claude Code、Cursor 等编码代理配合使用，帮助开发者获得更精简、更务实的代码建议。",
+      "tags": [
+        "AI Agent",
+        "提示工程",
+        "代码生成",
+        "软件工程",
+        "开发效率"
+      ],
+      "relevance_score": 0.72,
+      "category": "agent",
+      "key_insight": "最好的代码是那些你从未写过的代码——通过约束 AI 代理的「过度生产」倾向，反而能提升软件质量。"
+    },
+    {
+      "source": "github",
+      "title": "earendil-works/pi",
+      "url": "https://github.com/earendil-works/pi",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "stars": 103513,
+      "language": "TypeScript",
+      "collected_at": "2026-09-10T02:19:17.066153+00:00",
+      "summary": "earendil-works/pi 是一个 AI agent 工具包，提供统一的 LLM API 抽象层、agent 循环（agent loop）、终端用户界面（TUI）以及编码 agent 命令行工具（coding agent CLI）。项目旨在将大模型调用、智能体编排与终端交互整合为一体化开发套件，方便开发者快速构建可交互的编码类 AI agent，降低多模型接入与 agent 逻辑实现的重复成本。",
+      "tags": [
+        "AI Agent",
+        "LLM API",
+        "TUI",
+        "Coding Agent",
+        "CLI"
+      ],
+      "relevance_score": 0.8,
+      "category": "agent",
+      "key_insight": "将统一 LLM 接口、agent 循环与终端交互打包成一体化工具包，让编码类 AI agent 的开发与使用更轻量。"
+    },
+    {
+      "source": "github",
+      "title": "infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "stars": 90401,
+      "language": "Go",
+      "collected_at": "2026-09-10T02:19:17.066155+00:00",
+      "summary": "RAGFlow 是一个领先的开源检索增强生成（RAG）引擎，它将前沿的 RAG 技术与 Agent 能力融合，为 LLM 构建更优的上下文层。该项目旨在通过深度文档理解与智能检索，提升生成内容的准确性和相关性，支持复杂问答与任务自动化。",
+      "tags": [
+        "RAG",
+        "Agent",
+        "LLM",
+        "开源",
+        "上下文层"
+      ],
+      "relevance_score": 0.9,
+      "category": "rag",
+      "key_insight": "融合 RAG 与 Agent 能力，为 LLM 提供更强大的上下文理解与生成支持。"
+    },
+    {
+      "source": "github",
+      "title": "OpenHands/OpenHands",
+      "url": "https://github.com/OpenHands/OpenHands",
+      "description": "🙌 OpenHands: AI-Driven Development",
+      "stars": 87120,
+      "language": "TypeScript",
+      "collected_at": "2026-09-10T02:19:17.066162+00:00",
+      "summary": "OpenHands（原OpenDevin）是一个开源的AI驱动软件开发平台，旨在通过AI代理自主完成编程任务。该项目允许AI代理像人类开发者一样编写代码、运行命令、浏览网页、调用API，从而端到端地完成软件开发工作。它提供了沙盒化的运行环境，支持多种LLM后端，并具备交互式对话、任务分解、代码执行与调试等能力。OpenHands定位为通用型AI软件工程代理框架，可应用于自动化编码、Bug修复、功能开发等场景，是当前AI Agent在软件工程领域的重要开源实践之一。",
+      "tags": [
+        "AI Agent",
+        "软件开发",
+        "代码生成",
+        "开源框架",
+        "LLM应用"
+      ],
+      "relevance_score": 0.92,
+      "category": "agent",
+      "key_insight": "OpenHands将LLM驱动的自主代理与真实开发环境结合，推动AI从代码补全走向端到端自主软件工程。"
+    },
+    {
+      "source": "github",
+      "title": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "stars": 82147,
+      "language": "Python",
+      "collected_at": "2026-09-10T02:19:17.066165+00:00",
+      "summary": "DeerFlow 是字节跳动开源的长时程 SuperAgent 框架，面向需要数分钟至数小时才能完成的复杂任务。它整合了沙箱执行、记忆系统、工具调用、技能库、子智能体以及消息网关等核心组件，使智能体能够自主进行研究、编码和内容创作。该框架强调长周期任务的规划与执行能力，通过多智能体协作和外部工具集成，突破传统单轮对话式 Agent 的局限，适用于深度调研、自动化开发等场景。",
+      "tags": [
+        "SuperAgent",
+        "长时程任务",
+        "多智能体",
+        "沙箱",
+        "字节跳动"
+      ],
+      "relevance_score": 0.9,
+      "category": "agent",
+      "key_insight": "通过沙箱、记忆、工具与子智能体的组合，DeerFlow 将 Agent 能力从分钟级对话扩展到小时级复杂任务执行。"
+    },
+    {
+      "source": "github",
+      "title": "unslothai/unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.",
+      "stars": 75958,
+      "language": "Python",
+      "collected_at": "2026-09-10T02:19:17.066168+00:00",
+      "summary": "Unsloth 是一个本地化 LLM 与扩散模型的运行与训练 UI 工具，支持 GGUF、MLX 等格式，并兼容 Qwen3.8、DeepSeek-V4、MiniMax-H3、Gemma 4、FLUX 等主流模型。它降低了本地部署和微调大模型的门槛，提供图形化界面，适合开发者与研究者快速实验。核心优势在于多模型兼容、本地运行、训练与推理一体化，兼顾效率与易用性。",
+      "tags": [
+        "本地部署",
+        "模型训练",
+        "LLM",
+        "扩散模型",
+        "GUI"
+      ],
+      "relevance_score": 0.85,
+      "category": "tool",
+      "key_insight": "Unsloth 通过统一 UI 将多模型本地训练与推理整合，显著降低 LLM 与扩散模型的使用门槛。"
+    }
+  ]
+}
