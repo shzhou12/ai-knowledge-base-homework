@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260910-016",
+  "title": "Multi-Agent Agentic Graph Learning via Structural Signatures",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.09565",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-10T12:35:11.384945+00:00",
+  "collected_at": "2026-09-10T12:35:11.384945+00:00",
+  "summary": "该论文提出了一种多智能体代理图学习方法，通过结构签名（Structural Signatures）来增强智能体之间的协作与图结构学习。其核心价值在于利用结构签名捕获图拓扑特征，提升多智能体系统在复杂图任务中的推理与泛化能力。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-10T12:36:06.367411+00:00"
+}

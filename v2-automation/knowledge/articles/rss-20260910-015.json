@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260910-015",
+  "title": "ContractEval: Query-Conditioned Execution Matching for Procedural Instruction Conformance",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.09458",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-10T12:35:11.384941+00:00",
+  "collected_at": "2026-09-10T12:35:11.384941+00:00",
+  "summary": "本文提出 ContractEval，一种面向程序性指令遵循的查询条件化执行匹配评估方法，旨在解决现有评估方式难以准确判断模型输出是否满足多步骤指令约束的问题。该工作为 LLM 在流程性任务中的合规性验证提供了更细粒度的评估框架，对提升 agent 与工具调用场景的可靠性具有实用价值。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm",
+    "agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-10T12:36:06.367408+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260910-014",
+  "title": "Do Agents Know When They Succeed? Calibrating Agent Confidence from Internal Representations",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.09448",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-10T12:35:11.384936+00:00",
+  "collected_at": "2026-09-10T12:35:11.384936+00:00",
+  "summary": "该论文研究如何从AI智能体的内部表示中校准其成功置信度，使智能体能够判断自身任务是否成功完成。这项工作对于提升自主智能体的可靠性和自我评估能力具有重要价值，有助于在部署中实现更安全的决策。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-10T12:36:06.367405+00:00"
+}
