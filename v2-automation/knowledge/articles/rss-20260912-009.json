@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260912-009",
+  "title": "An Open Recipe for IMO Gold: Training Nemotron for Olympiad Mathematics",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.10712",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-12T11:52:20.021298+00:00",
+  "collected_at": "2026-09-12T11:52:20.021298+00:00",
+  "summary": "该论文介绍了训练 Nemotron 模型在奥林匹克数学竞赛中达到金牌水平的开放方法，通过系统化的训练配方和推理增强技术，显著提升了 LLM 在复杂数学推理任务上的表现。其价值在于提供了可复现的训练流程和评估基准，推动了 AI 在高级数学推理领域的发展。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-12T11:53:14.565510+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260912-006",
+  "title": "A Multi-Stage Rule-Chaining Framework for Compositional and Interpretable Cognitive Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.10654",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-12T11:52:20.021282+00:00",
+  "collected_at": "2026-09-12T11:52:20.021282+00:00",
+  "summary": "该论文提出了一种多阶段规则链式框架，用于实现组合式且可解释的认知推理。通过将复杂推理任务分解为多个规则链阶段，该方法在提升推理准确性的同时增强了过程的可解释性，为构建透明可信的AI推理系统提供了新思路。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-12T11:53:14.565502+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260912-011",
+  "title": "Towards a Deterministic Math Solver for Clinical Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.10728",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-12T11:52:20.021305+00:00",
+  "collected_at": "2026-09-12T11:52:20.021305+00:00",
+  "summary": "该论文提出了一种面向临床语言模型的确定性数学求解器，旨在解决医疗场景中数值计算与推理的可靠性和可重复性问题。其核心价值在于通过确定性方法提升临床决策支持系统的可信度，减少随机性带来的风险。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-12T11:53:14.565515+00:00"
+}

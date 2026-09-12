@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260912-013",
+  "title": "When Validation Stops Learning: Auditing Update Admission for Continual Embodied Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.10873",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-12T11:52:20.021312+00:00",
+  "collected_at": "2026-09-12T11:52:20.021312+00:00",
+  "summary": "该论文针对持续学习中的具身智能体，研究了验证机制何时会停止学习，并提出了更新准入审计方法。其核心价值在于揭示了持续学习中验证失效的条件，为构建更可靠的具身智能体更新策略提供了诊断工具。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-12T11:53:14.565525+00:00"
+}

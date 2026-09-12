@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260912-017",
+  "title": "The Agent Incident Registry: Toward Preventing Repeated AI Agent Failures",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.11030",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-12T11:52:20.021326+00:00",
+  "collected_at": "2026-09-12T11:52:20.021326+00:00",
+  "summary": "本文提出建立AI智能体故障事件登记处（Agent Incident Registry），旨在系统性地记录、分类和分析AI智能体在实际部署中出现的故障模式。通过共享这些故障案例，研究者和开发者可以避免重复犯错，推动智能体系统的可靠性和安全性提升。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "deployment",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-12T11:53:14.565535+00:00"
+}
