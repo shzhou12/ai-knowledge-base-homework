@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260913-006",
+  "title": "Show HN: Hacker News, Without AI",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.unslop.news/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-09-13T13:01:57.683294+00:00",
+  "collected_at": "2026-09-13T13:01:57.683294+00:00",
+  "summary": "该项目是一个去除 AI 生成内容的 Hacker News 阅读界面，通过过滤 AI 相关帖子或摘要，让用户专注于纯人工讨论。它反映了社区对 AI 内容泛滥的反思，为偏好传统技术讨论的用户提供了简洁的替代体验。",
+  "score": 6,
+  "tags": [
+    "deployment"
+  ],
+  "audience": "beginner",
+  "status": "review",
+  "updated_at": "2026-09-13T13:02:55.636136+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260913-003",
+  "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://withspecific.com/benchmarks/real-swe",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-09-13T13:01:57.683277+00:00",
+  "collected_at": "2026-09-13T13:01:57.683277+00:00",
+  "summary": "Real-SWE 是一个用于评估 AI 模型在私有、真实企业代码库上表现的基准测试。它填补了现有基准多基于开源代码的空白，通过企业级代码任务衡量模型在真实开发场景中的能力，对推动 AI 编程助手落地具有重要价值。",
+  "score": 8,
+  "tags": [
+    "evaluation",
+    "code-generation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-13T13:02:55.636130+00:00"
+}

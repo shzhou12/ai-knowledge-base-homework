@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260913-007",
+  "title": "Show HN: Hacker News, without AI",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://hcker.news/?ai=exclude",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-09-13T13:01:57.683299+00:00",
+  "collected_at": "2026-09-13T13:01:57.683299+00:00",
+  "summary": "该项目是一个 Hacker News 的替代前端，通过过滤或屏蔽 AI 相关的内容，让用户能够浏览不含 AI 话题的 HN 帖子。它反映了部分开发者对 AI 内容泛滥的反思，为希望专注传统技术讨论的用户提供了简洁的阅读体验。",
+  "score": 5,
+  "tags": [],
+  "audience": "beginner",
+  "status": "review",
+  "updated_at": "2026-09-13T13:02:55.636139+00:00"
+}
