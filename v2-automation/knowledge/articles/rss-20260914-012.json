@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260914-012",
+  "title": "When Successful Knowledge Graph Edits Displace Correct Answers: Rank-Level Locality beyond Parameter Support",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.12116",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-14T14:37:28.358523+00:00",
+  "collected_at": "2026-09-14T14:37:28.358523+00:00",
+  "summary": "该论文研究了知识图谱编辑对模型正确回答的意外影响，揭示了在参数支持之外存在的秩级局部性问题。研究发现，即使编辑成功，也可能导致原本正确的答案被错误答案取代，这为知识编辑的评估提供了新视角。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-14T14:38:23.449186+00:00"
+}

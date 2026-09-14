@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260914-019",
+  "title": "Learning Symbolic Constraint Representations from Examples: A Neuro-Symbolic Approach",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.12267",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-14T14:37:28.358557+00:00",
+  "collected_at": "2026-09-14T14:37:28.358557+00:00",
+  "summary": "该论文提出了一种神经符号方法，能够从示例中学习符号约束表示，结合神经网络的学习能力与符号推理的精确性。其核心价值在于为复杂约束建模提供了一种可解释且数据高效的解决方案，有望推动AI系统在规划和验证等任务中的可靠性。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-14T14:38:23.449212+00:00"
+}

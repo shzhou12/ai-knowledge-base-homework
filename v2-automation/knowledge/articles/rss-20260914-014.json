@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260914-014",
+  "title": "Can LLMs in Draft-Verify-Revise Pipelines Resolve Deictic Ambiguity?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.12162",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-14T14:37:28.358535+00:00",
+  "collected_at": "2026-09-14T14:37:28.358535+00:00",
+  "summary": "该论文研究大语言模型在草稿-验证-修订（Draft-Verify-Revise）流程中解决指示语歧义（deictic ambiguity）的能力，即模型能否通过多步迭代修正对代词、指示词等依赖上下文的指代进行消歧。研究评估了不同LLM在此类流程下的表现，为提升对话和文档理解中的指代消解提供了新思路。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-14T14:38:23.449193+00:00"
+}
