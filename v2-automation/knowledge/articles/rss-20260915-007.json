@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260915-007",
+  "title": "Toward Self-Adaptive Physical AI: Can LLM Agents Manage Long-Horizon Physical Tasks?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.13436",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-15T13:02:10.844213+00:00",
+  "collected_at": "2026-09-15T13:02:10.844213+00:00",
+  "summary": "该论文探讨了LLM智能体在长时程物理任务中的自我适应能力，旨在评估其管理复杂物理任务的表现。研究提出了面向自适应物理AI的框架，为LLM在机器人控制等物理场景中的应用提供了重要评估基准。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-15T13:03:00.730388+00:00"
+}

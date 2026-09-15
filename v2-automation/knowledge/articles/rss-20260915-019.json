@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260915-019",
+  "title": "Toward a Decision-Assurance Layer for AI-Assisted Flight Planning in Air Traffic Management",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.13552",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-15T13:02:10.844262+00:00",
+  "collected_at": "2026-09-15T13:02:10.844262+00:00",
+  "summary": "该论文提出了一种面向空中交通管理中AI辅助飞行计划的决策保障层（Decision-Assurance Layer），旨在通过形式化验证和运行时监控确保AI决策的安全性与可靠性。其核心价值在于为高风险航空领域引入可解释、可审计的AI决策框架，推动AI在空管系统中的安全部署。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation",
+    "deployment",
+    "security"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-15T13:03:00.730419+00:00"
+}

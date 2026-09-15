@@ -1,0 +1,21 @@
+{
+  "id": "rss-20260915-017",
+  "title": "Asclepius: An Adaptive Harness for Long-Horizon Clinical Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.13543",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-15T13:02:10.844255+00:00",
+  "collected_at": "2026-09-15T13:02:10.844255+00:00",
+  "summary": "该论文提出 Asclepius，一种用于长时程临床智能体的自适应执行框架（harness），旨在解决医疗场景中多步骤任务规划与工具调用的稳定性问题。其核心价值在于通过动态调整智能体的推理与行动策略，提升长周期临床决策任务的完成质量与鲁棒性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "tool-use",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-15T13:03:00.730414+00:00"
+}
