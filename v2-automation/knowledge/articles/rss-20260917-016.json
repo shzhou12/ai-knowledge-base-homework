@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260917-016",
+  "title": "A Four-Stage Decomposition of Word-Problem Solving and Mechanistic Fragility in LLM Math Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.17804",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-17T12:55:59.749214+00:00",
+  "collected_at": "2026-09-17T12:55:59.749214+00:00",
+  "summary": "该论文提出四阶段分解框架（问题理解、计划、执行、验证）来分析大语言模型在数学应用题求解中的表现，并揭示了模型在推理过程中的机制脆弱性。其价值在于细粒度诊断LLM数学推理的失败模式，为提升模型鲁棒性提供方向。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-17T12:56:49.235323+00:00"
+}

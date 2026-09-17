@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260917-014",
+  "title": "SAGE: Governed Artifact Generation from Enterprise Guidelines",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.17775",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-17T12:55:59.749206+00:00",
+  "collected_at": "2026-09-17T12:55:59.749206+00:00",
+  "summary": "SAGE 提出了一种从企业指南自动生成受治理工件（如合规文档、流程规范）的方法，旨在解决企业环境中 AI 生成内容需符合内部政策与外部法规的难题。该工作将生成过程与治理规则相结合，提升了产出的可靠性与可审计性，对企业级 AI 部署具有实用价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-17T12:56:49.235318+00:00"
+}

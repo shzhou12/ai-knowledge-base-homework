@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260917-020",
+  "title": "Do Frontier Models Seek Safety Evidence Before Acting?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.17865",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-17T12:55:59.749229+00:00",
+  "collected_at": "2026-09-17T12:55:59.749229+00:00",
+  "summary": "该论文研究前沿AI模型在行动前是否会主动寻求安全证据，探讨模型在决策过程中对安全性的考量机制。其价值在于揭示模型安全行为的内在逻辑，为AI安全评估和部署提供重要参考。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "security",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-17T12:56:49.235334+00:00"
+}
