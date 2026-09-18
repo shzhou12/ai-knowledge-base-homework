@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260918-004",
+  "title": "Position: It is Time to Virtualize Foundation Models with a Self-evolving Operating System Layer",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.19203",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-18T12:34:12.606497+00:00",
+  "collected_at": "2026-09-18T12:34:12.606497+00:00",
+  "summary": "本文提出将基础模型（Foundation Models）虚拟化为一个自演化的操作系统层，以解决模型部署、资源管理和持续学习中的碎片化问题。该立场论文主张通过操作系统抽象层实现模型能力的动态调度与自我进化，为构建可扩展、可维护的AI系统提供了新范式。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment",
+    "agent"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-18T12:35:00.523262+00:00"
+}

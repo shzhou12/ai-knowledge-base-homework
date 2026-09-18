@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260918-005",
+  "title": "What Do Current Systematic Generalization Tasks Miss? A Reasoning-Centered Analysis",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.19212",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-18T12:34:12.606507+00:00",
+  "collected_at": "2026-09-18T12:34:12.606507+00:00",
+  "summary": "该论文对当前系统性泛化任务进行了以推理为中心的分析，指出这些任务在评估模型推理能力方面的不足，并提出了改进方向。其价值在于为设计更全面的系统性泛化基准提供了理论指导，有助于推动AI推理能力的评估与发展。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-18T12:35:00.523265+00:00"
+}
