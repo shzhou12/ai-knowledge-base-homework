@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260920-002",
+  "title": "AI-generated posters don’t have to be horrible",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-09-20T12:47:14.637278+00:00",
+  "collected_at": "2026-09-20T12:47:14.637278+00:00",
+  "summary": "该内容探讨了如何利用 AI 生成不糟糕的海报，可能涉及图像生成模型（如扩散模型）的提示工程、参数调优或工作流设计，以提升生成海报的视觉质量和实用性。其价值在于为设计师和开发者提供可操作的技巧，降低 AI 生成内容的粗糙感，推动 AI 在创意设计中的落地。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "prompt-engineering"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-20T12:48:05.659171+00:00"
+}
