@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260921-016",
+  "title": "Information-Gain Rewards over Diversity-Pruned Tests: GT-Anchored Verifier Co-Training for Reliable Code Generation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.21208",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-21T14:44:44.038367+00:00",
+  "collected_at": "2026-09-21T14:44:44.038367+00:00",
+  "summary": "该论文提出了一种结合信息增益奖励与多样性剪枝测试的验证器协同训练方法，并利用GT锚定策略来提升代码生成的可靠性。其核心价值在于通过优化验证器的训练过程，有效减少代码生成中的错误，提高生成代码的正确性和鲁棒性。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "evaluation",
+    "llm"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-21T14:45:32.264583+00:00"
+}

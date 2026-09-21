@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260921-011",
+  "title": "Clinician-Grounded Quality Assurance for AI-Assisted Psychiatric Intake",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.21149",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-21T14:44:44.038343+00:00",
+  "collected_at": "2026-09-21T14:44:44.038343+00:00",
+  "summary": "该论文提出了一种基于临床医生标准的AI辅助精神科问诊质量保证框架，旨在评估和提升AI在精神科入院访谈中的表现。其核心价值在于将临床医生的专业判断融入AI系统的质量评估，确保AI辅助工具在敏感医疗场景中的安全性和有效性。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-21T14:45:32.264566+00:00"
+}

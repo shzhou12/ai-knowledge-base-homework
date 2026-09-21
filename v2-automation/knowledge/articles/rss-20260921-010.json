@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260921-010",
+  "title": "TinyCeNN-LM: Quality-Gated Conversion of Pretrained Attention with CeNN-Inspired Cellular-Recurrent Layers",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.21139",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-21T14:44:44.038338+00:00",
+  "collected_at": "2026-09-21T14:44:44.038338+00:00",
+  "summary": "该论文提出 TinyCeNN-LM，通过质量门控机制将预训练注意力转换为受细胞神经网络启发的细胞循环层，实现模型压缩与高效推理。其核心价值在于为 Transformer 注意力提供了一种轻量化的替代方案，在保持生成质量的同时降低计算开销。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "deployment"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-21T14:45:32.264558+00:00"
+}

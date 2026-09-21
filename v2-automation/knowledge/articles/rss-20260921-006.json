@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260921-006",
+  "title": "CaLR: Causal Latent Revision for Robust Diffusion Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.20981",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-21T14:44:44.038317+00:00",
+  "collected_at": "2026-09-21T14:44:44.038317+00:00",
+  "summary": "该论文提出了一种名为 CaLR（因果潜在修正）的方法，旨在提升扩散模型在推理任务中的鲁棒性。通过引入因果推断机制对潜在表示进行修正，该方法能够有效缓解噪声和分布偏移带来的影响，从而增强扩散推理的可靠性。其价值在于为扩散模型在复杂推理场景下的稳定应用提供了新的技术思路。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "vision"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-21T14:45:32.264544+00:00"
+}
