@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260923-018",
+  "title": "Clarification Is Not Correction: LLMs Fail to Let Go",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.25337",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-23T13:12:19.910794+00:00",
+  "collected_at": "2026-09-23T13:12:19.910794+00:00",
+  "summary": "该论文研究了LLM在用户澄清意图后仍坚持原有错误回答的现象，将其定义为“澄清即纠正”失败。通过系统实验，作者发现模型难以根据后续澄清放弃先前错误，揭示了当前LLM在对话修正能力上的关键缺陷，对提升交互可靠性具有重要价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "prompt-engineering"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-23T13:13:09.489824+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260923-004",
+  "title": "Do Synthetic Personas Predict Real Audience Response? A Sim-to-Real Study Where a No-Persona Baseline Beats Persona-Based Copy Simulation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.25010",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-23T13:12:19.910691+00:00",
+  "collected_at": "2026-09-23T13:12:19.910691+00:00",
+  "summary": "该研究通过模拟到真实的对比实验，检验了合成人物画像（synthetic personas）在预测真实受众反应中的有效性，发现无人物画像的基线方法在文案模拟任务上反而优于基于人物画像的方法。这一发现对依赖人物画像进行受众模拟的AI应用提出了重要警示，并强调了在真实场景中验证模拟方法的重要性。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm",
+    "prompt-engineering"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-23T13:13:09.489778+00:00"
+}

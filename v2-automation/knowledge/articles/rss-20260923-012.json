@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260923-012",
+  "title": "MedGate-Fusion: Integrating First-Encounter Semantic Narratives and Physiological Biomarkers for Prospective Stroke Risk Stratification",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.25272",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-23T13:12:19.910766+00:00",
+  "collected_at": "2026-09-23T13:12:19.910766+00:00",
+  "summary": "该论文提出 MedGate-Fusion 框架，将首次就诊时的语义叙述与生理生物标志物融合，用于前瞻性卒中风险分层。其核心价值在于结合非结构化临床文本与结构化生理数据，提升早期卒中风险预测的准确性，为临床决策提供更全面的依据。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-23T13:13:09.489803+00:00"
+}

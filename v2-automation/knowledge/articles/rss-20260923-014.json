@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260923-014",
+  "title": "Attention as a Routing Graph: Live Circuit Extraction from a Single Forward Pass",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.25285",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-23T13:12:19.910775+00:00",
+  "collected_at": "2026-09-23T13:12:19.910775+00:00",
+  "summary": "该论文提出将Transformer中的注意力机制视为路由图，并开发了一种从单次前向传播中实时提取电路的方法。这为理解模型内部信息流动和提升可解释性提供了新工具，有助于动态分析模型行为。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-23T13:13:09.489812+00:00"
+}

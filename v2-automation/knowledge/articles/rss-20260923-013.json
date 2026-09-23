@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260923-013",
+  "title": "When LLM Agents Fail to Read the Room: ReAdapt for Relational Social Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.25284",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-23T13:12:19.910770+00:00",
+  "collected_at": "2026-09-23T13:12:19.910770+00:00",
+  "summary": "该论文针对LLM智能体在社交关系推理中无法准确理解情境（即“读空气”）的问题，提出了ReAdapt方法。该方法通过自适应机制增强智能体对社交线索的感知与推理能力，从而提升其在复杂人际互动中的表现。这项研究为社交智能体的关系推理提供了新的技术路径，具有重要的应用价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-23T13:13:09.489806+00:00"
+}

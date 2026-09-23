@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260923-008",
+  "title": "Ovis-Embedding: Pushing the Frontiers of Universal Omni-Modal Embeddings",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.25165",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-23T13:12:19.910747+00:00",
+  "collected_at": "2026-09-23T13:12:19.910747+00:00",
+  "summary": "Ovis-Embedding 提出了一种通用的全模态嵌入模型，旨在统一处理文本、图像、音频等多种模态的嵌入表示。该工作推动了跨模态检索与对齐的前沿，为多模态 RAG 和通用表示学习提供了新的技术路径。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "vision",
+    "audio",
+    "rag"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-23T13:13:09.489791+00:00"
+}
