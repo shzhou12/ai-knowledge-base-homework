@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260925-013",
+  "title": "Training Object Permanence in World Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.28654",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-25T13:08:56.298026+00:00",
+  "collected_at": "2026-09-25T13:08:56.298026+00:00",
+  "summary": "该论文探讨了在世界模型中训练物体永久性（Object Permanence）的方法，旨在让AI智能体在部分可观测环境中维持对物体持续存在的内部表征。其核心价值在于提升基于模型的强化学习在视觉复杂任务中的鲁棒性和推理能力，为构建更接近人类认知的世界模型提供了新思路。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "reasoning",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-25T13:09:46.611851+00:00"
+}

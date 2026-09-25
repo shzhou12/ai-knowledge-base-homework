@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260925-004",
+  "title": "VSCode's SSH Agent Is Bananas (2025)",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://fly.io/blog/vscode-ssh-wtf/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-09-25T13:08:55.708920+00:00",
+  "collected_at": "2026-09-25T13:08:55.708920+00:00",
+  "summary": "本文深入分析了 VSCode 远程 SSH 扩展中 SSH Agent 转发的实现机制，揭示了其在处理多跳连接和密钥管理时的非标准行为。文章通过实际案例展示了这些设计选择如何导致连接失败和安全风险，为开发者排查远程开发环境问题提供了关键参考。",
+  "score": 7,
+  "tags": [
+    "security",
+    "deployment",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-25T13:09:46.611823+00:00"
+}

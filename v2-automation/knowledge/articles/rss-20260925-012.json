@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260925-012",
+  "title": "Adversarial Closed-Loop Curriculum for Evolving Role-Playing Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.28609",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-25T13:08:56.298021+00:00",
+  "collected_at": "2026-09-25T13:08:56.298021+00:00",
+  "summary": "该论文提出了一种对抗性闭环课程学习框架，用于训练角色扮演智能体，通过动态生成对抗性场景和课程来持续提升智能体的角色一致性与交互能力。其核心价值在于将对抗训练与课程学习结合，为角色扮演类智能体提供了一种可扩展的自我进化方法，有望提升对话系统的沉浸感和鲁棒性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "multi-agent",
+    "prompt-engineering"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-25T13:09:46.611848+00:00"
+}

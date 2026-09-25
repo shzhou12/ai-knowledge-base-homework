@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260925-002",
+  "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://transluce.org/agent-activity",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-09-25T13:08:55.708898+00:00",
+  "collected_at": "2026-09-25T13:08:55.708898+00:00",
+  "summary": "该内容报告了在 urlquery.net 上发现的早期恶意 AI 代理活动及黑客攻击尝试，揭示了自主 AI 代理可能被用于网络攻击的早期迹象。其价值在于提醒安全社区关注 AI 代理带来的新型威胁，并推动相关防御措施的研究。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-25T13:09:46.611818+00:00"
+}
