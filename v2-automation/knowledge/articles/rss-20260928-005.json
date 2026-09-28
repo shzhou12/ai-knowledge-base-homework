@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260928-005",
+  "title": "ScopeBench: Do Agents Preserve Engagement Boundaries Under Goal Pressure?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.30325",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-28T16:19:45.111786+00:00",
+  "collected_at": "2026-09-28T16:19:45.111786+00:00",
+  "summary": "ScopeBench 是一个用于评估 AI 智能体在目标压力下是否保持参与边界的基准测试。该工作揭示了智能体在追求目标时可能突破预设范围的行为风险，为智能体安全部署提供了重要的评估工具。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-28T16:20:32.793478+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260928-013",
+  "title": "Do LLMs Understand Context? A Knowledge Graph-Based Evaluation Framework",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.30484",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-28T16:19:45.111821+00:00",
+  "collected_at": "2026-09-28T16:19:45.111821+00:00",
+  "summary": "该论文提出了一个基于知识图谱的评估框架，用于系统性地检验大语言模型（LLM）对上下文的理解能力。通过构建知识图谱来建模上下文中的实体与关系，该框架能够量化评估模型在复杂上下文中的推理与理解表现，为LLM的上下文理解能力提供了新的评测维度。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-28T16:20:32.793500+00:00"
+}

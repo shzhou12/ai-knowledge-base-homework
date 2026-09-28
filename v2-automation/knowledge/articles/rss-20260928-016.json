@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260928-016",
+  "title": "Rank-Reliable Teacher-Guided Fitness Approximation for Expensive Evolutionary Optimization: A TinyML Architecture Search Study",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.30553",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-28T16:19:45.111831+00:00",
+  "collected_at": "2026-09-28T16:19:45.111831+00:00",
+  "summary": "本文提出了一种基于排名可靠性的教师引导适应度近似方法，用于解决昂贵进化优化问题，并以TinyML架构搜索为案例研究。该方法通过教师模型引导适应度评估，显著降低了计算成本，同时保持了优化性能，为资源受限的TinyML模型设计提供了高效解决方案。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-28T16:20:32.793507+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260928-015",
+  "title": "Benchy: towards a universal language for task-oriented AI benchmarks",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.30550",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-28T16:19:45.111827+00:00",
+  "collected_at": "2026-09-28T16:19:45.111827+00:00",
+  "summary": "该论文提出 Benchy，一种面向任务型 AI 基准测试的通用语言，旨在统一不同基准测试的表示与执行方式，提升评估的可复现性和可比性。其核心价值在于为 AI 智能体与任务导向系统的标准化评测提供基础设施，推动更可靠的性能对比与迭代。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "agent",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-28T16:20:32.793505+00:00"
+}

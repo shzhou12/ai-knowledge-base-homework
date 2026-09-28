@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260928-004",
+  "title": "Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.30291",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-28T16:19:45.111753+00:00",
+  "collected_at": "2026-09-28T16:19:45.111753+00:00",
+  "summary": "该论文探讨了将AI引入自主系统，从认知到集体智能的演进路径，涵盖了自主系统中AI的认知能力构建以及多智能体集体智能的实现方法。其价值在于为自主系统的智能化提供了从个体认知到群体协作的系统性视角，对多智能体系统和自主决策领域的研究具有参考意义。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "agent",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-28T16:20:32.793475+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260928-009",
+  "title": "A Synthetic Ground-Truth Framework for the Evaluation of Explainable AI Methods",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.30397",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-28T16:19:45.111805+00:00",
+  "collected_at": "2026-09-28T16:19:45.111805+00:00",
+  "summary": "该论文提出了一个合成真值框架，用于评估可解释AI（XAI）方法的可靠性。通过生成具有已知真实解释的合成数据，该框架能够客观地衡量不同XAI技术的准确性，从而解决真实数据中缺乏真值标签的评估难题。这项工作为XAI方法的标准化评估提供了重要工具，有助于推动可解释AI领域的严谨发展。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-28T16:20:32.793489+00:00"
+}

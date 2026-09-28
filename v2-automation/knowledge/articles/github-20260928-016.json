@@ -1,0 +1,19 @@
+{
+  "id": "github-20260928-016",
+  "title": "blader/humanizer",
+  "source": "github",
+  "source_url": "https://github.com/blader/humanizer",
+  "author": "blader",
+  "published_at": "2026-09-28T05:55:12Z",
+  "collected_at": "2026-09-28T16:19:44.182536+00:00",
+  "summary": "该项目是一个 Agent 技能，用于去除文本中 AI 生成的痕迹，使写作更自然、更像人类。它通过检测和修改常见的 AI 写作模式（如过度使用某些短语、句式单调等）来提升文本质量，适用于需要隐藏 AI 参与或优化 AI 辅助写作的场景。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "prompt-engineering"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-28T16:20:32.793451+00:00"
+}
