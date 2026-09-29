@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260929-007",
+  "title": "Witeness Overlap: Directional Provenance Inside Open-Weight Model Families",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.31784",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-29T14:30:14.748730+00:00",
+  "collected_at": "2026-09-29T14:30:14.748730+00:00",
+  "summary": "该论文提出了一种名为“Witness Overlap”的方向性溯源方法，用于在开放权重模型家族中检测模型间的派生关系。通过分析模型内部表示的重叠模式，该方法能够判断模型间的血缘方向，为模型溯源和知识产权保护提供了新的技术手段。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "security"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-29T14:31:03.413849+00:00"
+}

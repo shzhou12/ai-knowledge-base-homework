@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260929-011",
+  "title": "DriveHierarchy: A Benchmark for Diagnosing VLM Driving Capabilities from Open-Loop Understanding to Closed-Loop Execution",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.31814",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-29T14:30:14.748754+00:00",
+  "collected_at": "2026-09-29T14:30:14.748754+00:00",
+  "summary": "该论文提出了DriveHierarchy，一个用于诊断视觉语言模型（VLM）驾驶能力的基准测试，覆盖从开环理解到闭环执行的多个层次。其核心价值在于系统性地评估VLM在自动驾驶场景中的能力，为模型改进和部署提供结构化诊断工具。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "vision",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-29T14:31:03.413862+00:00"
+}

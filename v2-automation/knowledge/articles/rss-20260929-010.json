@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260929-010",
+  "title": "Working with AI: A Design Framework for Human-AI Collaboration",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.31793",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-29T14:30:14.748749+00:00",
+  "collected_at": "2026-09-29T14:30:14.748749+00:00",
+  "summary": "该论文提出了一个面向人机协作的设计框架，旨在系统化地指导AI系统与人类工作流程的整合。框架涵盖了任务分配、交互模式和信任建立等关键维度，为设计高效、可解释的人机协作系统提供了结构化方法。其价值在于将分散的人机交互研究整合为可操作的设计指南，适用于各类AI辅助工作场景。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-29T14:31:03.413859+00:00"
+}

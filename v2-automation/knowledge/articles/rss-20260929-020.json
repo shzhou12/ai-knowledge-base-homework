@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260929-020",
+  "title": "BioDyad: Synchronize Biomedical Discovery and Machine Learning Engineering",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.31939",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-29T14:30:14.748797+00:00",
+  "collected_at": "2026-09-29T14:30:14.748797+00:00",
+  "summary": "BioDyad 提出了一种同步生物医学发现与机器学习工程的方法，旨在弥合领域专家与AI工程师之间的协作鸿沟。该工作通过双向反馈机制，让生物医学假设驱动模型设计，同时模型洞察反哺实验验证，从而加速从数据到发现的闭环。其核心价值在于为跨学科AI应用提供了可复用的工程范式。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-29T14:31:03.413888+00:00"
+}

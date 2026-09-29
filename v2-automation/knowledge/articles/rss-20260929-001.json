@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260929-001",
+  "title": "AI companies leak data to advertisers [pdf]",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-09-29T14:30:13.774075+00:00",
+  "collected_at": "2026-09-29T14:30:13.774075+00:00",
+  "summary": "该内容（PDF）分析了AI公司如何通过API和SDK将用户数据泄露给广告商，揭示了隐私风险。核心价值在于提醒开发者和用户关注AI服务中的数据安全与合规问题。",
+  "score": 7,
+  "tags": [
+    "security",
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-29T14:31:03.413826+00:00"
+}

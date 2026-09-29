@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260929-019",
+  "title": "Improving Medical Calculation of LLMs with Embedded Coding",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.31908",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-29T14:30:14.748793+00:00",
+  "collected_at": "2026-09-29T14:30:14.748793+00:00",
+  "summary": "该论文提出通过嵌入代码生成来提升大语言模型在医学计算任务中的准确性，利用代码执行替代纯文本推理以减少数值错误。该方法在医学计算基准上显著优于传统提示方法，为高风险领域的LLM应用提供了可靠的计算增强方案。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "code-generation",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-29T14:31:03.413885+00:00"
+}

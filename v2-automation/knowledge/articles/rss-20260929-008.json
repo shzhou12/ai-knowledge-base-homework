@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260929-008",
+  "title": "CP-Agent: A Harness-Engineered Agent for Crystal Plasticity Simulation Workflows",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.31790",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-29T14:30:14.748739+00:00",
+  "collected_at": "2026-09-29T14:30:14.748739+00:00",
+  "summary": "CP-Agent 是一个为晶体塑性模拟工作流设计的 harness 工程化智能体，旨在自动化和优化复杂的材料模拟流程。该工作展示了如何通过智能体架构提升科学计算工作流的效率和可重复性，对计算材料科学和 AI 驱动科学发现具有实用价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use",
+    "code-generation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-29T14:31:03.413852+00:00"
+}
