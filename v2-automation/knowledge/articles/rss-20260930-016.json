@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260930-016",
+  "title": "SAGE: A Statistical Acceptance Gate for Self-Evolving Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.36043",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-30T14:29:11.024899+00:00",
+  "collected_at": "2026-09-30T14:29:11.024899+00:00",
+  "summary": "SAGE 提出了一种统计接受门控机制，用于自我进化智能体，通过统计检验决定是否接受智能体自我生成的更新，从而避免性能退化。该工作为自主进化的 AI 智能体提供了可靠性保障，在持续学习和自适应系统中有重要应用价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-30T14:29:58.335872+00:00"
+}

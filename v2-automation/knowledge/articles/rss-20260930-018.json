@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260930-018",
+  "title": "GeoWind2Plan: Mission-Time 3D Urban Wind Prediction for Energy-Efficient UAV Planning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.36056",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-30T14:29:11.024908+00:00",
+  "collected_at": "2026-09-30T14:29:11.024908+00:00",
+  "summary": "该论文提出 GeoWind2Plan，一种面向任务时段的 3D 城市风场预测方法，用于支持节能无人机路径规划。通过结合地理信息与风场预测，该方法能在复杂城市环境中提升 UAV 的能效与任务执行效率。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "reasoning",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-30T14:29:58.335878+00:00"
+}

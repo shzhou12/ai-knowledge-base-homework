@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260930-008",
+  "title": "The Price of Token Boundaries: Compression Certificates and Prediction",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.35869",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-30T14:29:11.024863+00:00",
+  "collected_at": "2026-09-30T14:29:11.024863+00:00",
+  "summary": "该论文探讨了token边界对语言模型压缩与预测的影响，提出了压缩证书（Compression Certificates）的概念，用于量化token化方案的信息损失。其价值在于为优化tokenizer设计提供了理论工具，有助于提升模型在压缩和预测任务中的效率。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-30T14:29:58.335848+00:00"
+}

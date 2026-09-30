@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260930-009",
+  "title": "More Programs or More Rolls? Separating Coverage from Specialization in LLM Harnesses",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.35873",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-30T14:29:11.024867+00:00",
+  "collected_at": "2026-09-30T14:29:11.024867+00:00",
+  "summary": "该论文研究了LLM harness（如代码生成中的程序采样与重试机制）中覆盖度与专门化的权衡问题，通过区分“更多程序”和“更多重试”两种策略，分析了它们对任务性能的不同影响。其价值在于为LLM智能体系统的设计提供了理论指导，帮助优化资源分配以提升复杂任务的成功率。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "agent",
+    "code-generation",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-30T14:29:58.335852+00:00"
+}

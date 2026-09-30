@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260930-013",
+  "title": "Self-discovering RL in the Era of Experience: Is Learning History an Asset or a Burden?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.35897",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-30T14:29:11.024885+00:00",
+  "collected_at": "2026-09-30T14:29:11.024885+00:00",
+  "summary": "该论文探讨了在经验驱动的强化学习时代，智能体自我发现学习历史对学习效果的影响，分析了历史信息是资产还是负担。研究可能提出了新的方法或框架来动态管理学习历史，以提升强化学习的效率和泛化能力。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-09-30T14:29:58.335863+00:00"
+}

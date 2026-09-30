@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260930-005",
+  "title": "OpenAI-HuggingFace: A Reproduction &amp; Lessons for Alignment Testing",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.35799",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-30T14:29:11.024805+00:00",
+  "collected_at": "2026-09-30T14:29:11.024805+00:00",
+  "summary": "该研究复现了 OpenAI 与 HuggingFace 的 alignment testing 工作，并总结了在复现过程中遇到的挑战与经验教训。其价值在于为对齐测试的可重复性和标准化提供了实践参考，有助于推动 LLM 安全评估的可靠性。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-30T14:29:58.335837+00:00"
+}

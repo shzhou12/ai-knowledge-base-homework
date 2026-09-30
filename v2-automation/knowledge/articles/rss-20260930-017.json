@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260930-017",
+  "title": "PowerZooJax: A JAX-based Power System Benchmark for Reinforcement Learning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.36052",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-09-30T14:29:11.024903+00:00",
+  "collected_at": "2026-09-30T14:29:11.024903+00:00",
+  "summary": "PowerZooJax 是一个基于 JAX 的电力系统基准测试环境，专门用于强化学习研究。它提供了可扩展、高性能的仿真平台，支持在电力系统控制任务中训练和评估 RL 智能体，填补了该领域标准化基准的空白。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-09-30T14:29:58.335875+00:00"
+}
