@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261001-004",
+  "title": "Improving OCR Faithfulness via Gated and Attenuated On-Policy Distillation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.38282",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-01T14:59:00.022869+00:00",
+  "collected_at": "2026-10-01T14:59:00.022869+00:00",
+  "summary": "该论文提出了一种门控与衰减的在线策略蒸馏方法，旨在提升OCR任务中模型输出的忠实度，减少幻觉和错误识别。通过结合门控机制和衰减策略，该方法在保持识别准确率的同时显著增强了文本生成的可靠性，对文档理解和多模态应用具有实用价值。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "fine-tuning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-01T14:59:46.049152+00:00"
+}

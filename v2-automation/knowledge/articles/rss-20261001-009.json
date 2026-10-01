@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261001-009",
+  "title": "Examining Variation in How Guided AI Tutors Resolve Student Impasses",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.38346",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-01T14:59:00.022932+00:00",
+  "collected_at": "2026-10-01T14:59:00.022932+00:00",
+  "summary": "该研究分析了引导式AI导师在解决学生遇到的学习障碍时的策略差异，探讨了不同AI导师如何根据学生情况调整引导方式。其价值在于为设计更有效的智能辅导系统提供了实证依据，有助于提升个性化学习支持的质量。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "prompt-engineering"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-01T14:59:46.049168+00:00"
+}

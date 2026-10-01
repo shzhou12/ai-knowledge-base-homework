@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261001-011",
+  "title": "Can an AI Agent Rediscover a Blaschke-Curve Invariant?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.38369",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-01T14:59:00.022941+00:00",
+  "collected_at": "2026-10-01T14:59:00.022941+00:00",
+  "summary": "该研究探讨了AI Agent能否自主重新发现Blaschke曲线的数学不变量，属于AI在数学推理与发现领域的应用探索。其价值在于验证智能体在复杂数学结构中的推理能力，为自动化数学发现提供参考。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-01T14:59:46.049175+00:00"
+}

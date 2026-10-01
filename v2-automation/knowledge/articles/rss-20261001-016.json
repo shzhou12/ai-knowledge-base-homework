@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261001-016",
+  "title": "MetaPersona: Task-Grounded Synthetic Populations from Empirical Social Science",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.38392",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-01T14:59:00.022962+00:00",
+  "collected_at": "2026-10-01T14:59:00.022962+00:00",
+  "summary": "MetaPersona 提出了一种从实证社会科学数据中构建任务导向的合成人口的方法，用于生成具有社会人口统计特征的虚拟个体。该技术能够为基于 LLM 的智能体提供更真实、多样化的行为模拟，提升社会模拟、用户建模等下游任务的生态效度。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "multi-agent",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-01T14:59:46.049193+00:00"
+}

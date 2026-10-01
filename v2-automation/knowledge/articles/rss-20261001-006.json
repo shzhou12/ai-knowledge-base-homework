@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261001-006",
+  "title": "MoFlow: Multi-Objective Agentic Workflow Generation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.38294",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-01T14:59:00.022914+00:00",
+  "collected_at": "2026-10-01T14:59:00.022914+00:00",
+  "summary": "MoFlow 提出了一种多目标代理工作流生成方法，旨在自动构建和优化由多个 AI 代理组成的协作流程。该工作通过多目标优化平衡工作流在性能、成本、延迟等维度的表现，为复杂任务下的多代理系统设计提供了自动化解决方案。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-01T14:59:46.049159+00:00"
+}

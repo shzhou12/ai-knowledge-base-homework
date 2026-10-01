@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261001-019",
+  "title": "A Competing-Hazards Systematization of Loss of Control in Autonomous Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.38411",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-01T14:59:00.022975+00:00",
+  "collected_at": "2026-10-01T14:59:00.022975+00:00",
+  "summary": "本文提出了一种基于竞争风险（competing hazards）的系统化框架，用于分析和分类自主智能体中的失控（Loss of Control）问题。该框架将失控视为多种潜在风险因素竞争导致的结果，为智能体安全评估和风险缓解提供了结构化的方法论，对自主系统的安全部署具有重要参考价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "security",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-01T14:59:46.049202+00:00"
+}

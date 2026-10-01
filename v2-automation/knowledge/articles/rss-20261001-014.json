@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261001-014",
+  "title": "Fine-Tuning Diffusion Language Models with Context Selection and Target Weighting",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2609.38385",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-01T14:59:00.022954+00:00",
+  "collected_at": "2026-10-01T14:59:00.022954+00:00",
+  "summary": "该论文提出了一种针对扩散语言模型（Diffusion Language Models）的微调方法，通过上下文选择（Context Selection）和目标加权（Target Weighting）来提升微调效果。该方法旨在解决扩散语言模型在微调过程中如何有效利用上下文信息以及平衡不同目标的重要性问题，为扩散语言模型的优化提供了新的技术思路。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-01T14:59:46.049187+00:00"
+}
