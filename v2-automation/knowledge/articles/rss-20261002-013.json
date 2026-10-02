@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261002-013",
+  "title": "Robust Is Salient: An Informed Adversary Moves the Optimal Signal onto the Salience Pole",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.00233",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-02T14:21:41.192342+00:00",
+  "collected_at": "2026-10-02T14:21:41.192342+00:00",
+  "summary": "该论文从对抗性视角研究信号显著性（salience）与鲁棒性之间的关系，证明在理性对手存在时，最优信号会移动到显著性极点。这一发现为对抗鲁棒性、信号博弈和特征选择提供了新的理论洞见，有助于设计更鲁棒的机器学习模型。",
+  "score": 7,
+  "tags": [
+    "security",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-02T14:22:31.293982+00:00"
+}

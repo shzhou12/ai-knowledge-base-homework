@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261002-020",
+  "title": "Fault-Tolerant Budget Conservation in Distributed Multi-Agent Delegation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.00349",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-02T14:21:41.192374+00:00",
+  "collected_at": "2026-10-02T14:21:41.192374+00:00",
+  "summary": "该论文研究分布式多智能体委派场景下的容错预算守恒问题，提出在智能体间进行任务委派时如何确保预算（如计算资源、token 配额）在故障情况下仍能守恒的机制。其价值在于为多智能体系统的资源管理和容错设计提供了理论基础与实用方案，有助于提升系统可靠性和效率。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "deployment",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-02T14:22:31.294004+00:00"
+}

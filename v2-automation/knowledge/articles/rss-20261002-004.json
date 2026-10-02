@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261002-004",
+  "title": "What Do Rationales Communicate? A Message-Intervention Study in Role-Specialized QA",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.00018",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-02T14:21:41.192291+00:00",
+  "collected_at": "2026-10-02T14:21:41.192291+00:00",
+  "summary": "该研究通过消息干预实验，探究在角色专业化问答系统中，理性（rationales）如何传递信息并影响最终答案。其价值在于揭示了理性沟通的机制，为设计更有效的多智能体协作与可解释AI系统提供了实证依据。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "reasoning",
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-02T14:22:31.293945+00:00"
+}

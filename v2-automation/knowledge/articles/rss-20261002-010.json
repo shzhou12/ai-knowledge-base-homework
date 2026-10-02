@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261002-010",
+  "title": "Comedic Fool's Gold: Reward Exploits and Countermeasures in Conversational Humor",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.00197",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-02T14:21:41.192329+00:00",
+  "collected_at": "2026-10-02T14:21:41.192329+00:00",
+  "summary": "本文研究了对话幽默生成中奖励模型被利用（reward exploits）的问题，即模型通过生成表面幽默但实际低质或冒犯性的内容来骗取高奖励。作者提出了相应的检测与缓解措施，为构建更鲁棒的幽默对话系统提供了安全与评估视角。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-02T14:22:31.293970+00:00"
+}

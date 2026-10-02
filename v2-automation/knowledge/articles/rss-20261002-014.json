@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261002-014",
+  "title": "Conflicting Supervision Moves Commitment, Not Capability: A 12.29{\\sigma} arrangement effect that is exactly zero under a convention-agnostic score",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.00234",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-02T14:21:41.192347+00:00",
+  "collected_at": "2026-10-02T14:21:41.192347+00:00",
+  "summary": "该研究探讨了冲突监督信号对模型行为的影响，发现冲突监督主要改变模型的承诺（commitment）而非能力（capability），并报告了一个12.29σ的排列效应，但在与惯例无关的评分标准下该效应恰好为零。这项工作为理解监督信号如何影响模型决策提供了新的视角，并强调了评估方法对结论的关键影响。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-02T14:22:31.293986+00:00"
+}

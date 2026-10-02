@@ -1,0 +1,21 @@
+{
+  "id": "rss-20261002-016",
+  "title": "Rules to Tools: Executable Checks for LLM Agents in Scientific Computing",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.00313",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-02T14:21:41.192356+00:00",
+  "collected_at": "2026-10-02T14:21:41.192356+00:00",
+  "summary": "该论文提出将科学计算中的规则转化为可执行检查，用于验证LLM代理的行为，确保其在科学计算任务中的正确性和可靠性。核心价值在于为LLM代理在科学计算领域的部署提供了自动化验证工具，提升了代理执行复杂计算任务的可信度。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "tool-use",
+    "evaluation",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-02T14:22:31.293992+00:00"
+}

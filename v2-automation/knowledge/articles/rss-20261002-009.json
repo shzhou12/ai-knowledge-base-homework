@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261002-009",
+  "title": "Scientific Agents: Evaluating Profession-Specific System Prompts on Scientific Tasks",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.00084",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-02T14:21:41.192324+00:00",
+  "collected_at": "2026-10-02T14:21:41.192324+00:00",
+  "summary": "该研究评估了针对不同科学专业领域定制的系统提示（system prompts）在科学任务上的表现，探索了如何通过专业化的提示工程提升AI代理在特定科学领域的性能。这项工作为科学AI代理的设计和优化提供了实证依据，有助于推动领域专用AI系统的发展。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "prompt-engineering",
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-02T14:22:31.293966+00:00"
+}

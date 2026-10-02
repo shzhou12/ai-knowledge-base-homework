@@ -1,0 +1,21 @@
+{
+  "id": "rss-20261002-018",
+  "title": "ContractRL: Shielded Group-Relative Policy Optimization for Auditable Tool-Call Repair",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.00328",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-02T14:21:41.192365+00:00",
+  "collected_at": "2026-10-02T14:21:41.192365+00:00",
+  "summary": "该论文提出ContractRL，一种基于群体相对策略优化（GRPO）的强化学习方法，用于修复LLM智能体工具调用中的错误，并通过可审计的合约机制确保修复过程的安全与可验证性。其核心价值在于提升工具调用可靠性的同时，提供可追溯的修复记录，适用于对安全性和合规性要求较高的智能体部署场景。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use",
+    "llm",
+    "fine-tuning",
+    "security"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-02T14:22:31.293998+00:00"
+}

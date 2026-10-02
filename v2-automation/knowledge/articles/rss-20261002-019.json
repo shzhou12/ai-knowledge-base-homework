@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261002-019",
+  "title": "Mathematical Transfer in LLMs Follows Reasoning Approach More Than Topic",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.00331",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-02T14:21:41.192370+00:00",
+  "collected_at": "2026-10-02T14:21:41.192370+00:00",
+  "summary": "该论文研究了大型语言模型（LLM）在数学问题上的迁移学习能力，发现模型更倾向于迁移推理方法而非特定主题知识。这一发现揭示了LLM解决数学问题的内在机制，对改进模型泛化能力和设计更有效的提示策略具有重要价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-02T14:22:31.294001+00:00"
+}
