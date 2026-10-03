@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261003-002",
+  "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-10-03T12:55:30.116414+00:00",
+  "collected_at": "2026-10-03T12:55:30.116414+00:00",
+  "summary": "Greg Kroah-Hartman 在演讲中探讨了大型语言模型（LLM）时代的安全挑战，重点分析了 LLM 在软件开发、代码生成和系统维护中引入的新攻击面与风险。内容结合其内核开发经验，为理解 AI 安全实践提供了来自资深维护者的独特视角，具有较高的参考价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "security",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-03T12:56:19.720315+00:00"
+}

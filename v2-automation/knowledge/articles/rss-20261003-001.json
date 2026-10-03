@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261003-001",
+  "title": "From the creator of Redis; run LLM locally with ds4",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://dwarfstar.sh/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-10-03T12:55:30.116383+00:00",
+  "collected_at": "2026-10-03T12:55:30.116383+00:00",
+  "summary": "Redis 作者 antirez 发布了 ds4，一个用于在本地运行大语言模型的工具，延续了其简洁高效的设计理念。该工具旨在降低本地部署 LLM 的门槛，为开发者提供轻量级、易用的推理方案。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-03T12:56:19.720296+00:00"
+}

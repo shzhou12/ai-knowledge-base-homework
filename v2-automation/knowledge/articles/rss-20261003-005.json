@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261003-005",
+  "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/open-tts-leaderboard",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-10-03T12:55:31.069400+00:00",
+  "collected_at": "2026-10-03T12:55:31.069400+00:00",
+  "summary": "Hugging Face 发布了 Open TTS Leaderboard，一个可扩展的多语言文本转语音（TTS）和语音克隆评估基准。该排行榜提供了标准化的评估指标和可扩展的测试框架，有助于推动 TTS 和语音克隆技术的公平比较与进步。",
+  "score": 7,
+  "tags": [
+    "audio",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-03T12:56:19.720324+00:00"
+}

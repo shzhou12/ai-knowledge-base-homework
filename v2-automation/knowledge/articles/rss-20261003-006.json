@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261003-006",
+  "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-10-03T12:55:31.069403+00:00",
+  "collected_at": "2026-10-03T12:55:31.069403+00:00",
+  "summary": "NVIDIA 发布 Kumo Tabular 模型，在表格预测任务上实现了新的准确率与效率平衡。该工作展示了针对表格数据的高效建模方法，有望提升结构化数据场景下的预测性能与资源利用率。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-03T12:56:19.720327+00:00"
+}
