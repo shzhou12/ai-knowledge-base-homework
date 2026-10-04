@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261004-001",
+  "title": "The Agent Said It Was Done. The Database Disagreed.",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/microsoft/thinkingbox",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-10-04T13:36:07.054276+00:00",
+  "collected_at": "2026-10-04T13:36:07.054276+00:00",
+  "summary": "文章探讨了 AI Agent 在声称任务完成时与数据库实际状态不一致的问题，揭示了 Agent 系统在状态管理和可靠性方面的核心挑战。通过具体案例分析了 Agent 的自我报告与实际执行结果之间的偏差，并提出了验证和监控机制的重要性，对构建可靠的 Agent 应用具有实践指导价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-04T13:36:55.661544+00:00"
+}
