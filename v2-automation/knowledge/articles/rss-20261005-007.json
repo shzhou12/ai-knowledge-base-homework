@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261005-007",
+  "title": "Choosing Before Acting: Comparative Value Estimation for Long-Horizon Tool-Use Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.02330",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-05T16:40:45.408318+00:00",
+  "collected_at": "2026-10-05T16:40:45.408318+00:00",
+  "summary": "该论文针对长时程工具使用智能体提出了一种比较价值估计方法，通过在选择动作前评估不同选项的相对价值来优化决策。该方法有望提升智能体在复杂多步任务中的规划与执行效率，对工具使用型智能体的研究具有参考价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-05T16:41:32.456472+00:00"
+}

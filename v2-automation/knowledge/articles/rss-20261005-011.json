@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261005-011",
+  "title": "Traversing the Satisfaction-Diversity Frontier in Text-to-Image Diffusion",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.02372",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-05T16:40:45.408336+00:00",
+  "collected_at": "2026-10-05T16:40:45.408336+00:00",
+  "summary": "该论文研究了文本到图像扩散模型中生成结果的满意度与多样性之间的权衡问题，提出了在两者之间进行遍历的方法。其价值在于帮助用户根据具体需求灵活控制生成图像的多样性和质量，提升模型的可控性和实用性。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-05T16:41:32.456486+00:00"
+}

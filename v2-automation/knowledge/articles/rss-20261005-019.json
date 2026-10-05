@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261005-019",
+  "title": "Right Order, Wrong Scale: Auditing LLM Judges for Occupational AI Measurement",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.02492",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-05T16:40:45.408375+00:00",
+  "collected_at": "2026-10-05T16:40:45.408375+00:00",
+  "summary": "该论文对用于评估职业AI能力的LLM裁判进行了审计，揭示了其在排序正确性上的表现与评分尺度校准之间的不一致问题。研究强调了在自动化评估中仅关注排序而忽视尺度校准可能导致测量偏差，为LLM评估的可靠性提供了重要警示。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-05T16:41:32.456510+00:00"
+}

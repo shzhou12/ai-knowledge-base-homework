@@ -1,0 +1,17 @@
+{
+  "id": "rss-20261005-016",
+  "title": "Tropical Reinforcement Learning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.02478",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-05T16:40:45.408361+00:00",
+  "collected_at": "2026-10-05T16:40:45.408361+00:00",
+  "summary": "该论文将热带代数（tropical algebra）引入强化学习框架，利用其max-plus线性特性简化值函数和策略优化，为RL提供新的数学工具和理论视角。其价值在于可能提升RL算法的可解释性和计算效率，尤其在序列决策问题中。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-05T16:41:32.456501+00:00"
+}
