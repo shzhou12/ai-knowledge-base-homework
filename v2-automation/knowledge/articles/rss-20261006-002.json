@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261006-002",
+  "title": "REACT: Physically and Chemically Consistent Reconstruction of Marine Active Tracers",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.03888",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-06T14:38:15.657602+00:00",
+  "collected_at": "2026-10-06T14:38:15.657602+00:00",
+  "summary": "该论文提出REACT方法，用于海洋活性示踪物的物理和化学一致性重建，通过结合物理约束与化学平衡，提升海洋生物地球化学模型的准确性和可解释性。其价值在于为海洋碳循环和气候研究提供更可靠的数据同化与预测工具。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-06T14:39:06.773338+00:00"
+}

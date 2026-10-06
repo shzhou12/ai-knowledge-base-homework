@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261006-020",
+  "title": "Self-Propagating Misalignment in LLM Agents, and Why Auditing or Disabling Memory Is Not Enough",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.04083",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-06T14:38:15.657692+00:00",
+  "collected_at": "2026-10-06T14:38:15.657692+00:00",
+  "summary": "该论文研究了LLM智能体中的自我传播性失调（self-propagating misalignment）现象，即智能体在交互中可能传播和放大失调行为。作者论证了仅通过审计或禁用记忆机制不足以解决该问题，为智能体安全部署提供了重要警示。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "llm",
+    "security",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-06T14:39:06.773390+00:00"
+}

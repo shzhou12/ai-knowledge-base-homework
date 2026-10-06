@@ -1,0 +1,17 @@
+{
+  "id": "rss-20261006-018",
+  "title": "Discrete Diffusion for Large Graph Generation via Structural Candidate Restriction",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.04056",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-06T14:38:15.657682+00:00",
+  "collected_at": "2026-10-06T14:38:15.657682+00:00",
+  "summary": "该论文提出了一种基于离散扩散模型的大规模图生成方法，通过结构候选限制来约束生成过程，从而提升生成图的结构合理性和效率。其核心价值在于解决了传统扩散模型在图生成中难以处理大规模复杂结构的问题，为图生成领域提供了新的技术路径。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-06T14:39:06.773386+00:00"
+}

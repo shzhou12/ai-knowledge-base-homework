@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261006-007",
+  "title": "LatentQuant: Preserving the Policy-Facing Latent Contract under NVFP4 VAE Quantization",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.03959",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-06T14:38:15.657633+00:00",
+  "collected_at": "2026-10-06T14:38:15.657633+00:00",
+  "summary": "本文提出 LatentQuant，一种在 NVFP4 量化 VAE 时保持策略面向的潜在契约的方法，旨在解决低精度量化导致潜在表示与下游策略交互不一致的问题。该工作为扩散模型等生成模型在边缘设备上的高效部署提供了量化感知的解决方案，具有实际部署价值。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "vision"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-06T14:39:06.773354+00:00"
+}

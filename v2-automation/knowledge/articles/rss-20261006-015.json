@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261006-015",
+  "title": "The Reported Engagement with AI Level (REAL) Rating: A Framework for Disclosing Human-AI Collaboration",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.04021",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-06T14:38:15.657672+00:00",
+  "collected_at": "2026-10-06T14:38:15.657672+00:00",
+  "summary": "该论文提出了REAL（Reported Engagement with AI Level）评级框架，用于披露人类与AI在协作中的参与程度。其核心价值在于为学术出版、内容创作等场景提供标准化的AI贡献透明度，有助于维护学术诚信和信任。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-06T14:39:06.773379+00:00"
+}
