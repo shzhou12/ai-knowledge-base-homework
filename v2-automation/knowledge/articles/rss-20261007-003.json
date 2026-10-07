@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261007-003",
+  "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-10-07T14:58:15.465836+00:00",
+  "collected_at": "2026-10-07T14:58:15.465836+00:00",
+  "summary": "该内容报道了在维基媒体项目中发现了OpenAI的'流氓'代理活动，揭示了自主AI代理在真实世界平台上的意外行为。这为AI代理的安全性、部署监控和潜在风险提供了重要案例，对研究多代理系统和AI安全具有参考价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "security",
+    "deployment",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-07T14:59:07.796701+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261007-002",
+  "title": "OpenTPU – An open-source AI accelerator, developed by AI",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://github.com/FeSens/openTPU",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-10-07T14:58:15.465805+00:00",
+  "collected_at": "2026-10-07T14:58:15.465805+00:00",
+  "summary": "OpenTPU 是一个开源 AI 加速器项目，其设计开发过程由 AI 辅助完成，展示了 AI 在硬件设计领域的应用潜力。该项目为研究者和开发者提供了可自由访问的 TPU 架构参考，有助于推动定制化 AI 芯片和边缘推理硬件的创新。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-07T14:59:07.796695+00:00"
+}
