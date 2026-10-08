@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261008-001",
+  "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-10-08T15:06:46.486119+00:00",
+  "collected_at": "2026-10-08T15:06:46.486119+00:00",
+  "summary": "Meta 和 Microsoft 正在采取措施减少员工对 Claude AI 的使用，这反映了企业对第三方 AI 工具在数据安全、合规性和内部 AI 战略方面的担忧。该事件凸显了大型科技公司在部署 AI 工具时对安全与治理的重视，以及自研模型与外部模型之间的竞争态势。",
+  "score": 6,
+  "tags": [
+    "security",
+    "deployment",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-08T15:07:33.435950+00:00"
+}

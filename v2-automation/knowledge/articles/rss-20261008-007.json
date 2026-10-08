@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261008-007",
+  "title": "Accelerating Floating-Point Satisfiability Solving via Gradient Normalization",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.08808",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-08T15:06:47.336689+00:00",
+  "collected_at": "2026-10-08T15:06:47.336689+00:00",
+  "summary": "该论文提出通过梯度归一化加速浮点可满足性求解，旨在提升浮点约束求解的效率。其核心价值在于为浮点SMT求解提供新的优化方向，可能对程序验证和数值计算领域产生积极影响。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-08T15:07:33.435981+00:00"
+}

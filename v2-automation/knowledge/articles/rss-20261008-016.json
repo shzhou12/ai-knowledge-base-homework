@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261008-016",
+  "title": "Humanity's Sixth Sense: Benchmarking Intuitive Visual Reasoning in Multimodal Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.08966",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-08T15:06:47.336739+00:00",
+  "collected_at": "2026-10-08T15:06:47.336739+00:00",
+  "summary": "该论文提出了一个基准测试，用于评估多模态模型在直觉视觉推理方面的能力，类似于人类的第六感。通过系统性的评估，揭示了当前模型在直觉视觉理解上的不足，为未来多模态推理研究提供了重要参考。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-08T15:07:33.436010+00:00"
+}

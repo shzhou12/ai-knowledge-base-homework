@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261008-002",
+  "title": "Docker Agent",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://github.com/docker/docker-agent",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-10-08T15:06:46.486144+00:00",
+  "collected_at": "2026-10-08T15:06:46.486144+00:00",
+  "summary": "Docker Agent 是 Docker 官方推出的 AI 智能体，旨在自动化容器化应用的构建、部署和运维任务。它通过自然语言交互简化了 Docker 工作流，降低了容器技术的使用门槛，提升了开发效率。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "deployment",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-08T15:07:33.435968+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261008-011",
+  "title": "Humanize: Judgement Engineering for Agentic Coding",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.08900",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-08T15:06:47.336714+00:00",
+  "collected_at": "2026-10-08T15:06:47.336714+00:00",
+  "summary": "该论文提出了一种名为 Humanize 的评判工程（Judgement Engineering）方法，旨在提升智能体编码（Agentic Coding）的可靠性与安全性。通过将人类判断融入智能体的决策循环，该方法有望改善代码生成质量并减少错误传播。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "code-generation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-08T15:07:33.435994+00:00"
+}
