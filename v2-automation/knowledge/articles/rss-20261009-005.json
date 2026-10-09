@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261009-005",
+  "title": "Agent-Controlled Forgetting for Tool-Using Agents: Reversible Context Curation in Practice",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.10590",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-09T14:51:40.175527+00:00",
+  "collected_at": "2026-10-09T14:51:40.175527+00:00",
+  "summary": "该论文提出了一种由智能体控制的遗忘机制，用于工具使用型智能体，通过可逆的上下文策展来管理长期记忆。核心价值在于使智能体能够主动遗忘无关或过时的信息，同时保持可恢复性，从而提升工具使用任务中的效率和决策质量。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-09T14:52:28.881325+00:00"
+}

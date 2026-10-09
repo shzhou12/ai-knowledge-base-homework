@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261009-017",
+  "title": "Curating Always-Loaded Context for LLM Agents: A Capacitated Assortment Model with Censored Feedback",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.11007",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-09T14:51:40.175584+00:00",
+  "collected_at": "2026-10-09T14:51:40.175584+00:00",
+  "summary": "本文研究LLM智能体常驻上下文的优化选择问题，将其建模为带容量约束的选品模型，并处理反馈截断（仅能观察到所选上下文的效果）。该工作为智能体上下文管理提供了理论框架和实用方法，有助于提升长对话或复杂任务中的效率与性能。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "prompt-engineering"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-09T14:52:28.881368+00:00"
+}

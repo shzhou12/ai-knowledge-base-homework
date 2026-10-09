@@ -1,0 +1,21 @@
+{
+  "id": "rss-20261009-007",
+  "title": "The Harness as the Only Mutable Surface: Compliance-Bounded Self-Evolution of LLM Agents in Credit Pipelines, with a Measured Admission Gate",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.10629",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-09T14:51:40.175539+00:00",
+  "collected_at": "2026-10-09T14:51:40.175539+00:00",
+  "summary": "该论文提出将LLM智能体的可变更面限制在\"harness\"（外部控制层），在信贷流水线等合规敏感场景中实现有界自我进化，并引入可度量的准入闸门机制。核心价值在于为高风险金融领域的智能体部署提供了一种兼顾自适应能力与合规约束的架构范式。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "deployment",
+    "security",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-09T14:52:28.881332+00:00"
+}

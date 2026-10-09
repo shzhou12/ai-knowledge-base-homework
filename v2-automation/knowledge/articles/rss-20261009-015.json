@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261009-015",
+  "title": "Learning How to Search for Plans with Exponentially Less Space",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.10954",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-09T14:51:40.175576+00:00",
+  "collected_at": "2026-10-09T14:51:40.175576+00:00",
+  "summary": "该论文研究在规划任务中如何以指数级更少的空间进行搜索，可能通过压缩状态表示或利用问题结构来降低内存需求。其价值在于提升大规模规划问题的可扩展性，使资源受限环境下的智能体规划成为可能。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "agent"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-09T14:52:28.881362+00:00"
+}

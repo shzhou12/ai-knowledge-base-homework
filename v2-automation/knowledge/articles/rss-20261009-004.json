@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261009-004",
+  "title": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.10549",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-09T14:51:40.175512+00:00",
+  "collected_at": "2026-10-09T14:51:40.175512+00:00",
+  "summary": "该论文提出通过可扩展的智能体-系统交互来合成连贯的企业数据，利用模拟环境生成高质量、结构化的企业级数据。其核心价值在于解决企业数据稀缺和隐私问题，为训练和评估AI系统提供可扩展的数据生成方案。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-09T14:52:28.881301+00:00"
+}
