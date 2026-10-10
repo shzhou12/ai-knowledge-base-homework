@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261010-002",
+  "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-10-10T14:08:22.334876+00:00",
+  "collected_at": "2026-10-10T14:08:22.334876+00:00",
+  "summary": "该项目让 AI 智能体能够在屏幕上绘制大箭头、方框和文字，实现可视化标注与交互。它通过工具调用扩展了智能体的表达能力，适用于演示、教学和调试等场景。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-10T14:09:17.711742+00:00"
+}
