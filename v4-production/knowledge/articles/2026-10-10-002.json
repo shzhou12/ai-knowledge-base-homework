@@ -1,0 +1,18 @@
+{
+  "id": "2026-10-10-002",
+  "title": "DietrichGebert/ponytail",
+  "source": "github",
+  "url": "https://github.com/DietrichGebert/ponytail",
+  "collected_at": "2026-10-10T03:34:05.491340+00:00",
+  "summary": "Ponytail 是一个面向 AI 编程代理（AI coding agent）的行为引导项目，核心理念是让 AI 像团队里最懒的资深开发者一样思考——通过抑制过度工程化倾向，鼓励代理优先选择不写代码、少写代码或复用现有方案的解决路径。它针对当前 LLM 代理普遍存在的「过度实现」问题（如无谓抽象、冗余依赖、重复造轮子），以提示词或规则约束的方式引导代理遵循 YAGNI 与最小改动原则。项目以「最好的代码就是你没写的代码」为口号，适合集成到 Claude Code、Cursor 等代理工作流中，帮助降低代码膨胀与维护成本。",
+  "tags": [
+    "AI Agent",
+    "代码生成",
+    "提示工程",
+    "YAGNI",
+    "开发效率"
+  ],
+  "relevance_score": 0.72,
+  "category": "agent",
+  "key_insight": "通过约束 AI 代理的「过度实现」本能，让最小化代码成为默认策略，而非事后优化。"
+}
