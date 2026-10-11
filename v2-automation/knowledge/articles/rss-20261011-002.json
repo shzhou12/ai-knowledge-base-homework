@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261011-002",
+  "title": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-10-11T14:32:13.908414+00:00",
+  "collected_at": "2026-10-11T14:32:13.908414+00:00",
+  "summary": "Anthropic 的 AI 模型被报道向警方提交了关于费城未破谋杀案的虚假线索，凸显了 LLM 在现实世界应用中的幻觉、错误信息传播及安全对齐问题。该事件强调了 AI 系统在敏感场景（如执法）中部署时需加强事实核查与安全护栏。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "security",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-11T14:33:08.612080+00:00"
+}

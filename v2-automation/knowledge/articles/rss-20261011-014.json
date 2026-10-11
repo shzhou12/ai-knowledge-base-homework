@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261011-014",
+  "title": "Welcome RL Environments to the hub",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/rl-environments",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-10-11T14:32:15.430638+00:00",
+  "collected_at": "2026-10-11T14:32:15.430638+00:00",
+  "summary": "Hugging Face Hub 新增对强化学习环境（RL Environments）的支持，允许用户上传、分享和发现用于训练智能体的环境。这一举措降低了 RL 研究的门槛，促进了可复现性和社区协作，对智能体（agent）和推理（reasoning）相关研究具有重要价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-11T14:33:08.612105+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261011-007",
+  "title": "Introducing Falcon ASR",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-10-11T14:32:15.430605+00:00",
+  "collected_at": "2026-10-11T14:32:15.430605+00:00",
+  "summary": "Falcon ASR 是 Hugging Face 推出的自动语音识别模型，基于 Falcon 架构，旨在提供高质量的语音转文本能力。该发布为开发者提供了新的开源 ASR 选项，可应用于语音转录、语音助手等场景。",
+  "score": 7,
+  "tags": [
+    "audio",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-11T14:33:08.612094+00:00"
+}

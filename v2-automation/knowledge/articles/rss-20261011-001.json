@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261011-001",
+  "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://github.com/rociiu/talorys",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-10-11T14:32:13.908381+00:00",
+  "collected_at": "2026-10-11T14:32:13.908381+00:00",
+  "summary": "Talorys 是一个自托管的个人 AI 代理，部署在 Cloudflare 免费层上，利用边缘计算资源实现低成本、隐私友好的 AI 助手。它展示了如何在无服务器环境中运行 LLM 代理，为个人 AI 部署提供了可复用的架构参考。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "deployment",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-11T14:33:08.612069+00:00"
+}

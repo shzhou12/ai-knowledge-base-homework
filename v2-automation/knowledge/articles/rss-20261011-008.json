@@ -1,0 +1,21 @@
+{
+  "id": "rss-20261011-008",
+  "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-10-11T14:32:15.430610+00:00",
+  "collected_at": "2026-10-11T14:32:15.430610+00:00",
+  "summary": "该文章介绍了如何通过微调单一模型家族（Nemotron）在IOI（国际信息学奥林匹克）和IMO（国际数学奥林匹克）两个竞赛中均获得金牌级成绩。核心价值在于展示了统一的微调策略能够同时提升代码生成和数学推理能力，为构建通用竞赛级AI模型提供了实践参考。",
+  "score": 8,
+  "tags": [
+    "fine-tuning",
+    "llm",
+    "reasoning",
+    "code-generation",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-11T14:33:08.612097+00:00"
+}

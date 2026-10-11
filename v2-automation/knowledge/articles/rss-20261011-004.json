@@ -1,0 +1,17 @@
+{
+  "id": "rss-20261011-004",
+  "title": "Impactful scheduling for GPU clusters",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-10-11T14:32:15.430560+00:00",
+  "collected_at": "2026-10-11T14:32:15.430560+00:00",
+  "summary": "本文探讨了 GPU 集群调度策略，旨在提升大规模 AI 训练和推理任务的资源利用率和执行效率。通过分析不同调度算法对作业完成时间的影响，为优化集群性能提供了实用指导。",
+  "score": 7,
+  "tags": [
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-11T14:33:08.612085+00:00"
+}

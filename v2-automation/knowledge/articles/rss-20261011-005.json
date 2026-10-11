@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261011-005",
+  "title": "The model that didn&apos;t exist, so you made it yourself",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/building-with-ml-intern",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-10-11T14:32:15.430590+00:00",
+  "collected_at": "2026-10-11T14:32:15.430590+00:00",
+  "summary": "该内容来自 Hugging Face Blog，标题为“The model that didn't exist, so you made it yourself”，探讨了当所需模型不存在时，开发者自行构建或微调模型的实践。核心价值在于鼓励社区创新，提供从零开始创建定制模型的思路，可能涉及微调、数据准备和部署等环节。",
+  "score": 7,
+  "tags": [
+    "fine-tuning",
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-11T14:33:08.612088+00:00"
+}
