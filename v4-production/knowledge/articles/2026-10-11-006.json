@@ -1,0 +1,18 @@
+{
+  "id": "2026-10-11-006",
+  "title": "JuliusBrussee/caveman",
+  "source": "github",
+  "url": "https://github.com/JuliusBrussee/caveman",
+  "collected_at": "2026-10-11T03:07:09.110986+00:00",
+  "summary": "Caveman 是一个面向编码智能体（coding agents）的提示词技能与代理工具，其核心理念是「用更少的 token 完成同样的任务」。它通过让 AI 以「原始人式」的极简语言风格进行交流，从而大幅压缩提示词与响应中的 token 消耗，官方宣称可减少约 65% 的 token 使用量。该项目在社区中迅速走红，适用于需要降低 LLM 调用成本、提升上下文窗口利用率的场景，尤其适合长时间运行的编码代理任务。其本质是一种提示工程优化策略，通过改变输出风格来换取成本与效率的收益。",
+  "tags": [
+    "提示工程",
+    "token优化",
+    "编码代理",
+    "成本优化",
+    "LLM"
+  ],
+  "relevance_score": 0.82,
+  "category": "agent",
+  "key_insight": "通过极简语言风格压缩 token 消耗，以风格换成本，是提示工程中一种低成本高收益的优化思路。"
+}
