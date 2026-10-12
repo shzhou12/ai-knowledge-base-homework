@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261012-011",
+  "title": "MagicBeanStalk: Escaping the RLVR Zero Advantage Trap with Recursive Data Synthesis",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.12659",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-12T17:12:56.954435+00:00",
+  "collected_at": "2026-10-12T17:12:56.954435+00:00",
+  "summary": "MagicBeanStalk 提出了一种递归数据合成方法，旨在解决 RLVR（可验证奖励强化学习）中的零优势陷阱问题，即当所有采样输出获得相同奖励时，策略梯度消失。该方法通过递归生成多样化的合成数据来维持优势信号，从而提升 LLM 在推理任务上的强化学习效果。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "fine-tuning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-12T17:14:01.381135+00:00"
+}

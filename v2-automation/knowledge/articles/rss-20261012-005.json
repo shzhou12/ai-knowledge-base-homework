@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261012-005",
+  "title": "EliteTable: Self-Improving Program Search for Executable Control Policies",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.12536",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-12T17:12:56.954405+00:00",
+  "collected_at": "2026-10-12T17:12:56.954405+00:00",
+  "summary": "EliteTable 提出了一种自改进的程序搜索方法，用于自动生成可执行的控制策略。该方法通过迭代优化程序表示，在控制任务中实现了无需人工干预的策略学习，为自动化决策与机器人控制提供了新思路。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "code-generation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-12T17:14:01.381118+00:00"
+}

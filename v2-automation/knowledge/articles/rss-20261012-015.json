@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261012-015",
+  "title": "VEPA: Verified Evolving Formal Policy for Lifelong LLM Agent Guardrails",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.12813",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-12T17:12:56.954449+00:00",
+  "collected_at": "2026-10-12T17:12:56.954449+00:00",
+  "summary": "VEPA 提出了一种经过验证的演化形式化策略，用于为终身学习的 LLM 智能体提供持续的安全护栏。该方法通过形式化验证确保策略在演化过程中始终保持安全性和正确性，从而支持智能体在长期部署中动态适应新环境而不违反安全约束。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "security",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-12T17:14:01.381147+00:00"
+}

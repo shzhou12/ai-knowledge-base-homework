@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261012-012",
+  "title": "Faithful and Complete LLM-Assisted Automated Construction of Hierarchical Hardware Knowledge Graphs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.12762",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-12T17:12:56.954438+00:00",
+  "collected_at": "2026-10-12T17:12:56.954438+00:00",
+  "summary": "该论文提出了一种利用大语言模型（LLM）忠实且完整地自动构建分层硬件知识图谱的方法，旨在解决硬件领域知识结构化过程中人工成本高和覆盖不全的问题。其核心价值在于通过LLM辅助实现知识图谱的自动化构建，提升硬件知识管理的效率与完整性。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-12T17:14:01.381140+00:00"
+}

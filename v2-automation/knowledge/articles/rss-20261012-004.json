@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261012-004",
+  "title": "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.12493",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-12T17:12:56.954373+00:00",
+  "collected_at": "2026-10-12T17:12:56.954373+00:00",
+  "summary": "本文是一篇立场论文，指出当前可解释AI（XAI）中用于评估特征重要性解释忠实性的指标存在结构性错位问题，即这些指标往往依赖锚点或基线假设，而实际解释场景中缺乏可靠锚点。文章系统分析了这种错位的根源，并呼吁重新思考忠实性评估框架，对XAI评估方法的改进具有重要指导价值。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-12T17:14:01.381116+00:00"
+}
