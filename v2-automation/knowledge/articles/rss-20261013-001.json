@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261013-001",
+  "title": "AI is a tool and using it well takes skill",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-10-13T15:28:23.315349+00:00",
+  "collected_at": "2026-10-13T15:28:23.315349+00:00",
+  "summary": "本文探讨了将 AI 视为工具的观点，强调有效使用 AI 需要技能，类似于掌握任何工具。核心价值在于提醒用户 AI 的输出质量取决于使用者的提示工程、批判性思维和领域知识，而非自动获得正确答案。",
+  "score": 6,
+  "tags": [
+    "prompt-engineering",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-13T15:29:20.381095+00:00"
+}
