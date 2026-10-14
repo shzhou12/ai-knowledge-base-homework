@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261014-008",
+  "title": "Visualizing the World Model in an Agent's Value Function",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.14186",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-14T13:13:38.820840+00:00",
+  "collected_at": "2026-10-14T13:13:38.820840+00:00",
+  "summary": "该论文探讨了如何可视化智能体价值函数中隐含的世界模型，揭示了价值函数不仅编码了状态价值，还内隐地学习了环境动态和预测信息。这项工作为理解强化学习智能体的内部表征提供了新视角，有助于提升智能体的可解释性和泛化能力。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-14T13:14:37.564409+00:00"
+}

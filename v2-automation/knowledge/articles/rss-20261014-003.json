@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261014-003",
+  "title": "ClawLoop: Self-Improving Agents via Harness-Native Training Loop",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.14118",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-14T13:13:38.820814+00:00",
+  "collected_at": "2026-10-14T13:13:38.820814+00:00",
+  "summary": "ClawLoop 提出了一种基于 Harness 原生训练循环的自我改进智能体方法，使智能体能够在执行任务的过程中持续优化自身策略。该工作通过将训练循环与智能体运行环境深度集成，实现了无需外部标注数据的在线自我提升，为自主智能体的持续学习提供了新思路。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "fine-tuning",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-14T13:14:37.564395+00:00"
+}

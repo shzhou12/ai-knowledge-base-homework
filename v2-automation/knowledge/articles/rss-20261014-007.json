@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261014-007",
+  "title": "Unconstrained CTI-REALM with Open-Weights",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.14180",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-14T13:13:38.820836+00:00",
+  "collected_at": "2026-10-14T13:13:38.820836+00:00",
+  "summary": "该论文提出了一种无约束的CTI-REALM方法，利用开放权重模型进行网络威胁情报的实体与关系抽取。其核心价值在于摆脱对闭源大模型的依赖，通过开源方案实现高效、可复现的CTI信息抽取，推动安全领域的透明研究。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "security",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-14T13:14:37.564407+00:00"
+}

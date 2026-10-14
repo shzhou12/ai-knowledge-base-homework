@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261014-018",
+  "title": "ACED-Bench: Evaluating How LLM Agents Acquire and Act on Causal Evidence",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.14381",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-14T13:13:38.820878+00:00",
+  "collected_at": "2026-10-14T13:13:38.820878+00:00",
+  "summary": "ACED-Bench 是一个用于评估 LLM 智能体获取和利用因果证据能力的基准测试。该工作填补了现有评估在因果推理与行动结合方面的空白，为构建更可靠的自主智能体提供了标准化衡量工具。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-14T13:14:37.564436+00:00"
+}

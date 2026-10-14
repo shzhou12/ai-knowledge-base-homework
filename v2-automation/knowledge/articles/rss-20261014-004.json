@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261014-004",
+  "title": "Correction Training for Diffusion Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.14136",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-14T13:13:38.820818+00:00",
+  "collected_at": "2026-10-14T13:13:38.820818+00:00",
+  "summary": "该论文提出了一种针对扩散模型的校正训练方法，旨在提升生成样本的质量与稳定性。通过引入校正机制，模型能够更准确地逼近目标分布，在图像生成等任务中展现出更好的性能。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-14T13:14:37.564398+00:00"
+}

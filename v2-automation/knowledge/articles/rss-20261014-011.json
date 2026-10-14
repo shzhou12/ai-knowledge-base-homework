@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261014-011",
+  "title": "Harness^2: Recursive Agent Harnessing for an Open World",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.14224",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-14T13:13:38.820852+00:00",
+  "collected_at": "2026-10-14T13:13:38.820852+00:00",
+  "summary": "该论文提出 Harness^2，一种递归式智能体框架，旨在通过递归组合和调用工具来应对开放世界中的复杂任务。其核心价值在于增强了智能体在动态环境中的适应性和任务分解能力，为构建更通用的自主系统提供了新思路。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-14T13:14:37.564417+00:00"
+}

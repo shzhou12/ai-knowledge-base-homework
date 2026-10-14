@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261014-005",
+  "title": "Long-Horizon-Terminal-Bench 2.0: Automating Diverse Task Construction and Measuring Sustained Agent Progress",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.14146",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-14T13:13:38.820827+00:00",
+  "collected_at": "2026-10-14T13:13:38.820827+00:00",
+  "summary": "该论文提出 Long-Horizon-Terminal-Bench 2.0，旨在自动化构建多样化的长时程终端任务，并建立衡量智能体持续进展的评估体系。其核心价值在于解决长时程任务基准稀缺和构建成本高的问题，为智能体在复杂终端环境中的长期规划与执行能力提供可扩展的评测方案。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "tool-use",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-14T13:14:37.564401+00:00"
+}
