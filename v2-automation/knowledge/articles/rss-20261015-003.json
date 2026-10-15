@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261015-003",
+  "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-10-15T12:59:39.281685+00:00",
+  "collected_at": "2026-10-15T12:59:39.281685+00:00",
+  "summary": "作者在 Hacker News 上发布帖子后，网站遭遇大量 AI 爬虫流量，导致服务器负载激增。文章分析了这些流量的特征、来源及对网站运营的影响，并探讨了应对 AI 爬虫的策略。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-15T13:00:39.213502+00:00"
+}

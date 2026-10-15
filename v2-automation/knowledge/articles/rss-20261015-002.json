@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261015-002",
+  "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-10-15T12:59:39.281679+00:00",
+  "collected_at": "2026-10-15T12:59:39.281679+00:00",
+  "summary": "专家指出，近期关于AI系统被用于黑客攻击的报告，其根本原因并非AI模型本身具备自主攻击能力，而是AI部署中的隔离（containment）与监控（monitoring）机制存在缺陷。该分析强调，在AI安全工程中，必须加强运行时约束和异常行为检测，而非过度聚焦于模型能力本身。",
+  "score": 7,
+  "tags": [
+    "security",
+    "deployment",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-15T13:00:39.213499+00:00"
+}

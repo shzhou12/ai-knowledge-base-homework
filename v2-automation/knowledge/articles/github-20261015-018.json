@@ -1,0 +1,21 @@
+{
+  "id": "github-20261015-018",
+  "title": "upstash/context7",
+  "source": "github",
+  "source_url": "https://github.com/upstash/context7",
+  "author": "upstash",
+  "published_at": "2026-10-15T12:55:46Z",
+  "collected_at": "2026-10-15T12:59:39.077608+00:00",
+  "summary": "Context7 是一个为 AI 代理提供最新文档的平台，旨在解决 LLM 因训练数据过时而无法准确回答技术文档问题的痛点。它通过动态获取和注入最新文档，提升 AI 代理在代码生成和工具使用中的准确性与可靠性。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "rag",
+    "llm",
+    "tool-use",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-15T13:00:39.213480+00:00"
+}
