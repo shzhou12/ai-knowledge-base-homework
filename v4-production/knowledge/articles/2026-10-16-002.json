@@ -1,0 +1,18 @@
+{
+  "id": "2026-10-16-002",
+  "title": "DietrichGebert/ponytail",
+  "source": "github",
+  "url": "https://github.com/DietrichGebert/ponytail",
+  "collected_at": "2026-10-16T02:26:47.901621+00:00",
+  "summary": "Ponytail 是一个面向 AI 编码代理的行为约束项目，核心理念是让 AI agent 像团队里最懒的资深开发者一样思考——即优先选择不写代码、少写代码或复用现有方案的解决路径。它通过提示词或规则约束，抑制 AI 过度工程、重复造轮子和无谓抽象的倾向，倡导「最好的代码就是你没写的代码」。该项目属于 AI 代理工作流优化类工具，适用于与 Claude Code、Cursor 等编码代理配合使用，帮助降低代码膨胀和维护成本，提升输出方案的简洁性与实用性。",
+  "tags": [
+    "AI Agent",
+    "代码生成",
+    "提示工程",
+    "开发效率",
+    "极简主义"
+  ],
+  "relevance_score": 0.72,
+  "category": "agent",
+  "key_insight": "通过行为约束让 AI 编码代理优先选择「不写代码」的解法，以对抗过度工程化。"
+}
