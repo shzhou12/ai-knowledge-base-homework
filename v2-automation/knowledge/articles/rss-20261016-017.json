@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261016-017",
+  "title": "Temporal Specification Guidance for Text-to-Video Generation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.20822",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-16T12:55:57.143544+00:00",
+  "collected_at": "2026-10-16T12:55:57.143544+00:00",
+  "summary": "该论文提出了一种时序规范引导方法，用于提升文本到视频生成中的时序一致性和可控性。通过显式建模视频中的时序结构，该方法能够生成更符合文本描述且动作连贯的视频内容，对视频生成领域具有实用价值。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "prompt-engineering"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-16T12:56:59.209542+00:00"
+}

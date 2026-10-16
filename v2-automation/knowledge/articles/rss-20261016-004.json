@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261016-004",
+  "title": "Evaluating Model Capabilities After Benchmark Saturation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.20667",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-16T12:55:57.143472+00:00",
+  "collected_at": "2026-10-16T12:55:57.143472+00:00",
+  "summary": "该论文探讨了当AI基准测试达到饱和（即模型性能接近或达到上限）后，如何有效评估模型能力的问题。它提出了新的评估方法和指标，以区分模型在饱和基准上的细微差异，对于推动模型评估领域的进步具有重要价值。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-16T12:56:59.209497+00:00"
+}

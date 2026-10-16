@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261016-012",
+  "title": "ARIA: Runtime Inspection and Amendment for Multi-Agent Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.20780",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-16T12:55:57.143523+00:00",
+  "collected_at": "2026-10-16T12:55:57.143523+00:00",
+  "summary": "ARIA 提出了一种针对多智能体系统的运行时检查与修正机制，旨在动态监控智能体交互并在检测到异常或错误时进行实时干预。该工作提升了多智能体系统在复杂任务中的可靠性与安全性，为部署鲁棒的多智能体应用提供了新思路。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "agent",
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-16T12:56:59.209523+00:00"
+}

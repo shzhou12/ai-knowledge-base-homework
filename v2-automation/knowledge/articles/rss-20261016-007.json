@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261016-007",
+  "title": "When Correctness Feedback Erases Evidence: Phase-Separated Completeness Auditing in Verus",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.20676",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-16T12:55:57.143496+00:00",
+  "collected_at": "2026-10-16T12:55:57.143496+00:00",
+  "summary": "本文提出了一种在 Verus 验证器中进行阶段分离完整性审计的方法，旨在解决正确性反馈可能掩盖证据的问题。该方法通过将验证过程分为不同阶段，分别审计证据的完整性，从而提升形式化验证的可靠性和透明度。其价值在于为 AI 辅助代码生成与验证提供了更严谨的评估机制。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-16T12:56:59.209508+00:00"
+}

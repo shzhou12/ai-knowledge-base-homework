@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261016-011",
+  "title": "When Reality Outpaces Cognition: A New Scaling Principle for Reliable Intelligence",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.20764",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-16T12:55:57.143518+00:00",
+  "collected_at": "2026-10-16T12:55:57.143518+00:00",
+  "summary": "本文提出了一种新的扩展原则，旨在解决现实世界复杂性超出认知能力时智能系统的可靠性问题。该原则通过动态调整模型容量与推理深度来匹配环境复杂度，从而提升AI在开放场景下的鲁棒性和决策质量。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-16T12:56:59.209521+00:00"
+}

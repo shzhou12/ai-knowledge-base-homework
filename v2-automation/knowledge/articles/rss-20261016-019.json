@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261016-019",
+  "title": "Evolving Together, Failing Apart: The Skill-Policy Co-evolution Trap in Self-Improving Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.20845",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-16T12:55:57.143553+00:00",
+  "collected_at": "2026-10-16T12:55:57.143553+00:00",
+  "summary": "该论文研究了自改进智能体中技能与策略协同进化时出现的失败陷阱，即技能提升与策略更新相互干扰导致性能退化。通过分析这种协同进化陷阱，论文提出了诊断方法和可能的缓解策略，对构建稳定自改进的AI智能体具有重要指导价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-16T12:56:59.209548+00:00"
+}
