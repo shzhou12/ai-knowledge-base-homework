@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261018-001",
+  "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://llmspeed.dev/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-10-18T12:21:38.818699+00:00",
+  "collected_at": "2026-10-18T12:21:38.818699+00:00",
+  "summary": "Llmspeed 是一个工具，允许用户在购买硬件前测试本地 LLM 的运行速度，帮助用户评估不同模型和硬件配置的性能表现。它通过实际运行基准测试，提供直观的速度感受，从而辅助硬件采购决策。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-18T12:22:34.505004+00:00"
+}

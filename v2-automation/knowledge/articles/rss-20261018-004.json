@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261018-004",
+  "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/reflection-beam",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-10-18T12:21:40.243014+00:00",
+  "collected_at": "2026-10-18T12:21:40.243014+00:00",
+  "summary": "Beam 是一个 501B 参数的开源大模型，强调用户可完全拥有、定制和扩展。该模型为大规模 LLM 的私有化部署与微调提供了新选择，降低了超大规模模型的使用门槛。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-18T12:22:34.505028+00:00"
+}
