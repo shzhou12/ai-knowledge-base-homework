@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261019-003",
+  "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://arxiv.org/abs/2610.18861",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-10-19T15:11:43.048531+00:00",
+  "collected_at": "2026-10-19T15:11:43.048531+00:00",
+  "summary": "该内容提出了一种混合推理智能体架构，让LLM智能体在潜在空间中执行推理，并通过文本进行行动输出。这种设计旨在结合潜在空间推理的高效性与文本接口的可解释性，为智能体推理与工具使用提供新思路。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "reasoning",
+    "tool-use"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-19T15:12:33.963407+00:00"
+}

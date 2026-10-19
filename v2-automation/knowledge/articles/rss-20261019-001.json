@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261019-001",
+  "title": "Ousted Savannah police officer gave ICE agent husband access to Flock system",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-10-19T15:11:43.048496+00:00",
+  "collected_at": "2026-10-19T15:11:43.048496+00:00",
+  "summary": "该报道披露一名被解职的萨凡纳警察让其ICE探员丈夫访问Flock车牌识别系统，暴露了执法监控平台在权限控制和内部威胁防范上的安全漏洞。事件凸显了敏感监控系统访问管理的重要性，对公共安全技术部署具有警示价值。",
+  "score": 6,
+  "tags": [
+    "security",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-19T15:12:33.963388+00:00"
+}
