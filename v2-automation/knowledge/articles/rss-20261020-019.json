@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261020-019",
+  "title": "Self-Improving Video-to-Action Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.24177",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-20T13:11:07.512917+00:00",
+  "collected_at": "2026-10-20T13:11:07.512917+00:00",
+  "summary": "该论文提出了一种自我改进的视频到动作模型，使模型能够从视频输入中学习并优化动作生成策略，无需大量人工标注。其核心价值在于通过自监督迭代提升跨模态理解与决策能力，为机器人学习和视频理解领域提供了可扩展的新范式。",
+  "score": 8,
+  "tags": [
+    "vision",
+    "reasoning",
+    "fine-tuning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-20T13:12:01.074094+00:00"
+}

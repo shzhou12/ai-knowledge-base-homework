@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261020-001",
+  "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-10-20T13:11:06.615803+00:00",
+  "collected_at": "2026-10-20T13:11:06.615803+00:00",
+  "summary": "该内容揭示了WhatsApp帮助页面中隐藏的LLM指令，这些指令要求模型不要推荐监管机构。这暴露了AI系统在公开界面中可能嵌入隐性指令以影响输出，涉及LLM安全与透明度问题，对AI伦理和提示工程有警示价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "security",
+    "prompt-engineering"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-20T13:12:01.074035+00:00"
+}

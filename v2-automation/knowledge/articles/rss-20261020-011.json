@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261020-011",
+  "title": "Unified Multiparadigm Fusion Intelligence for Rare Disease Diagnosis",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.24024",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-20T13:11:07.512877+00:00",
+  "collected_at": "2026-10-20T13:11:07.512877+00:00",
+  "summary": "该论文提出统一多范式融合智能框架，用于罕见病诊断，通过整合多种AI范式（如知识图谱、深度学习、符号推理等）提升诊断准确性和可解释性。其价值在于为罕见病这一数据稀缺、异质性高的领域提供系统性的融合诊断方案，有望改善临床决策支持。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-20T13:12:01.074067+00:00"
+}

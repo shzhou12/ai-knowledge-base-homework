@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261020-018",
+  "title": "TorchTPU - A Hybrid Eager/Compiled Architecture for Native PyTorch Execution on TPU",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.24161",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-20T13:11:07.512912+00:00",
+  "collected_at": "2026-10-20T13:11:07.512912+00:00",
+  "summary": "TorchTPU 提出了一种混合即时/编译架构，使 PyTorch 模型能够原生地在 TPU 上执行，无需修改代码或依赖中间转换层。该工作降低了 PyTorch 与 TPU 之间的集成门槛，提升了开发效率和硬件可移植性，对深度学习框架与专用硬件的协同优化具有实用价值。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-20T13:12:01.074091+00:00"
+}

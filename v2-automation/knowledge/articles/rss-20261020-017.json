@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261020-017",
+  "title": "A Conditional No-Hair Theorem for Transformers: How Language Models Forget Their Prompt",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.24133",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-20T13:11:07.512907+00:00",
+  "collected_at": "2026-10-20T13:11:07.512907+00:00",
+  "summary": "该论文提出了一种针对Transformer语言模型的'条件无毛定理'，类比黑洞无毛定理，从理论上分析了模型在生成过程中如何逐渐遗忘输入提示信息。研究揭示了语言模型对提示的依赖机制及其信息衰减规律，为理解模型行为、改进提示工程和提升可控性提供了理论依据。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "prompt-engineering",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-20T13:12:01.074088+00:00"
+}

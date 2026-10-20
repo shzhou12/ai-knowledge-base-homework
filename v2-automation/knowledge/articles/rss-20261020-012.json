@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261020-012",
+  "title": "LogicVal:A Logic-Formalized Benchmark for Constraint Satisfaction in Text-to-Image Generation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.24051",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-20T13:11:07.512882+00:00",
+  "collected_at": "2026-10-20T13:11:07.512882+00:00",
+  "summary": "该论文提出了 LogicVal，一个基于逻辑形式化的基准，用于评估文本到图像生成模型在满足复杂逻辑约束方面的能力。其核心价值在于填补了现有评估方法对组合性约束（如否定、合取、析取）覆盖不足的空白，为模型推理与生成一致性提供了更严格的测试标准。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "vision",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-20T13:12:01.074070+00:00"
+}
