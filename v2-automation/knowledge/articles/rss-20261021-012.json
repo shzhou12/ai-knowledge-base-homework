@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261021-012",
+  "title": "SPEM: Structure-Aware Procedural Memory for Efficient Skill Use in LLM Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.26995",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-21T13:20:48.225640+00:00",
+  "collected_at": "2026-10-21T13:20:48.225640+00:00",
+  "summary": "该论文提出 SPEM（结构感知的程序性记忆），用于提升 LLM 智能体在技能使用中的效率。它通过结构化组织程序性记忆，让智能体更高效地检索和复用技能，从而减少冗余推理与试错成本。其价值在于为智能体技能管理提供了一种更系统、可扩展的记忆机制。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "reasoning",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-21T13:21:42.058120+00:00"
+}

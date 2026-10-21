@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261021-010",
+  "title": "LightCRS: Lightweight Multi-Domain Conversational Recommendation System",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.26948",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-21T13:20:48.225635+00:00",
+  "collected_at": "2026-10-21T13:20:48.225635+00:00",
+  "summary": "LightCRS 提出了一种轻量级的多领域对话推荐系统，旨在解决跨领域推荐中模型复杂度过高的问题。其核心价值在于通过轻量化架构实现高效的多领域知识迁移与对话交互，为资源受限场景下的推荐系统部署提供了可行方案。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-21T13:21:42.058115+00:00"
+}

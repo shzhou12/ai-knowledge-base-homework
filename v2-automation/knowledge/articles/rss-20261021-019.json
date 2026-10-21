@@ -1,0 +1,21 @@
+{
+  "id": "rss-20261021-019",
+  "title": "Omni-Woodpecker: Hallucination Correction via Evidence-Prior Rebalancing for Omni LLMs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.27103",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-21T13:20:48.225656+00:00",
+  "collected_at": "2026-10-21T13:20:48.225656+00:00",
+  "summary": "Omni-Woodpecker 提出了一种针对全模态大语言模型（Omni LLMs）的幻觉纠正方法，通过证据-先验重平衡（Evidence-Prior Rebalancing）机制来减少模型生成与事实不符的内容。该工作提升了全模态场景下模型输出的可靠性，对多模态推理与安全部署具有参考价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation",
+    "vision",
+    "audio"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-21T13:21:42.058137+00:00"
+}

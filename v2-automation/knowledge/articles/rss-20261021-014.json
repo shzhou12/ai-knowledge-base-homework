@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261021-014",
+  "title": "Teaching AI Agent to Play Poker Strategically Through Preference Optimization",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.27028",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-21T13:20:48.225644+00:00",
+  "collected_at": "2026-10-21T13:20:48.225644+00:00",
+  "summary": "该论文研究如何通过偏好优化（preference optimization）训练AI智能体在扑克游戏中采用策略性玩法，而非仅依赖监督学习或强化学习。其核心价值在于将偏好优化方法扩展到不完美信息博弈场景，为复杂策略决策任务提供了新的训练范式。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "fine-tuning",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-21T13:21:42.058126+00:00"
+}

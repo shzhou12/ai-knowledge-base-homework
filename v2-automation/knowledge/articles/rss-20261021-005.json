@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261021-005",
+  "title": "MedPAO-Assist: Edge-Deployable, Modality-Aware Agentic AI for Radiology Report Structuring",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.26913",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-21T13:20:48.225610+00:00",
+  "collected_at": "2026-10-21T13:20:48.225610+00:00",
+  "summary": "MedPAO-Assist 是一个面向放射学报告结构化的边缘可部署、模态感知的智能体 AI 系统，旨在通过自动化处理多模态医学数据提升报告生成效率。其核心价值在于结合边缘计算与智能体技术，实现低延迟、隐私保护的临床部署，为医学影像工作流提供实用解决方案。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "deployment",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-21T13:21:42.058103+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261021-006",
+  "title": "DataPraxis: Scaling Analytics Tasks via Verified Workspace Evolution",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.26924",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-21T13:20:48.225614+00:00",
+  "collected_at": "2026-10-21T13:20:48.225614+00:00",
+  "summary": "DataPraxis 提出了一种通过验证工作区演化来扩展分析任务的方法，旨在提升 AI 系统处理复杂数据分析任务的能力。该工作可能涉及智能体在动态工作区中迭代执行和验证操作，从而增强任务的可扩展性和可靠性。其价值在于为自动化数据分析提供了一种可验证的演化框架，有助于推动 AI 在数据科学领域的实际应用。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-21T13:21:42.058106+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261021-018",
+  "title": "A general-purpose System One decision model for clinical records",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.27099",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-21T13:20:48.225654+00:00",
+  "collected_at": "2026-10-21T13:20:48.225654+00:00",
+  "summary": "该论文提出了一种用于临床记录的通用System One决策模型，旨在模拟直觉式快速决策过程，以提升医疗记录处理的效率。其价值在于为临床文本分析提供了一种新的建模范式，可能减少对复杂推理链的依赖。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-21T13:21:42.058134+00:00"
+}
