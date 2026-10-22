@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261022-020",
+  "title": "An Evidence-Driven Multi-Agent Compound AI System for Head and Neck Proton Radiotherapy Planning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.29010",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-22T13:21:29.191147+00:00",
+  "collected_at": "2026-10-22T13:21:29.191147+00:00",
+  "summary": "该论文提出了一种证据驱动的多智能体复合AI系统，用于头颈部质子放射治疗计划。系统通过整合多智能体协作与证据推理，提升了放疗计划的自动化水平和临床决策支持能力，在复杂医疗规划场景中具有应用价值。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-22T13:22:21.912573+00:00"
+}

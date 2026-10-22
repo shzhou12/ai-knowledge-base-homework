@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261022-004",
+  "title": "Automating ML for Science: Can Frontier Agents Climb Scientific Hills in the Wild?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.28763",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-22T13:21:29.191063+00:00",
+  "collected_at": "2026-10-22T13:21:29.191063+00:00",
+  "summary": "该论文探讨了前沿AI智能体在真实科学场景中自动化机器学习的能力，提出了评估智能体能否自主完成科学发现中复杂ML任务的基准框架。核心价值在于系统性地检验当前智能体在开放科学环境下的实际表现与局限，为自动化科研工具的发展提供方向性指导。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-22T13:22:21.912521+00:00"
+}

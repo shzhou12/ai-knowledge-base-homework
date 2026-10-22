@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261022-011",
+  "title": "Hidden Messages Between Diffusion Language Model Agents: Causal Evidence for Latent Communication",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.28905",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-22T13:21:29.191107+00:00",
+  "collected_at": "2026-10-22T13:21:29.191107+00:00",
+  "summary": "该论文研究扩散语言模型智能体之间的隐藏消息传递，通过因果证据揭示智能体可在潜在空间中形成非显式的通信通道。其价值在于为多智能体系统的通信机制与可解释性提供新视角，并提示潜在的安全与对齐风险。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-22T13:22:21.912547+00:00"
+}
