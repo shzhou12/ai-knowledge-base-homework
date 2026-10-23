@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261023-020",
+  "title": "PLE: Physical-Engineering's Last Exam",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.30537",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-23T12:59:41.642200+00:00",
+  "collected_at": "2026-10-23T12:59:41.642200+00:00",
+  "summary": "PLE (Physical-Engineering's Last Exam) 是一个面向物理工程领域的大语言模型评估基准，旨在系统测试模型在工程问题上的推理与知识应用能力。该工作填补了现有基准在物理工程专业场景下的空白，为模型能力评估和后续改进提供了重要参考。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-23T13:00:42.613253+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261023-019",
+  "title": "Can LLMs Improve Their Own Harness? A Controlled Study on ARC-AGI-3",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.30499",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-23T12:59:41.642195+00:00",
+  "collected_at": "2026-10-23T12:59:41.642195+00:00",
+  "summary": "该论文在ARC-AGI-3基准上开展受控实验，探究LLM能否通过自我改进其推理框架（harness）来提升任务表现。研究为LLM自我优化能力提供了实证分析，对理解模型自我改进的边界与机制具有参考价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-23T13:00:42.613250+00:00"
+}

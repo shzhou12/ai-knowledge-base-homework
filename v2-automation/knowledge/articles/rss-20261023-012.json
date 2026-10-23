@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261023-012",
+  "title": "SpecMAGIC: Specification-Guided Multi-Task Generalization in Multi-Agent Reinforcement Learning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.30443",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-23T12:59:41.642141+00:00",
+  "collected_at": "2026-10-23T12:59:41.642141+00:00",
+  "summary": "SpecMAGIC 提出了一种基于规范引导的多任务泛化方法，用于多智能体强化学习，旨在提升智能体在未见任务上的适应能力。该方法通过将任务规范作为条件输入，结合多任务训练策略，显著增强了策略的泛化性能，为多智能体系统在动态环境中的部署提供了新思路。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-23T13:00:42.613227+00:00"
+}

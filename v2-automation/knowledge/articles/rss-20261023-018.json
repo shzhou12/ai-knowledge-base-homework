@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261023-018",
+  "title": "From Prose to Properties: Testing Research Claims with ARATest for Agent-Native Science",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.30495",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-23T12:59:41.642191+00:00",
+  "collected_at": "2026-10-23T12:59:41.642191+00:00",
+  "summary": "该论文提出ARATest框架，用于将研究论文中的自然语言声明自动转化为可测试的属性，并借助智能体原生科学（Agent-Native Science）范式进行验证。其核心价值在于弥合文本描述与可执行测试之间的鸿沟，提升研究可复现性和自动化评估效率。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-23T13:00:42.613246+00:00"
+}

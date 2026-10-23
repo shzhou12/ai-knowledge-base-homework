@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261023-004",
+  "title": "Neural Networks with Differentiable Belief-Function Layers",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.30173",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-23T12:59:41.642087+00:00",
+  "collected_at": "2026-10-23T12:59:41.642087+00:00",
+  "summary": "该论文提出可微分信念函数层，将信念函数理论（Dempster-Shafer证据理论）与神经网络端到端训练相结合，使网络能够显式建模和传播不确定性。其核心价值在于为深度学习提供了一种可解释的不确定性量化机制，有望提升模型在安全关键场景下的可靠性。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-23T13:00:42.613195+00:00"
+}

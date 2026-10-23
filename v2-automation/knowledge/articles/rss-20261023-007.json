@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261023-007",
+  "title": "Breaking the high-degree barrier in Lehmer's problem with a human-AI discovery loop",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.30277",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-23T12:59:41.642111+00:00",
+  "collected_at": "2026-10-23T12:59:41.642111+00:00",
+  "summary": "该论文提出一种人机协作发现循环，利用AI辅助数学探索，在Lehmer问题上突破了长期存在的高次障碍。其价值在于展示了AI与人类专家协同解决复杂数学难题的新范式，并可能推动数论及相关领域的研究进展。",
+  "score": 8,
+  "tags": [
+    "reasoning",
+    "agent"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-23T13:00:42.613206+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261023-016",
+  "title": "From Single-Actor Environments to Multi-Actor Event Worlds: Can LLMs Be Event World Models?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.30488",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-23T12:59:41.642175+00:00",
+  "collected_at": "2026-10-23T12:59:41.642175+00:00",
+  "summary": "该论文探讨大型语言模型（LLM）是否能够作为事件世界模型，从单智能体环境扩展到多智能体事件世界。核心价值在于提出并评估LLM在多智能体事件建模中的潜力，为多智能体系统与事件驱动模拟提供新视角。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "multi-agent",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-23T13:00:42.613240+00:00"
+}

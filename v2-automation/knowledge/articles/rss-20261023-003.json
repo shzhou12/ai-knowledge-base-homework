@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261023-003",
+  "title": "Accelerating Wildfire Hazard Mapping Across Canada with an AI Surrogate Modelling Framework",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.30170",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-23T12:59:41.642080+00:00",
+  "collected_at": "2026-10-23T12:59:41.642080+00:00",
+  "summary": "该论文提出了一种基于AI代理模型的框架，用于加速加拿大野火灾害制图，通过替代传统高计算成本模拟来快速生成风险地图。其核心价值在于显著提升野火风险评估效率，为应急管理和规划提供及时支持。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-23T13:00:42.613192+00:00"
+}
