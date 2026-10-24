@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261024-007",
+  "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/nvidia/kumo-relational",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-10-24T12:22:45.367910+00:00",
+  "collected_at": "2026-10-24T12:22:45.367910+00:00",
+  "summary": "NVIDIA Kumo 是一种针对关系型数据的新型方法，无需训练即可在关系数据上超越传统监督机器学习，显著降低了模型部署的门槛和成本。其核心价值在于提供了一种高效、免训练的关系数据学习范式，有望简化企业级数据分析和预测流程。",
+  "score": 8,
+  "tags": [
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-24T12:23:44.514204+00:00"
+}

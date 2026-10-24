@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261024-009",
+  "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-10-24T12:22:45.367916+00:00",
+  "collected_at": "2026-10-24T12:22:45.367916+00:00",
+  "summary": "本文是 TorchNeuron 性能分析系列的第一部分，聚焦于在 AWS Trainium 芯片上进行系统级性能剖析的方法与实践。内容介绍了如何利用系统级 profiling 工具定位 PyTorch 模型在 Trainium 上的性能瓶颈，为在专用 AI 加速器上优化训练和推理性能提供了实用指导。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-24T12:23:44.514208+00:00"
+}

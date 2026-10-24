@@ -1,0 +1,17 @@
+{
+  "id": "rss-20261024-013",
+  "title": "MPS in PyTorch 2.15",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/mps-pytorch-2-15",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-10-24T12:22:45.367927+00:00",
+  "collected_at": "2026-10-24T12:22:45.367927+00:00",
+  "summary": "该文章介绍了 PyTorch 2.15 中引入的 MPS（Metal Performance Shaders）后端支持，使开发者能够在 Apple Silicon 设备上高效运行深度学习模型。其核心价值在于扩展了 PyTorch 的硬件兼容性，为 Mac 用户提供了 GPU 加速的本地训练和推理能力。",
+  "score": 7,
+  "tags": [
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-24T12:23:44.514219+00:00"
+}
