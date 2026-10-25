@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261025-004",
+  "title": "Why is AI generated language so hard to understand?",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://arxiv.org/abs/2610.29162",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-10-25T12:53:22.926830+00:00",
+  "collected_at": "2026-10-25T12:53:22.926830+00:00",
+  "summary": "该文章探讨了AI生成语言难以理解的原因，涉及模型训练目标、解码策略和语言分布偏差等技术因素。其价值在于帮助开发者理解LLM输出可读性问题的根源，并为提示工程和模型调优提供改进方向。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "prompt-engineering",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-25T12:54:22.301211+00:00"
+}
