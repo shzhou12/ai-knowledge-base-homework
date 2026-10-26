@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261026-015",
+  "title": "RSI-Opt: Recursive Self-Improvement Optimizer Agents For Model Training",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.32026",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-26T14:43:56.931482+00:00",
+  "collected_at": "2026-10-26T14:43:56.931482+00:00",
+  "summary": "该论文提出RSI-Opt，一种用于模型训练的递归自我改进优化器代理。它利用代理机制在训练过程中递归地自我优化，旨在提升模型训练效率与性能。其价值在于为自动化模型训练优化提供了新思路，可能减少人工调参成本。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-26T14:44:58.440066+00:00"
+}

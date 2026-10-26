@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261026-019",
+  "title": "HyScale: Scaling Long-Context Training for Learned Sparse Attention",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.32057",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-26T14:43:56.931500+00:00",
+  "collected_at": "2026-10-26T14:43:56.931500+00:00",
+  "summary": "HyScale 提出了一种针对学习型稀疏注意力机制的长上下文训练扩展方法，旨在解决长序列训练中的计算与内存瓶颈。该工作通过优化稀疏注意力模式与训练策略，提升了模型在长上下文任务上的可扩展性和效率，对长文本理解与生成具有实用价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-26T14:44:58.440078+00:00"
+}

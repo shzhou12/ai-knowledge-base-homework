@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261026-013",
+  "title": "CEMIR vs. FISER: a comparative study of reasoning-based and enrichment-based approaches to pragmatic intent recognition",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.32022",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-26T14:43:56.931474+00:00",
+  "collected_at": "2026-10-26T14:43:56.931474+00:00",
+  "summary": "该论文对基于推理的方法（CEMIR）和基于丰富化的方法（FISER）在语用意图识别任务上进行了比较研究，分析了两种范式在效果与效率上的权衡。其价值在于为对话系统中意图理解的技术选型提供了实证依据，并揭示了推理与特征丰富化各自的适用场景。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-26T14:44:58.440060+00:00"
+}

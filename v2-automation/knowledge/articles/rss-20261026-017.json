@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261026-017",
+  "title": "Do AI-for-Science Agents Preserve Model Safety?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.32045",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-26T14:43:56.931491+00:00",
+  "collected_at": "2026-10-26T14:43:56.931491+00:00",
+  "summary": "该论文探讨了面向科学发现的AI智能体（AI-for-Science Agents）是否保持模型安全性的问题，分析了这类智能体在追求科学目标时可能引入的安全风险与对齐挑战。其价值在于首次系统性地将模型安全评估扩展到科学智能体场景，为安全部署科学AI提供了重要参考。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "evaluation",
+    "security",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-26T14:44:58.440072+00:00"
+}

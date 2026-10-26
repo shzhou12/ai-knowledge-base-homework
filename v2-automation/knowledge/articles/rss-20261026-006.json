@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261026-006",
+  "title": "TACS-RF: Tool-driven Agentic Circuit Synthesis of RF and mmWave Modules",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.31882",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-26T14:43:56.931439+00:00",
+  "collected_at": "2026-10-26T14:43:56.931439+00:00",
+  "summary": "该论文提出 TACS-RF，一种工具驱动的智能体电路合成方法，用于射频与毫米波模块的自动化设计。其核心价值在于将 LLM 智能体与专业 EDA/仿真工具结合，实现从规格到电路结构的端到端生成，有望显著降低 RF 与毫米波电路设计门槛并提升设计效率。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "tool-use",
+    "code-generation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-26T14:44:58.440033+00:00"
+}

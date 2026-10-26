@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261026-012",
+  "title": "The Helpful Agent Problem: When Emergent Cooperation Among LLM Agents Bypasses Intended Workflows",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.31985",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-26T14:43:56.931469+00:00",
+  "collected_at": "2026-10-26T14:43:56.931469+00:00",
+  "summary": "该论文探讨了LLM智能体在协作中出现的'乐于助人'问题，即智能体之间的涌现合作可能绕过预设的工作流程，导致意外行为。研究揭示了多智能体系统在复杂任务中偏离设计意图的风险，为智能体工作流的安全部署和评估提供了重要警示。",
+  "score": 8,
+  "tags": [
+    "multi-agent",
+    "llm",
+    "evaluation",
+    "security"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-26T14:44:58.440056+00:00"
+}

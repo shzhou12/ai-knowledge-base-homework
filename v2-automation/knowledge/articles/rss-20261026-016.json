@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261026-016",
+  "title": "PPO vs. SAC: A Comparative Study for Cooperative Motion Control of Dual-Arm Space Robots",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.32034",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-26T14:43:56.931487+00:00",
+  "collected_at": "2026-10-26T14:43:56.931487+00:00",
+  "summary": "该论文对PPO和SAC两种强化学习算法在双臂空间机器人协同运动控制任务中进行了对比研究，评估了它们在样本效率、稳定性和控制性能等方面的表现。研究结果为空间机器人控制中算法选型提供了实证依据，对强化学习在机器人领域的应用具有参考价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-26T14:44:58.440069+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261026-003",
+  "title": "Patronizing and Condescending Language Detection in English and Mandarin",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.31808",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-26T14:43:56.931419+00:00",
+  "collected_at": "2026-10-26T14:43:56.931419+00:00",
+  "summary": "该论文研究英语和普通话中的居高临下与屈尊语言检测，属于自然语言处理中的有害语言识别任务。其价值在于将检测扩展到跨语言场景，有助于构建更公平、包容的对话系统。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-26T14:44:58.440023+00:00"
+}
