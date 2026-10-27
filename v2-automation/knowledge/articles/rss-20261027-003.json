@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261027-003",
+  "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://minimaxir.com/2026/10/cheap-llms/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-10-27T13:50:54.405573+00:00",
+  "collected_at": "2026-10-27T13:50:54.405573+00:00",
+  "summary": "文章分析了OpenAI和Anthropic在几个月内将LLM价格大幅下调高达80%的原因，探讨了技术优化、市场竞争和规模经济等因素。该内容有助于理解LLM市场的定价策略和行业趋势。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-27T13:51:53.999182+00:00"
+}

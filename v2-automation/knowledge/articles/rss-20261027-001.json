@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261027-001",
+  "title": "The Mythical Man-Month in the Age of AI",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-10-27T13:50:54.405526+00:00",
+  "collected_at": "2026-10-27T13:50:54.405526+00:00",
+  "summary": "本文借用经典软件工程著作《人月神话》的视角，探讨在 AI 辅助开发时代，增加人力或 AI 工具是否仍无法线性提升软件项目效率。文章分析了 AI 编码工具对团队协作、沟通成本和任务分解的影响，为工程管理者提供了在 AI 时代重新审视项目管理的思路。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "code-generation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-27T13:51:53.999160+00:00"
+}
