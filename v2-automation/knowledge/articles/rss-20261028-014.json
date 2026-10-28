@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261028-014",
+  "title": "Don't Pick a Winner: Knowledge Conflicts Need a Prior, Not a Rule",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.36169",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-28T14:45:34.842763+00:00",
+  "collected_at": "2026-10-28T14:45:34.842763+00:00",
+  "summary": "该论文探讨了知识冲突问题，指出在AI系统中不应通过硬性规则选择胜者，而应引入先验知识来动态解决冲突。其核心价值在于提出了一种更灵活、基于概率先验的冲突解决框架，有助于提升模型在矛盾信息下的推理可靠性。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-28T14:46:32.910168+00:00"
+}

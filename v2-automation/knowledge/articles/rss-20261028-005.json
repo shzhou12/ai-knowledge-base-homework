@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261028-005",
+  "title": "AI promised less work. I've never worked more",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://oioannou.com/blog/ai-promised-less-work/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-10-28T14:45:33.418460+00:00",
+  "collected_at": "2026-10-28T14:45:33.418460+00:00",
+  "summary": "文章探讨了AI工具（如LLM）在实际工作中并未如预期减少工作量，反而可能因需要监督、调试和整合而增加工作负担的现象。核心价值在于反思AI生产力悖论，提醒技术从业者关注AI部署中的隐性成本与工作流程变化。",
+  "score": 6,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-28T14:46:32.910146+00:00"
+}

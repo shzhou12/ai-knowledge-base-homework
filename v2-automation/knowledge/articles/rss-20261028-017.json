@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261028-017",
+  "title": "MARQ: A Modular, LLM-Agnostic Requirement Quality Assessor Infused with Systems Engineering Knowledge",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.36234",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-28T14:45:34.842773+00:00",
+  "collected_at": "2026-10-28T14:45:34.842773+00:00",
+  "summary": "MARQ 是一个模块化、与具体 LLM 无关的需求质量评估器，融合系统工程知识来自动评估需求文档的质量。其价值在于提升需求工程的自动化水平，并支持灵活替换底层大模型，适用于不同部署场景。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-28T14:46:32.910176+00:00"
+}

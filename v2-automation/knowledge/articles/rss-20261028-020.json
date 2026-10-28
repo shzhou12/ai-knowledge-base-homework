@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261028-020",
+  "title": "Spiking Neural Networks Are Harder to Steal: A Benchmark Study of Model Stealing Attacks",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.36298",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-28T14:45:34.842784+00:00",
+  "collected_at": "2026-10-28T14:45:34.842784+00:00",
+  "summary": "该论文通过基准研究系统评估了脉冲神经网络（SNN）在模型窃取攻击下的鲁棒性，发现SNN相比传统人工神经网络更难被窃取。其价值在于首次量化了SNN的窃取防御优势，为安全部署类脑模型提供了实证依据。",
+  "score": 7,
+  "tags": [
+    "security",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-28T14:46:32.910182+00:00"
+}

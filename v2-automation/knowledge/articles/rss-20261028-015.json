@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261028-015",
+  "title": "Learning Human Sports Motion Feasibility via Quantile Regression on Tracking Data",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.36183",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-28T14:45:34.842767+00:00",
+  "collected_at": "2026-10-28T14:45:34.842767+00:00",
+  "summary": "该论文提出使用分位数回归分析跟踪数据，以评估人类运动动作的可行性，为运动分析提供了一种基于数据驱动的量化方法。其价值在于能够识别动作的可行边界，有助于运动指导、康复评估和虚拟人动画等应用。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-28T14:46:32.910171+00:00"
+}

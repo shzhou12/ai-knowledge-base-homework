@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261028-016",
+  "title": "Skill Dreaming: Evolving Repository Skills through Pull Request Streams",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.36188",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-28T14:45:34.842770+00:00",
+  "collected_at": "2026-10-28T14:45:34.842770+00:00",
+  "summary": "该论文提出 Skill Dreaming 方法，通过拉取请求（Pull Request）流持续演化代码仓库中的技能库，使 AI 代理能够自动从协作开发过程中学习并积累可复用技能。其核心价值在于将软件工程中的 PR 流程与代理技能演化相结合，为工具使用和代码生成场景提供了一种持续学习与知识沉淀的新机制。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-28T14:46:32.910173+00:00"
+}
