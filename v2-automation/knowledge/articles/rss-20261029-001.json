@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261029-001",
+  "title": "Claude Code regularly sends each background agent’s transcript to its model",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-10-29T14:51:58.909327+00:00",
+  "collected_at": "2026-10-29T14:51:58.909327+00:00",
+  "summary": "该内容讨论 Claude Code 会定期将每个后台 agent 的对话记录（transcript）发送给其模型，揭示了后台 agent 运行时的上下文回传机制。其价值在于帮助开发者理解 agent 架构中的上下文管理与模型交互方式，并引发对隐私、token 成本与 agent 行为可观测性的关注。",
+  "score": 6,
+  "tags": [
+    "agent",
+    "llm",
+    "deployment",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-29T14:52:57.315848+00:00"
+}

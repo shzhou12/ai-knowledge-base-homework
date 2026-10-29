@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261029-020",
+  "title": "When Retrieval Is Not Enough: Obsolete Facts in Agent Memory",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.36308",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-29T14:51:59.569785+00:00",
+  "collected_at": "2026-10-29T14:51:59.569785+00:00",
+  "summary": "该论文探讨了智能体记忆系统中检索增强生成（RAG）的局限性，指出仅靠检索无法解决记忆库中过时事实的问题，并提出了相应的检测与更新机制。其价值在于揭示了长期运行智能体在知识时效性管理上的关键挑战，为构建更可靠的智能体记忆系统提供了方向。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "rag",
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-29T14:52:57.315872+00:00"
+}
