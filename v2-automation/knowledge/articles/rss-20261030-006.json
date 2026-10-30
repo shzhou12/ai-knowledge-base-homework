@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261030-006",
+  "title": "ThinkJev: One Thought, Every Budget for Calibrated Typed Decisions",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.37732",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-30T14:44:14.122524+00:00",
+  "collected_at": "2026-10-30T14:44:14.122524+00:00",
+  "summary": "该论文提出ThinkJev框架，旨在通过单一思考过程适应不同计算预算，实现校准的类型化决策。其核心价值在于提升AI系统在资源受限场景下的决策效率与可靠性，为动态预算下的推理提供新思路。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-30T14:45:08.606817+00:00"
+}

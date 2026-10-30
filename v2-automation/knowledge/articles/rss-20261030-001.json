@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261030-001",
+  "title": "We ran AI agent swarms in Minecraft and Mindustry",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://labs.ycombinator.com/projects/games/index.html",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-10-30T14:44:13.213691+00:00",
+  "collected_at": "2026-10-30T14:44:13.213691+00:00",
+  "summary": "该内容介绍了在 Minecraft 和 Mindustry 两款游戏中运行 AI agent 集群（swarms）的实验，探索多智能体协作与任务执行。其价值在于为多智能体系统在复杂、开放环境中的行为与协调提供了实践案例和观察。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-30T14:45:08.606782+00:00"
+}

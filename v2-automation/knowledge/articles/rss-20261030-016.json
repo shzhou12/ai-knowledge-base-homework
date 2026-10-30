@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261030-016",
+  "title": "The Anatomy of Socio-Demographics in Pluralistic Offensiveness Modeling: When and Where It Helps, and the Role of Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.37896",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-30T14:44:14.122583+00:00",
+  "collected_at": "2026-10-30T14:44:14.122583+00:00",
+  "summary": "该论文研究了在多元文化背景下，社会人口统计信息（如年龄、性别、教育程度）如何影响攻击性建模（offensiveness modeling）的性能，并探讨了推理（reasoning）在其中的作用。研究发现，社会人口统计信息仅在特定情境下（如某些群体或话题）能提升模型表现，而推理能力有助于模型更有效地利用这些信息，为构建更公平、准确的攻击性检测系统提供了指导。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-30T14:45:08.606859+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261030-013",
+  "title": "Seq@K: Evaluating Language Models Under Sequential Feedback",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.37859",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-30T14:44:14.122565+00:00",
+  "collected_at": "2026-10-30T14:44:14.122565+00:00",
+  "summary": "该论文提出 Seq@K 评估框架，用于在序列反馈条件下评测语言模型，弥补传统单轮评估无法反映多轮交互中模型适应性的不足。其价值在于为 LLM 在动态反馈场景下的性能提供更贴近实际应用的量化指标，推动评估方法向交互式任务演进。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-30T14:45:08.606847+00:00"
+}

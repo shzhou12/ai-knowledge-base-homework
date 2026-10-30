@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261030-020",
+  "title": "VerifiedLab: Harnessing Knowns for Unknowns",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.37923",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-30T14:44:14.122603+00:00",
+  "collected_at": "2026-10-30T14:44:14.122603+00:00",
+  "summary": "该论文提出 VerifiedLab 框架，利用已知的验证数据或规则来提升对未知场景的泛化能力，核心在于通过已知知识引导模型在未知任务上的可靠推理与验证。其价值在于为 LLM 在开放环境下的可信部署提供了一种可扩展的验证机制。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-10-30T14:45:08.606873+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261030-011",
+  "title": "Detecting Covert Collusion between AI Agents through Partner-Outsider Positive Listening",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.37849",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-10-30T14:44:14.122555+00:00",
+  "collected_at": "2026-10-30T14:44:14.122555+00:00",
+  "summary": "该论文提出了一种通过伙伴-外部者正向监听（Partner-Outsider Positive Listening）来检测AI智能体之间隐蔽串通的方法。该方法利用智能体通信中的正向监听信号识别潜在的合谋行为，为多智能体系统的安全监控提供了新的技术手段，具有重要的安全价值。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "security",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-10-30T14:45:08.606835+00:00"
+}
