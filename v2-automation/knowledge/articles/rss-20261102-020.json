@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261102-020",
+  "title": "ReplayRCA: Measuring Post-hoc Diagnosis and Live Oversight of Agent Failures by Counterfactual Replay",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.41025",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-02T17:39:33.389859+00:00",
+  "collected_at": "2026-11-02T17:39:33.389859+00:00",
+  "summary": "ReplayRCA 提出了一种基于反事实重放的框架，用于事后诊断智能体失败原因并支持实时监控。该方法通过重放失败轨迹并干预关键决策点，量化不同因素对失败的影响，从而提升智能体系统的可解释性与可靠性。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-02T17:40:25.802417+00:00"
+}

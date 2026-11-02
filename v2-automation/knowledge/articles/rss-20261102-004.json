@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261102-004",
+  "title": "Beyond Plausible Prediction: Safety Sufficiency in Web World Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.40798",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-02T17:39:33.389772+00:00",
+  "collected_at": "2026-11-02T17:39:33.389772+00:00",
+  "summary": "该论文探讨了网页世界模型（web world models）在预测任务中的安全性充分性问题，指出仅追求预测的合理性不足以确保安全，并提出了评估安全充分性的框架。其价值在于为基于世界模型的智能体部署提供了安全评估的新视角，推动了可信AI系统的发展。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "security",
+    "agent"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-02T17:40:25.802366+00:00"
+}

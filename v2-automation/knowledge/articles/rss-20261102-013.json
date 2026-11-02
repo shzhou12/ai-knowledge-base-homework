@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261102-013",
+  "title": "Benchmarking Forecasting Agents on Yesterday's Tomorrows",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.40940",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-02T17:39:33.389828+00:00",
+  "collected_at": "2026-11-02T17:39:33.389828+00:00",
+  "summary": "该论文提出了一个用于评估预测智能体（forecasting agents）的基准测试框架，名为“Yesterday's Tomorrows”，旨在系统性地衡量AI智能体在时间序列预测任务中的表现。其核心价值在于填补了预测智能体缺乏标准化评估的空白，为比较不同智能体架构和推理策略提供了可复现的测试平台。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-02T17:40:25.802397+00:00"
+}

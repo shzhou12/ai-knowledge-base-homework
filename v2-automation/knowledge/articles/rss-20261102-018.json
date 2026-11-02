@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261102-018",
+  "title": "Can Personal Requirements Become Supervision for Planning?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2610.40992",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-02T17:39:33.389850+00:00",
+  "collected_at": "2026-11-02T17:39:33.389850+00:00",
+  "summary": "该论文探讨如何将个人需求转化为规划任务的监督信号，提出一种利用个人偏好或约束来指导自动规划的方法。其核心价值在于将个性化需求融入规划过程，提升规划结果与用户意图的对齐程度，为个性化AI规划系统提供新思路。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-02T17:40:25.802412+00:00"
+}
