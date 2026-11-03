@@ -1,0 +1,17 @@
+{
+  "id": "rss-20261103-003",
+  "title": "A Generalized Sparse Fuzzy Clustering Framework with Automated Cluster Cardinality Estimation Ability",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.00159",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-03T15:41:31.775275+00:00",
+  "collected_at": "2026-11-03T15:41:31.775275+00:00",
+  "summary": "该论文提出了一种广义稀疏模糊聚类框架，能够自动估计聚类数量（基数），无需预先指定簇数。其核心价值在于将稀疏性与模糊聚类结合，提升聚类过程的自动化程度和鲁棒性，适用于无监督学习场景。",
+  "score": 7,
+  "tags": [
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-03T15:42:26.149492+00:00"
+}

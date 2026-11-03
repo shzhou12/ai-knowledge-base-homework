@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261103-001",
+  "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-11-03T15:41:30.764942+00:00",
+  "collected_at": "2026-11-03T15:41:30.764942+00:00",
+  "summary": "该内容报道了 Anthropic 内部 AI 使用成本（按零售价格计算）已超过其员工薪酬，揭示了大规模部署 LLM 推理的高昂经济代价。这为评估 AI 代理和 LLM 部署的实际运营成本提供了重要参考，凸显了推理效率优化和成本控制的紧迫性。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-03T15:42:26.149474+00:00"
+}
