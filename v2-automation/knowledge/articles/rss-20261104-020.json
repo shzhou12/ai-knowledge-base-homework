@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261104-020",
+  "title": "Low-Rank Hierarchical Merging for Efficient Long-to-Short Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.03834",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-04T15:53:56.578542+00:00",
+  "collected_at": "2026-11-04T15:53:56.578542+00:00",
+  "summary": "该论文提出一种低秩分层合并方法，用于将长链推理模型高效压缩为短推理模型，降低推理延迟与计算成本。其核心价值在于通过参数合并而非重新训练实现长到短的推理能力迁移，为LLM推理加速提供新思路。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "fine-tuning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-04T15:54:59.325566+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261104-018",
+  "title": "VagueBench: Benchmarking the Robustness of Embodied Agents on Ambient Context Illusions",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.03765",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-04T15:53:56.578533+00:00",
+  "collected_at": "2026-11-04T15:53:56.578533+00:00",
+  "summary": "VagueBench 是一个用于评估具身智能体在环境上下文幻觉下鲁棒性的基准测试。该工作揭示了智能体在模糊或误导性环境信息下的脆弱性，为提升具身智能体的可靠性提供了标准化评估工具。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-04T15:54:59.325560+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261104-014",
+  "title": "Counterexample-driven autonomous research with application to excess radiated energy in a Z-pinch",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.03721",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-04T15:53:56.578514+00:00",
+  "collected_at": "2026-11-04T15:53:56.578514+00:00",
+  "summary": "该论文提出了一种反例驱动的自主研究方法，并将其应用于Z-pinch中过量辐射能量的分析。该方法通过自动生成和利用反例来指导研究过程，有望提升科学发现的效率与自动化水平。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-04T15:54:59.325548+00:00"
+}

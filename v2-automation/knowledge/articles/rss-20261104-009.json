@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261104-009",
+  "title": "MCPGuard: Finding Conformance Gaps in MCP SDKs via Dual-Track Analysis and Dynamic Adjudication",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.03662",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-04T15:53:56.578486+00:00",
+  "collected_at": "2026-11-04T15:53:56.578486+00:00",
+  "summary": "该论文提出 MCPGuard，一种双轨分析与动态裁决方法，用于检测 MCP SDK 中的一致性差距。其价值在于系统化发现 SDK 实现与协议规范之间的偏差，提升 MCP 生态的互操作性与可靠性。",
+  "score": 7,
+  "tags": [
+    "mcp",
+    "evaluation",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-04T15:54:59.325527+00:00"
+}

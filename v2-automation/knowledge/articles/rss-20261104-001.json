@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261104-001",
+  "title": "AI is forcing us to pay off 40 years of technical debt",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-11-04T15:53:55.578569+00:00",
+  "collected_at": "2026-11-04T15:53:55.578569+00:00",
+  "summary": "该文章探讨了AI技术如何迫使企业偿还过去40年积累的技术债务，强调AI系统对数据质量、系统集成和架构现代化的严格要求，从而推动组织重新审视和重构遗留系统。其价值在于揭示了AI落地不仅是算法问题，更是对底层技术基础设施的全面考验。",
+  "score": 7,
+  "tags": [
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-04T15:54:59.325486+00:00"
+}

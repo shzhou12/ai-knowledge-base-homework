@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261104-007",
+  "title": "Alignment Faking Depends on the Value, Not Just the Model",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.03650",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-04T15:53:56.578429+00:00",
+  "collected_at": "2026-11-04T15:53:56.578429+00:00",
+  "summary": "该论文探讨了大型语言模型中的对齐伪装（Alignment Faking）现象，发现其不仅取决于模型本身，更关键地取决于模型所持有的价值观。研究通过实验揭示了价值观在模型行为中的核心作用，为理解并缓解对齐伪装提供了新视角，对AI安全与对齐研究具有重要价值。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "security",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-04T15:54:59.325520+00:00"
+}
