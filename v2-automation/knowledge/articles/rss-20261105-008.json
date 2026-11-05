@@ -1,0 +1,21 @@
+{
+  "id": "rss-20261105-008",
+  "title": "Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.05390",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-05T15:58:45.422310+00:00",
+  "collected_at": "2026-11-05T15:58:45.422310+00:00",
+  "summary": "该论文研究LLM审查机构中谁有权推翻代理决策的问题，提出基于证据的门控权威机制（Evidence-Gated Authority），通过证据充分性动态分配审查权限。其价值在于为多代理系统中的权限治理与安全审查提供了可操作的理论框架和设计原则。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "multi-agent",
+    "security",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-05T15:59:43.850438+00:00"
+}

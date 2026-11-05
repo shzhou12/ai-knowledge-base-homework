@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261105-020",
+  "title": "VirtualTrialHarness: Coordinating Agentic Operationalization of Virtual Trial Protocols Across Complex Clinical Schemas",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.05551",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-05T15:58:45.422394+00:00",
+  "collected_at": "2026-11-05T15:58:45.422394+00:00",
+  "summary": "VirtualTrialHarness 是一个协调多智能体系统，用于在复杂临床模式中操作化虚拟试验协议，实现试验流程的自动化编排与执行。其核心价值在于利用智能体技术降低临床试验方案实施的复杂度，提升跨异构临床数据环境的适应性与效率。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "llm",
+    "tool-use"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-05T15:59:43.850481+00:00"
+}

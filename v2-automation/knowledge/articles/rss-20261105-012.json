@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261105-012",
+  "title": "A Feasibility Condition for Confidence-Gated Tiered LLM Inference",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.05394",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-05T15:58:45.422364+00:00",
+  "collected_at": "2026-11-05T15:58:45.422364+00:00",
+  "summary": "该论文提出了一种用于置信度门控分层 LLM 推理的可行性条件，旨在根据模型置信度动态分配计算资源，在保证输出质量的同时降低推理成本。核心贡献在于给出了该分层推理策略可行的理论判据，为 LLM 部署中的成本-质量权衡提供了形式化依据。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "deployment",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-05T15:59:43.850450+00:00"
+}

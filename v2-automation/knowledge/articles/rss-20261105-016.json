@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261105-016",
+  "title": "MA-SafeDiffuser: Safe Multi-Agent Planning with Diffusion Probabilistic Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.05524",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-05T15:58:45.422378+00:00",
+  "collected_at": "2026-11-05T15:58:45.422378+00:00",
+  "summary": "该论文提出 MA-SafeDiffuser，将扩散概率模型引入多智能体规划，在生成式轨迹规划框架中兼顾安全约束。其核心价值在于利用扩散模型的生成能力处理多智能体协同规划中的复杂性与安全性问题，为安全多智能体决策提供新思路。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-05T15:59:43.850471+00:00"
+}

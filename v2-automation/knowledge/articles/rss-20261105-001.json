@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261105-001",
+  "title": "Ask HN: What's your current AI agentic setup?",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://news.ycombinator.com/item?id=50366117",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-11-05T15:58:44.327201+00:00",
+  "collected_at": "2026-11-05T15:58:44.327201+00:00",
+  "summary": "这是 Hacker News 上的一则 Ask HN 讨论帖，邀请社区成员分享各自当前的 AI agentic 系统搭建方案与实践经验。内容价值在于汇集一线开发者真实的 agent 架构、工具链与工作流选择，为构建和优化 agent 系统提供参考与对比视角。",
+  "score": 6,
+  "tags": [
+    "agent",
+    "tool-use",
+    "multi-agent",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-05T15:59:43.850415+00:00"
+}

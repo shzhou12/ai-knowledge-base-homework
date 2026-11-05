@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261105-015",
+  "title": "SlackBench: Benchmarking Agents on Collaborative Projects Grounded in Real Code Repositories",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.05512",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-05T15:58:45.422375+00:00",
+  "collected_at": "2026-11-05T15:58:45.422375+00:00",
+  "summary": "SlackBench 是一个用于评估 AI 智能体在真实代码仓库协作项目中表现的新基准，模拟 Slack 式协作场景。其核心价值在于填补了多智能体协作与真实代码库结合评测的空白，推动智能体在复杂工程任务中的能力评估。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "evaluation",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-05T15:59:43.850459+00:00"
+}

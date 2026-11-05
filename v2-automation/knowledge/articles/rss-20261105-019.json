@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261105-019",
+  "title": "Whose Transparency is it Anyway? Understanding Generative AI Transparency Needs and Gaps Across Stakeholders",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.05549",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-05T15:58:45.422391+00:00",
+  "collected_at": "2026-11-05T15:58:45.422391+00:00",
+  "summary": "该论文探讨了生成式AI透明度在不同利益相关者（如开发者、用户、监管者）之间的需求差异与缺口，通过实证研究识别了各方对透明度机制的具体期望和实际实现中的不足。其价值在于为设计更公平、有效的AI透明度政策与工具提供了跨利益相关者的系统性视角。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-05T15:59:43.850478+00:00"
+}
