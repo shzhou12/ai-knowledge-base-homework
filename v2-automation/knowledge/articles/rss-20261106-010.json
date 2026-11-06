@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261106-010",
+  "title": "Adapting the Process of Adaptation: Darwinian, Lamarckian, and Agent-Directed Evolution in AI",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.07048",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-06T15:31:16.398086+00:00",
+  "collected_at": "2026-11-06T15:31:16.398086+00:00",
+  "summary": "该论文探讨了AI系统中适应过程的三种进化范式：达尔文式（基于选择和变异）、拉马克式（基于获得性遗传）和智能体导向式（主动适应），并分析了它们在AI算法设计中的映射与应用。核心价值在于为理解AI系统的自适应机制提供了一个统一的进化框架，有助于指导更鲁棒和可解释的AI系统设计。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-06T15:32:16.890849+00:00"
+}

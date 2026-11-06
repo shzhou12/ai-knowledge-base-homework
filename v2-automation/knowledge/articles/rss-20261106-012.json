@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261106-012",
+  "title": "Cooperative Multi-Agent Reinforcement Learning via Epigraph-Form Guided Exploration",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.07066",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-06T15:31:16.398094+00:00",
+  "collected_at": "2026-11-06T15:31:16.398094+00:00",
+  "summary": "该论文研究合作式多智能体强化学习，提出利用上境图（epigraph）形式引导探索，以提升多智能体协作中的探索效率与策略优化。其价值在于为多智能体探索提供了一种新的数学形式化引导机制，有助于缓解联合动作空间中的探索难题。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "agent",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-06T15:32:16.890857+00:00"
+}

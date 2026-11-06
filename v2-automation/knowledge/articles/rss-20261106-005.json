@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261106-005",
+  "title": "BlockLock: Reproducible LLM Inference with Fixed Batch Geometry",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.06977",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-06T15:31:16.398062+00:00",
+  "collected_at": "2026-11-06T15:31:16.398062+00:00",
+  "summary": "BlockLock 提出了一种通过固定批处理几何结构来实现可复现的大语言模型推理的方法。该方法旨在解决因动态批处理导致的推理结果不可复现问题，从而提升 LLM 部署的可靠性和可调试性。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-06T15:32:16.890835+00:00"
+}
