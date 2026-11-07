@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261107-009",
+  "title": "CWE-bench v2: More coverage, quality, and transparency",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/cwe-bench",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-11-07T14:34:32.043348+00:00",
+  "collected_at": "2026-11-07T14:34:32.043348+00:00",
+  "summary": "CWE-bench v2 是面向软件安全领域的基准数据集更新版本，重点提升了漏洞覆盖范围、数据质量和评测透明度，用于更可靠地评估 LLM 在漏洞检测与代码安全分析任务上的能力。该基准有助于推动安全相关代码生成与推理模型的标准化评测。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "security",
+    "code-generation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-07T14:35:28.608491+00:00"
+}
