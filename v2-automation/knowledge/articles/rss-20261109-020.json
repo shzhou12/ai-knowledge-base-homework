@@ -1,0 +1,17 @@
+{
+  "id": "rss-20261109-020",
+  "title": "The Matthews Correlation Coefficient: Fifty years",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.08799",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-09T18:05:30.430173+00:00",
+  "collected_at": "2026-11-09T18:05:30.430173+00:00",
+  "summary": "该论文综述了马修斯相关系数（MCC）五十年来的发展历程，涵盖其定义、性质、变体及在机器学习评估中的应用。作为对不平衡分类问题的重要评估指标，MCC 的全面回顾有助于研究者正确选择和使用该指标，提升模型评估的可靠性。",
+  "score": 7,
+  "tags": [
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-09T18:06:30.585797+00:00"
+}

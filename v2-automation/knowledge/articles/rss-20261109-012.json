@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261109-012",
+  "title": "Transporting the Past: An Optimal Transport View of Backtracking Counterfactuals",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.08682",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-09T18:05:30.430149+00:00",
+  "collected_at": "2026-11-09T18:05:30.430149+00:00",
+  "summary": "该论文从最优传输（Optimal Transport）的视角重新审视回溯反事实（Backtracking Counterfactuals）问题，提出了一种新的理论框架来生成和解释反事实样本。其核心价值在于将最优传输的几何结构引入因果推断，为反事实推理提供了更可解释和更稳定的方法，有望提升模型在因果推理任务上的可靠性。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-09T18:06:30.585778+00:00"
+}

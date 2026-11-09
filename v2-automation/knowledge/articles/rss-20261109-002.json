@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261109-002",
+  "title": "How I Fight AI Brain Fry",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-11-09T18:05:29.452995+00:00",
+  "collected_at": "2026-11-09T18:05:29.452995+00:00",
+  "summary": "该文章分享了作者在应对AI信息过载和认知疲劳（AI Brain Fry）时的个人策略，包括信息筛选、工具使用和注意力管理方法。核心价值在于提供实用的工作流优化建议，帮助技术从业者更可持续地与AI协作。",
+  "score": 6,
+  "tags": [
+    "llm",
+    "prompt-engineering"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-09T18:06:30.585754+00:00"
+}
