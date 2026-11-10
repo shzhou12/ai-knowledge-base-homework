@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261110-013",
+  "title": "Key Institutional Considerations for Designing Effective Independent Verification Organizations",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.10168",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-10T15:59:05.181933+00:00",
+  "collected_at": "2026-11-10T15:59:05.181933+00:00",
+  "summary": "该论文探讨了设计有效的独立验证组织（IVO）时需考虑的关键制度因素，旨在为AI系统的第三方验证提供组织架构与治理框架。其价值在于为AI安全与可信部署提供制度设计参考，弥补了技术验证之外的组织与政策空白。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "deployment",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-10T16:00:01.126380+00:00"
+}

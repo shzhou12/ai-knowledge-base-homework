@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261110-014",
+  "title": "AVCORP: Identifying and Resisting Deception via Communication Theory and Theory of Mind",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.10176",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-10T15:59:05.181938+00:00",
+  "collected_at": "2026-11-10T15:59:05.181938+00:00",
+  "summary": "该论文提出 AVCORP 框架，结合传播理论与心智理论（Theory of Mind）来识别并抵御 AI 系统中的欺骗行为，尤其针对多智能体或人机交互场景中的欺骗性通信。其价值在于为 AI 安全与可信交互提供了一种跨学科的理论驱动方法，有助于提升智能体对欺骗意图的检测与防御能力。",
+  "score": 7,
+  "tags": [
+    "security",
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-10T16:00:01.126383+00:00"
+}

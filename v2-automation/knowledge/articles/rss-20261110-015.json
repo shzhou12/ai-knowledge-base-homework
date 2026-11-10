@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261110-015",
+  "title": "Generative Active Learning for Label-Efficient Pan-Organ Ultrasound Diagnosis",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.10180",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-10T15:59:05.181941+00:00",
+  "collected_at": "2026-11-10T15:59:05.181941+00:00",
+  "summary": "该论文提出一种生成式主动学习方法，用于解决超声图像诊断中标注数据稀缺的问题，实现跨器官的标签高效诊断。其核心价值在于结合生成模型与主动学习策略，显著降低标注成本，并提升多器官超声诊断的泛化能力。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "fine-tuning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-10T16:00:01.126386+00:00"
+}
