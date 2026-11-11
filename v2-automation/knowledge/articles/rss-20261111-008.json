@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261111-008",
+  "title": "LandslideFM: A Foundation Model Towards Unified Landslide Perception and Understanding",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.12936",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-11T15:45:19.419717+00:00",
+  "collected_at": "2026-11-11T15:45:19.419717+00:00",
+  "summary": "该论文提出 LandslideFM，一个面向滑坡感知与理解的基础模型，旨在统一处理滑坡相关的多种任务（如检测、分割、分类等）。其核心价值在于通过基础模型范式整合滑坡领域的多模态数据与任务，提升滑坡监测与评估的通用性和效率。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-11T15:46:14.858769+00:00"
+}

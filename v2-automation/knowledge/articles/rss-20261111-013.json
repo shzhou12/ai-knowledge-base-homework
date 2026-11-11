@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261111-013",
+  "title": "Tabular Foundation Models vs Tuned Gradient Boosting for Telecom Churn: A Profit- and Calibration-Aware Evaluation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.12942",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-11T15:45:19.419735+00:00",
+  "collected_at": "2026-11-11T15:45:19.419735+00:00",
+  "summary": "该研究针对电信客户流失预测问题，系统比较了表格基础模型（Tabular Foundation Models）与调优梯度提升方法（如XGBoost、LightGBM）在利润感知和校准感知评估下的表现。核心价值在于揭示了在真实业务场景中，模型选择需综合考虑利润最大化和概率校准质量，而非仅依赖传统分类指标，为电信行业流失预测的模型选型提供了实证指导。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-11T15:46:14.858785+00:00"
+}

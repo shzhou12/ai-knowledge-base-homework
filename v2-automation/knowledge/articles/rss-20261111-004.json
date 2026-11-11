@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261111-004",
+  "title": "AI usage generates a fragile codebase",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-11-11T15:45:18.474776+00:00",
+  "collected_at": "2026-11-11T15:45:18.474776+00:00",
+  "summary": "该文章讨论了使用AI（如LLM）生成代码可能导致代码库变得脆弱，主要因为AI生成的代码可能缺乏可维护性、一致性和对边缘情况的处理。文章通过实例或分析强调了在享受AI编码效率的同时，需要关注代码质量和长期可维护性，为开发者提供了重要的实践警示。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-11T15:46:14.858757+00:00"
+}

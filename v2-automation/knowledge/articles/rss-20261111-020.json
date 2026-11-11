@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261111-020",
+  "title": "RBLA+: Efficient Rank-Specific LoRA Adapter Extraction for Federated Fine-Tuning with Heterogeneous Clients",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.12961",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-11T15:45:19.419760+00:00",
+  "collected_at": "2026-11-11T15:45:19.419760+00:00",
+  "summary": "该论文提出RBLA+方法，用于在异构客户端联邦微调场景中高效提取秩特定的LoRA适配器，解决了不同客户端资源与需求差异下的适配器聚合与个性化问题。其核心价值在于提升联邦学习中LoRA微调的通信效率与模型适应性，为异构环境下的参数高效微调提供了新思路。",
+  "score": 7,
+  "tags": [
+    "fine-tuning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-11T15:46:14.858805+00:00"
+}

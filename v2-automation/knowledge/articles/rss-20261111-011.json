@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261111-011",
+  "title": "Reinforcement Learning based control of Cancer Chemotherapy treatments",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.12940",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-11T15:45:19.419728+00:00",
+  "collected_at": "2026-11-11T15:45:19.419728+00:00",
+  "summary": "该论文探讨了使用强化学习（RL）控制癌症化疗治疗方案，旨在优化药物剂量以平衡疗效与毒性。其核心价值在于将AI决策方法应用于个性化医疗，为化疗方案设计提供数据驱动的优化框架。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-11T15:46:14.858780+00:00"
+}
