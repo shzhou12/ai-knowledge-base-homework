@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261112-008",
+  "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/hub-gcp-marketplace",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-11-12T16:28:59.998088+00:00",
+  "collected_at": "2026-11-12T16:28:59.998088+00:00",
+  "summary": "Hugging Face Hub 现在支持使用 Google Cloud 账户直接支付，简化了企业用户的结算流程。该功能降低了使用门槛，提升了云上 AI 工作流的集成便利性。",
+  "score": 6,
+  "tags": [
+    "deployment",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-12T16:29:57.822981+00:00"
+}

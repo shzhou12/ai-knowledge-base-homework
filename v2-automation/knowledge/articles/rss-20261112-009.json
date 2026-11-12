@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261112-009",
+  "title": "Decision Models in Hugging Face",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/decision",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-11-12T16:28:59.998090+00:00",
+  "collected_at": "2026-11-12T16:28:59.998090+00:00",
+  "summary": "该内容介绍 Hugging Face 平台上的决策模型（Decision Models），探讨如何利用预训练模型进行决策优化与推理。核心价值在于为开发者提供在 Hugging Face 生态中集成和应用决策模型的方法，拓展了模型在智能体与自动化决策场景中的实用性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-12T16:29:57.822983+00:00"
+}

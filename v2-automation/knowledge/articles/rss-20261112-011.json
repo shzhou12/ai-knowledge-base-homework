@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261112-011",
+  "title": "Your Experts Have Partners. There&apos;s HOPE for Keeping Them Together",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-11-12T16:28:59.998096+00:00",
+  "collected_at": "2026-11-12T16:28:59.998096+00:00",
+  "summary": "该文章探讨了在专家混合（MoE）模型或多专家系统中，如何通过合作机制保持专家之间的协同性，避免专家退化或分离。核心价值在于提出了一种保持专家多样性与协作性的方法，对提升多专家模型的训练稳定性和性能有参考意义。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-12T16:29:57.822989+00:00"
+}
