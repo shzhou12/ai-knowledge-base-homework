@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261113-004",
+  "title": "Zugwise: Domain-Aware Game Reconstruction for Digitizing Handwritten Chess Scoresheets",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.14544",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-13T15:50:04.584928+00:00",
+  "collected_at": "2026-11-13T15:50:04.584928+00:00",
+  "summary": "Zugwise 提出了一种领域感知的棋局重建方法，用于将手写国际象棋记分表数字化。该方法结合计算机视觉与领域知识（棋规和记谱规范）来解析手写符号并重建完整对局，为棋类档案数字化和比赛记录自动化提供了实用价值。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-13T15:51:05.894320+00:00"
+}

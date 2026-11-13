@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261113-014",
+  "title": "AutoAssumption: Searching over Assumptions Discovers ML-Systems Algorithms",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.14844",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-13T15:50:04.584989+00:00",
+  "collected_at": "2026-11-13T15:50:04.584989+00:00",
+  "summary": "该论文提出 AutoAssumption，一种通过在假设空间中进行搜索来自动发现机器学习系统算法的框架，将算法设计转化为对候选假设的搜索与评估问题。其价值在于为 ML 系统算法设计提供自动化、可解释的发现路径，减少人工试错成本，并可能拓展系统优化的搜索空间。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-13T15:51:05.894348+00:00"
+}

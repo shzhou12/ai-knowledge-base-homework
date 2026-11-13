@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261113-020",
+  "title": "Provably Optimal HBT Legalization in Seconds: Certified Optima Reveal Where the Headroom Really Lies",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.14928",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-13T15:50:04.585004+00:00",
+  "collected_at": "2026-11-13T15:50:04.585004+00:00",
+  "summary": "该论文提出一种在数秒内实现可证明最优的HBT合法化方法，通过认证最优解揭示布局优化中的真实余量所在。其核心价值在于将原本难以保证最优性的合法化问题转化为可快速求解且带最优性证书的形式，为EDA物理设计中的布局质量评估提供了可靠基准。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-13T15:51:05.894364+00:00"
+}
