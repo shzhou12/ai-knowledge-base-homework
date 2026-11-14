@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261114-006",
+  "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-11-14T14:40:52.726579+00:00",
+  "collected_at": "2026-11-14T14:40:52.726579+00:00",
+  "summary": "Edge0-145B 是一个 1450 亿参数的大语言模型，专为在个人电脑上本地运行而设计，旨在将前沿 AI 能力带给个人用户。其核心价值在于通过模型压缩和优化技术，在消费级硬件上实现高性能推理，推动 AI 的民主化和隐私保护。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-14T14:41:52.391380+00:00"
+}
