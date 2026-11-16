@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261116-011",
+  "title": "Verifiable pXRD: Hill-climbing pXRD structure determination with LLM agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.17539",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-16T17:45:23.125343+00:00",
+  "collected_at": "2026-11-16T17:45:23.125343+00:00",
+  "summary": "该论文提出了一种可验证的pXRD结构确定方法，利用LLM智能体进行爬山式搜索，将大语言模型与工具调用结合，自动解析粉末X射线衍射数据并确定晶体结构。其核心价值在于引入可验证的推理流程，提升了LLM在科学发现任务中的可靠性和自动化程度。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "agent",
+    "tool-use",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-16T17:46:26.868242+00:00"
+}

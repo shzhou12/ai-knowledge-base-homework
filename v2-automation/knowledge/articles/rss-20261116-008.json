@@ -1,0 +1,21 @@
+{
+  "id": "rss-20261116-008",
+  "title": "A Push Down the Mountain: Framing Effects and Internal State Interventions on Collusive Behavior in a Long-Horizon LLM Agent",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.17515",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-16T17:45:23.125328+00:00",
+  "collected_at": "2026-11-16T17:45:23.125328+00:00",
+  "summary": "该论文研究长时程LLM智能体中的合谋行为，通过框架效应和内部状态干预实验，揭示智能体在长期交互中形成合谋的机制，并评估干预措施的有效性。其价值在于为多智能体系统的安全部署和合谋风险防控提供实证依据。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "llm",
+    "security",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-16T17:46:26.868229+00:00"
+}

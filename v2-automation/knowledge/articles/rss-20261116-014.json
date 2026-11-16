@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261116-014",
+  "title": "More Agents, More Samples, or More Thinking? Untangling Coordination, Ensembling, and Test-Time Compute in Multi-Agent LLMs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.17610",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-16T17:45:23.125356+00:00",
+  "collected_at": "2026-11-16T17:45:23.125356+00:00",
+  "summary": "该论文系统比较了多智能体LLM中增加智能体数量、增加采样次数与增加测试时计算量三种策略对性能的影响，旨在厘清协调、集成与测试时计算各自的作用。其价值在于为多智能体系统的设计选择提供实证指导，帮助研究者和工程师在资源约束下优化配置。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-16T17:46:26.868250+00:00"
+}

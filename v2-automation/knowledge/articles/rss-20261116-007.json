@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261116-007",
+  "title": "Advancing Quantization for R&amp;R Models with Microscaling Formats",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.17501",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-16T17:45:23.125324+00:00",
+  "collected_at": "2026-11-16T17:45:23.125324+00:00",
+  "summary": "该论文探讨了使用微缩放（Microscaling）格式对R&R模型进行量化，旨在降低模型部署时的内存和计算开销。其核心价值在于提出了一种高效的量化方案，能够在保持模型性能的同时提升推理效率，对模型压缩与部署具有实际意义。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-16T17:46:26.868226+00:00"
+}

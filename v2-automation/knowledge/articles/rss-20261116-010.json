@@ -1,0 +1,17 @@
+{
+  "id": "rss-20261116-010",
+  "title": "Astrocyte Biocomputing: Astrocytic Contributions to Neural Network Computation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.17532",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-16T17:45:23.125339+00:00",
+  "collected_at": "2026-11-16T17:45:23.125339+00:00",
+  "summary": "该论文探讨星形胶质细胞对神经网络计算的贡献，提出星形胶质细胞生物计算模型，将胶质细胞纳入神经计算框架。其价值在于拓展传统神经元中心计算模型，为类脑计算和新型AI架构提供生物学启发。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-16T17:46:26.868235+00:00"
+}

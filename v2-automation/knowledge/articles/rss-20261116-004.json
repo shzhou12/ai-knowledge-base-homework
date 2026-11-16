@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261116-004",
+  "title": "LoRAWeaver: Directional Adapter Routing in LoRA Representation Space",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.17340",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-16T17:45:23.125302+00:00",
+  "collected_at": "2026-11-16T17:45:23.125302+00:00",
+  "summary": "LoRAWeaver 提出了一种在 LoRA 表示空间中进行方向性适配器路由的方法，通过将多个 LoRA 适配器映射到统一的表示空间并学习方向性路由策略，实现更灵活高效的多任务适配。该工作为多 LoRA 组合与动态选择提供了新思路，有助于提升大模型在多任务场景下的微调效率和部署灵活性。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-16T17:46:26.868217+00:00"
+}

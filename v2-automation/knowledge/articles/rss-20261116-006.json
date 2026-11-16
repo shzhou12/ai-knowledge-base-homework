@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261116-006",
+  "title": "An Operationalization of Opaque Serial Depth",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.17495",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-16T17:45:23.125319+00:00",
+  "collected_at": "2026-11-16T17:45:23.125319+00:00",
+  "summary": "该论文提出了一种对“不透明串行深度”进行操作化的方法，旨在量化分析AI系统（尤其是大语言模型）内部推理过程的串行深度，为理解模型推理的复杂性和可解释性提供新工具。其核心价值在于将抽象概念转化为可测量的指标，有助于评估模型推理能力并指导模型设计与调试。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-16T17:46:26.868224+00:00"
+}

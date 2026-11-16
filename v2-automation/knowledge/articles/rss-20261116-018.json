@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261116-018",
+  "title": "Generated Evaluation Suites as Diversity-Driven Search for Real Agent Regressions",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.17632",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-16T17:45:23.125373+00:00",
+  "collected_at": "2026-11-16T17:45:23.125373+00:00",
+  "summary": "该论文提出将生成的评估套件视为面向真实智能体回归的多样性驱动搜索，通过自动生成多样化测试用例来发现智能体在真实部署中的行为退化。其核心价值在于将评估从静态基准转变为主动搜索过程，提升智能体回归检测的覆盖率和有效性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-16T17:46:26.868261+00:00"
+}
