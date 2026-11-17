@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261117-001",
+  "title": "Agents Cannot Hand Over What They Have Not Yet Understood",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.18642",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-17T17:16:05.668615+00:00",
+  "collected_at": "2026-11-17T17:16:05.668615+00:00",
+  "summary": "该论文探讨了AI智能体（Agent）在任务交接中的核心挑战：智能体无法有效传递其尚未真正理解的知识或任务。研究可能提出了评估智能体理解深度的方法，并分析了理解不足对多智能体协作与工具使用的影响，为设计更可靠的智能体系统提供了理论依据。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-17T17:17:02.713348+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261117-018",
+  "title": "CONTEXT-PCa: Evaluating the role of clinical context in MRI-based AI for detecting clinically significant prostate cancer (study protocol)",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.19082",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-17T17:16:05.668720+00:00",
+  "collected_at": "2026-11-17T17:16:05.668720+00:00",
+  "summary": "该研究方案提出 CONTEXT-PCa，旨在评估临床背景信息（如患者年龄、PSA 水平、既往活检史等）对基于 MRI 的 AI 模型检测临床显著性前列腺癌的影响。其价值在于系统量化背景信息的贡献，为开发更贴近临床实际、更可靠的 AI 诊断工具提供方法学框架。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-17T17:17:02.713412+00:00"
+}

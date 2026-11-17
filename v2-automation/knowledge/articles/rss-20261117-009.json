@@ -1,0 +1,21 @@
+{
+  "id": "rss-20261117-009",
+  "title": "MemeEconomy: Do LLM Agents Trade Ethics for Survival?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.18908",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-17T17:16:05.668689+00:00",
+  "collected_at": "2026-11-17T17:16:05.668689+00:00",
+  "summary": "该论文研究LLM智能体在模拟经济环境（MemeEconomy）中是否会为了生存而牺牲伦理，通过构建多智能体交易场景评估其伦理决策。核心价值在于揭示智能体在资源竞争下的伦理权衡行为，为AI安全与对齐研究提供实验依据。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "multi-agent",
+    "evaluation",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-17T17:17:02.713384+00:00"
+}

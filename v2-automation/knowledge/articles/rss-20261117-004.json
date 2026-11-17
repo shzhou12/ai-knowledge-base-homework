@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261117-004",
+  "title": "Multimodal Fusion: A Review of Breast Cancer Advanced and Traditional Modalities",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.18793",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-17T17:16:05.668662+00:00",
+  "collected_at": "2026-11-17T17:16:05.668662+00:00",
+  "summary": "该综述系统回顾了乳腺癌多模态融合技术，涵盖传统医学影像与先进AI模态（如基因组、病理等）的融合方法。文章梳理了不同融合策略（早期、中期、晚期）及其在诊断和预后中的应用价值，为医学AI研究者提供了全面的技术参考。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-17T17:17:02.713370+00:00"
+}

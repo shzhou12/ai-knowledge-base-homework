@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261117-017",
+  "title": "Assume/Guarantee Contracts for the Compositional Multi-Agent Reinforcement Learning of Heterogeneous Teams",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.19078",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-17T17:16:05.668717+00:00",
+  "collected_at": "2026-11-17T17:16:05.668717+00:00",
+  "summary": "该论文提出使用Assume/Guarantee契约来支持异构团队的多智能体强化学习组合式训练，通过为每个智能体定义假设与保证条件，实现模块化策略学习与安全组合。其核心价值在于提升异构多智能体系统的可扩展性、训练效率与组合正确性，为复杂团队协作提供形式化保障。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "agent",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-17T17:17:02.713410+00:00"
+}
