@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261118-007",
+  "title": "Language Models Can Rewrite Their Own Weights",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.21885",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-18T16:51:37.567038+00:00",
+  "collected_at": "2026-11-18T16:51:37.567038+00:00",
+  "summary": "该论文探讨了语言模型通过自我重写权重来实现自我改进的方法，可能涉及模型直接生成新的参数更新或修改自身架构。其核心价值在于为模型自我进化提供新途径，减少对外部微调数据的依赖，并可能提升推理和适应能力。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-18T16:52:31.977364+00:00"
+}

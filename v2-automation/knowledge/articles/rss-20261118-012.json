@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261118-012",
+  "title": "DiscoveryAgent: A Framework for Scientist-centric Agentic AI",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.21950",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-18T16:51:37.567063+00:00",
+  "collected_at": "2026-11-18T16:51:37.567063+00:00",
+  "summary": "DiscoveryAgent 是一个以科学家为中心的智能体 AI 框架，旨在通过 LLM 驱动的智能体自动化科研工作流中的任务规划、工具调用与实验迭代。其核心价值在于将通用智能体能力与科研场景深度结合，降低科学家使用 AI 辅助发现的门槛，提升研究效率。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "tool-use",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-18T16:52:31.977383+00:00"
+}

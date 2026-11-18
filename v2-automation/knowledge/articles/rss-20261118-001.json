@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261118-001",
+  "title": "AI is killing All About Berlin",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://nicolasbouliane.com/blog/death-by-ai",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-11-18T16:51:37.438614+00:00",
+  "collected_at": "2026-11-18T16:51:37.438614+00:00",
+  "summary": "该文章讨论了 AI 生成内容（如 LLM 驱动的自动化工具）对独立网站 All About Berlin 的冲击，可能涉及 AI 爬虫、内容抓取或自动化生成对原创内容生态的影响。核心价值在于引发对 AI 时代内容创作者生存与版权保护的思考。",
+  "score": 6,
+  "tags": [
+    "llm",
+    "deployment",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-18T16:52:31.977329+00:00"
+}

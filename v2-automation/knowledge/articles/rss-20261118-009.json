@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261118-009",
+  "title": "SLED: Sensor SLicing from Edge to Datacenter",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.21937",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-18T16:51:37.567048+00:00",
+  "collected_at": "2026-11-18T16:51:37.567048+00:00",
+  "summary": "SLED 提出了一种从边缘到数据中心的传感器数据切片方法，旨在优化传感器数据在边缘设备与云端之间的处理与传输。该技术通过动态切片和调度，提升数据处理的实时性和资源效率，对物联网和边缘计算场景具有实用价值。",
+  "score": 6,
+  "tags": [
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-18T16:52:31.977370+00:00"
+}

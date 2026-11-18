@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261118-015",
+  "title": "On Formal Counterfactual Explanations",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.22010",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-18T16:51:37.567076+00:00",
+  "collected_at": "2026-11-18T16:51:37.567076+00:00",
+  "summary": "该论文探讨了反事实解释的形式化方法，旨在为机器学习模型提供具有严格数学保证的可解释性。其核心价值在于将反事实解释建立在形式化基础上，提升解释的可靠性和理论严谨性，对高风险领域的可信AI应用具有重要意义。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-18T16:52:31.977393+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261118-016",
+  "title": "SkillBuffBench: Measuring What Agent Skills Contribute across Harnesses, Models, Skill Access Modes and Memory",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.22017",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-18T16:51:37.567084+00:00",
+  "collected_at": "2026-11-18T16:51:37.567084+00:00",
+  "summary": "该论文提出 SkillBuffBench，一个用于系统评估 AI 智能体技能贡献的基准测试框架，覆盖不同执行框架（harnesses）、基础模型、技能访问模式以及记忆机制。其核心价值在于量化技能对智能体性能的实际增益，帮助研究者和开发者理解技能在何种配置下最有效，从而指导更合理的智能体设计与部署。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "llm",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-18T16:52:31.977396+00:00"
+}

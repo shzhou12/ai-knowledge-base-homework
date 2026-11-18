@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261118-010",
+  "title": "Conserved Verdicts, Drifting Commitments: Identifying Harmful Overthinking",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.21946",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-18T16:51:37.567053+00:00",
+  "collected_at": "2026-11-18T16:51:37.567053+00:00",
+  "summary": "该论文研究大语言模型在推理过程中的过度思考现象，提出“保守判决、漂移承诺”的概念，用于识别和量化对模型决策有害的冗余推理步骤。其价值在于为推理效率优化和模型可靠性评估提供了新的分析视角与诊断指标。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-18T16:52:31.977377+00:00"
+}

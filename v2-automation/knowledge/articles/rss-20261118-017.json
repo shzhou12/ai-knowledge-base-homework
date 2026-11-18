@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261118-017",
+  "title": "What Does an Agent Need? Bundle-Aware Agent Resource Composition",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.22030",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-18T16:51:37.567089+00:00",
+  "collected_at": "2026-11-18T16:51:37.567089+00:00",
+  "summary": "该论文提出了一种面向智能体的资源组合方法，通过将工具、数据和提示等资源打包成“bundle”来实现更高效的智能体构建与复用。其核心价值在于为智能体资源管理提供了模块化、可组合的框架，有助于提升智能体系统的可维护性和扩展性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use",
+    "prompt-engineering"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-18T16:52:31.977399+00:00"
+}

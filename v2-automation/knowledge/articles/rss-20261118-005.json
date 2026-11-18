@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261118-005",
+  "title": "How Much of SAR Vehicle Recognition Is the Vehicle? Background Shortcuts, Angle Gaps and Partial Libraries on MSTAR and ATRNet-STAR",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.21827",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-18T16:51:37.567025+00:00",
+  "collected_at": "2026-11-18T16:51:37.567025+00:00",
+  "summary": "该论文研究了SAR车辆识别中背景捷径、角度缺口和部分库问题，通过MSTAR和ATRNet-STAR数据集分析模型对背景的依赖程度，揭示了识别性能中车辆本身与背景信息的贡献比例，为提升SAR目标识别的鲁棒性和泛化能力提供了重要评估视角。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-18T16:52:31.977357+00:00"
+}
