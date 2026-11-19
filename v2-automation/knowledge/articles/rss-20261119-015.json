@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261119-015",
+  "title": "SpecLook: Speculating Where to Look for Fast and Reliable Agentic MLLMs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.23483",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-19T16:58:29.180153+00:00",
+  "collected_at": "2026-11-19T16:58:29.180153+00:00",
+  "summary": "SpecLook 提出了一种用于多模态大语言模型（MLLM）智能体的推测性视觉定位方法，通过预测关键图像区域来减少计算开销并提升响应速度。该方法在保持任务可靠性的同时，显著提高了智能体在视觉环境中的决策效率，为高效多模态智能体部署提供了新思路。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "vision",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-19T16:59:17.665785+00:00"
+}

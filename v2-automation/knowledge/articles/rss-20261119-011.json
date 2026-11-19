@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261119-011",
+  "title": "LusoClin: A Synthetic Clinical Note Dataset for Medical Information Retrieval in European Portuguese",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.23454",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-19T16:58:29.180137+00:00",
+  "collected_at": "2026-11-19T16:58:29.180137+00:00",
+  "summary": "LusoClin 是一个面向欧洲葡萄牙语的合成临床笔记数据集，专门用于医学信息检索任务。该数据集通过合成方式生成临床笔记，缓解了该语言在医疗领域缺乏标注数据的问题，为低资源语言的医学检索研究提供了有价值的资源。",
+  "score": 7,
+  "tags": [
+    "rag",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-19T16:59:17.665766+00:00"
+}

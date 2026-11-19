@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261119-004",
+  "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-11-19T16:58:28.838200+00:00",
+  "collected_at": "2026-11-19T16:58:28.838200+00:00",
+  "summary": "哈佛大学研究发现，AI编码代理（如GitHub Copilot等）在提升代码生成效率后，将软件开发瓶颈从编写代码转移到了代码审查环节。该研究揭示了AI辅助编程对团队工作流程的实际影响，强调了优化代码审查流程和工具的重要性，为AI编码工具的部署与评估提供了新视角。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "code-generation",
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-19T16:59:17.665739+00:00"
+}

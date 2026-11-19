@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261119-006",
+  "title": "Training Language Models for Introspective Oversight",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.23365",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-19T16:58:29.180107+00:00",
+  "collected_at": "2026-11-19T16:58:29.180107+00:00",
+  "summary": "该论文探讨训练语言模型具备内省监督能力，使模型能够审视并评估自身输出，从而提升可靠性与安全性。核心价值在于为模型自我纠错与对齐提供新训练范式，减少对外部监督的依赖。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-19T16:59:17.665748+00:00"
+}
