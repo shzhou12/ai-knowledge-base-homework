@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261120-019",
+  "title": "Pandora's Toolbox Or Why Agent Safety Cannot Be Verified",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.25325",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-20T16:33:51.583397+00:00",
+  "collected_at": "2026-11-20T16:33:51.583397+00:00",
+  "summary": "该论文探讨了AI智能体（agent）安全性的可验证性问题，指出由于智能体行为的复杂性和不可预测性，其安全性无法通过传统方法进行验证。文章提出了'潘多拉魔盒'的隐喻，分析了智能体安全验证的根本性挑战，并讨论了潜在的研究方向。该工作对智能体安全领域具有重要的理论警示价值。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "security",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-20T16:34:45.167625+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261120-014",
+  "title": "When AI Analysts Disagree: Agentic Multiverse Analysis and the Robustness of Empirical Research",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.25198",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-20T16:33:51.583371+00:00",
+  "collected_at": "2026-11-20T16:33:51.583371+00:00",
+  "summary": "该论文探讨了当多个AI分析代理对同一实证研究得出不一致结论时，如何通过“代理多元宇宙分析”（Agentic Multiverse Analysis）框架来评估研究结果的稳健性。核心价值在于将多代理分歧转化为系统性敏感性分析工具，提升实证研究的可复现性与可信度。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-20T16:34:45.167611+00:00"
+}

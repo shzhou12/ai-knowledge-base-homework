@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261120-018",
+  "title": "MS-Point: Multi-Modal Hierarchical Spectral Learning for Point Cloud Understanding",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.25282",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-20T16:33:51.583393+00:00",
+  "collected_at": "2026-11-20T16:33:51.583393+00:00",
+  "summary": "该论文提出MS-Point，一种用于点云理解的多模态分层谱学习方法，通过融合多模态信息与谱学习实现分层特征提取。其核心价值在于提升点云语义理解与表示能力，为3D视觉任务提供新思路。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-20T16:34:45.167623+00:00"
+}

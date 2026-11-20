@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261120-012",
+  "title": "A Verifier from the Past: Test-Time Compute for Time Series Foundation Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.25171",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-20T16:33:51.583361+00:00",
+  "collected_at": "2026-11-20T16:33:51.583361+00:00",
+  "summary": "该论文提出一种基于验证器的测试时计算方法，用于提升时间序列基础模型的预测性能。通过引入历史验证器对模型输出进行筛选或修正，在不重新训练模型的情况下增强推理能力，为时间序列基础模型的实际部署提供了高效且通用的改进思路。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-20T16:34:45.167602+00:00"
+}

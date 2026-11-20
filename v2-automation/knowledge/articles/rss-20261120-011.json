@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261120-011",
+  "title": "EverydayBench: Evaluating Satisfactory Completion of Live User-Facing Digital Work",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.25146",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-20T16:33:51.583357+00:00",
+  "collected_at": "2026-11-20T16:33:51.583357+00:00",
+  "summary": "EverydayBench 是一个用于评估 AI 代理在真实用户面向的数字工作任务中能否令人满意地完成任务的基准测试。它聚焦于日常实际工作场景，弥补了现有基准在真实性和用户满意度评估上的不足，为代理系统的实用化部署提供了重要的评测工具。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "agent",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-20T16:34:45.167595+00:00"
+}

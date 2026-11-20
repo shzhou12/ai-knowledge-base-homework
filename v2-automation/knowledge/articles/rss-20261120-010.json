@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261120-010",
+  "title": "Calibrated Decision Rewards: Training Language Models with a Judge That Knows How Sure It Is",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.25135",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-20T16:33:51.583352+00:00",
+  "collected_at": "2026-11-20T16:33:51.583352+00:00",
+  "summary": "该论文提出校准决策奖励（Calibrated Decision Rewards），通过让评判模型（judge）在评估语言模型输出时同时输出其置信度，并将置信度纳入奖励信号，从而更可靠地训练语言模型。核心价值在于提升基于AI反馈的强化学习（RLAIF）的鲁棒性，减少评判模型过度自信带来的奖励偏差，为LLM对齐与训练提供更可信的评估机制。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-20T16:34:45.167592+00:00"
+}

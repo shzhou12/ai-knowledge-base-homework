@@ -1,0 +1,21 @@
+{
+  "id": "rss-20261120-005",
+  "title": "An LLM-Agentic Framework for Intelligent Work Order Management in Industrial Maintenance",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.25070",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-20T16:33:51.583319+00:00",
+  "collected_at": "2026-11-20T16:33:51.583319+00:00",
+  "summary": "该论文提出了一种基于LLM的智能体框架，用于工业维护中的工单管理，通过多智能体协作和工具调用实现工单的自动分类、优先级排序与分配。其价值在于将大语言模型能力落地到工业运维场景，提升维护效率并减少人工干预。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "multi-agent",
+    "tool-use",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-20T16:34:45.167575+00:00"
+}
