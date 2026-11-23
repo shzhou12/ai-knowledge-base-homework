@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261123-008",
+  "title": "Towards Robust Partial-Edit Deepfake Localization: An edit and Generator Conditioned Analysis",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.26903",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-23T19:42:48.735401+00:00",
+  "collected_at": "2026-11-23T19:42:48.735401+00:00",
+  "summary": "该论文针对部分编辑深度伪造（partial-edit deepfake）的定位问题，提出了一种同时考虑编辑操作和生成器条件的鲁棒分析方法。其核心价值在于提升了对局部篡改区域的检测与定位能力，并增强了模型在不同生成器条件下的泛化性，对深度伪造取证领域有重要推进作用。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "security",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-23T19:43:39.517186+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261123-013",
+  "title": "CodeReviewBench: An Automated Benchmark for Evaluating the Software Factory",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.26942",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-23T19:42:48.735418+00:00",
+  "collected_at": "2026-11-23T19:42:48.735418+00:00",
+  "summary": "该论文提出 CodeReviewBench，一个用于评估软件工厂（即 AI 驱动的软件开发系统）的自动化基准测试框架。它通过系统化的代码审查任务来量化评估 AI 模型在代码生成与审查方面的能力，为软件工程领域的 AI 应用提供了可复现的评测标准。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "code-generation",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-23T19:43:39.517204+00:00"
+}

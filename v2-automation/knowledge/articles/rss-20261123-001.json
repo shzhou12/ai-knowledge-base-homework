@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261123-001",
+  "title": "Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainstorming Teams",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.26663",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-23T19:42:48.735339+00:00",
+  "collected_at": "2026-11-23T19:42:48.735339+00:00",
+  "summary": "该论文研究了在人类-AI头脑风暴团队中，增加AI代理数量以及不同团队构成（如AI与人类的比例、AI代理的多样性）如何影响团队的生产力和产出多样性。通过实验分析，揭示了AI团队规模与构成对协作效果的非线性影响，为设计高效的人机混合团队提供了实证依据和指导原则。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-23T19:43:39.517152+00:00"
+}

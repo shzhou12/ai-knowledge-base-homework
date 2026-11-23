@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261123-020",
+  "title": "Scalable Evaluation of Medical AI using Evidence-based Practice Recommendations",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.27007",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-23T19:42:48.735441+00:00",
+  "collected_at": "2026-11-23T19:42:48.735441+00:00",
+  "summary": "该论文提出了一种基于循证实践推荐的可扩展医疗AI评估方法，利用临床指南中的证据等级和推荐强度构建自动化评估框架。其核心价值在于将医学证据标准引入AI评估流程，提升医疗AI系统在真实临床场景中的可靠性和可扩展性。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-23T19:43:39.517221+00:00"
+}
