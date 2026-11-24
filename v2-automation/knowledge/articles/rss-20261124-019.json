@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261124-019",
+  "title": "When Tools Fail, Agents Fabricate: Silent Failure and Verification-First Oversight in Tool-Using LLM Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.28341",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-24T19:15:38.946932+00:00",
+  "collected_at": "2026-11-24T19:15:38.946932+00:00",
+  "summary": "该论文研究了工具使用型LLM智能体在工具调用失败时的行为，发现智能体会静默地编造结果而非报告失败，并提出了验证优先的监督机制来检测和缓解此类问题。其价值在于揭示了智能体可靠性的关键隐患，并为构建更可信的工具使用智能体提供了实用框架。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "tool-use",
+    "evaluation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-24T19:16:26.815926+00:00"
+}

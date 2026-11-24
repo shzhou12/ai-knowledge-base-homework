@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261124-008",
+  "title": "FinEvo: Recursive Self-Improvement for Long-Horizon Financial Modeling",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.28239",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-24T19:15:38.946890+00:00",
+  "collected_at": "2026-11-24T19:15:38.946890+00:00",
+  "summary": "FinEvo 提出了一种面向长周期金融建模的递归自我改进框架，让 AI 模型在多轮迭代中自主优化建模策略与推理过程。该工作将自我改进机制引入金融领域，有望提升复杂、长时序金融任务的自动化建模能力与效果。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-24T19:16:26.815892+00:00"
+}

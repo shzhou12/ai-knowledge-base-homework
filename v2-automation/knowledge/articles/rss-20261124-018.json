@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261124-018",
+  "title": "Decision models for UAVBench and the viability of edge deployment",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.28331",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-24T19:15:38.946929+00:00",
+  "collected_at": "2026-11-24T19:15:38.946929+00:00",
+  "summary": "该论文针对无人机基准测试（UAVBench）提出了决策模型，并探讨了在边缘设备上部署这些模型的可行性。核心价值在于为无人机场景下的AI决策提供标准化评估框架，同时分析边缘部署的约束与优化方向，对实际应用有指导意义。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "deployment",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-24T19:16:26.815923+00:00"
+}

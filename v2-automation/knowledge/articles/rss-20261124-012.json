@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261124-012",
+  "title": "Specialized Large Language Models for Markovian Reasoning: Structural Cache Compression, Transition Pretraining, and Dual-Loop Transformers",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.28285",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-24T19:15:38.946905+00:00",
+  "collected_at": "2026-11-24T19:15:38.946905+00:00",
+  "summary": "该论文提出针对马尔可夫推理的专用大语言模型，通过结构缓存压缩、转移预训练和双环Transformer架构来提升推理效率与性能。其价值在于为序列决策和状态转移建模提供更高效的LLM设计范式。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "fine-tuning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-24T19:16:26.815906+00:00"
+}
