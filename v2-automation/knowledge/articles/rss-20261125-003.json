@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261125-003",
+  "title": "Irreducible Governance Structure for Autonomous Agent Systems: Fair Allocation, Strategy-Proofness, and Multi-Scale Composition",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.31284",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-25T18:19:38.406471+00:00",
+  "collected_at": "2026-11-25T18:19:38.406471+00:00",
+  "summary": "该论文提出了一种面向自主智能体系统的不可约治理结构，融合公平分配、策略防伪性与多尺度组合三大原则，为多智能体协作中的资源分配与机制设计提供理论框架。其价值在于将社会选择理论与机制设计引入AI智能体治理，提升系统在复杂环境下的公平性与鲁棒性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-11-25T18:20:27.270933+00:00"
+}

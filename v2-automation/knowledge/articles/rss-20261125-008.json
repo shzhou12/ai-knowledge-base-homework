@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261125-008",
+  "title": "Antares-Smaug: Adversarial Names, Tokens and Attack Rewrites: Sanitisers Miss Unseen Generalisations",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.31347",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-25T18:19:38.406523+00:00",
+  "collected_at": "2026-11-25T18:19:38.406523+00:00",
+  "summary": "该论文提出 Antares-Smaug 攻击方法，通过对抗性名称、令牌和攻击重写来绕过文本净化器，揭示了现有净化器对未见泛化模式的脆弱性。其价值在于暴露了 AI 安全防御中的盲点，为设计更鲁棒的净化机制提供了新视角。",
+  "score": 7,
+  "tags": [
+    "security",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-25T18:20:27.270961+00:00"
+}

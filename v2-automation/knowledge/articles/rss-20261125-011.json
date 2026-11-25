@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261125-011",
+  "title": "Taxi: Analyzing Agents at (Real) Scale",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.31457",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-25T18:19:38.406534+00:00",
+  "collected_at": "2026-11-25T18:19:38.406534+00:00",
+  "summary": "该论文提出 Taxi 框架，用于在真实规模下系统性地分析 AI 智能体（agent）的行为与性能。其核心价值在于提供可扩展的评估方法，帮助理解智能体在复杂环境中的表现，推动智能体技术的可靠部署。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-25T18:20:27.270970+00:00"
+}

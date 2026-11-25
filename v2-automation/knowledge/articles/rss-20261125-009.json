@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261125-009",
+  "title": "ContextLure: Exploiting Benign Conversation History for Indirect Prompt Injection",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.31424",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-25T18:19:38.406526+00:00",
+  "collected_at": "2026-11-25T18:19:38.406526+00:00",
+  "summary": "该论文提出 ContextLure，一种利用良性对话历史进行间接提示注入的新型攻击方法，揭示了 LLM 应用在上下文处理中的安全漏洞。其价值在于为提示注入防御提供了新的攻击视角和评估基准，推动 LLM 安全研究。",
+  "score": 7,
+  "tags": [
+    "security",
+    "llm",
+    "prompt-engineering"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-25T18:20:27.270965+00:00"
+}

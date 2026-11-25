@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261125-006",
+  "title": "Beyond Static Charts: Benchmarking Interactive Chart-to-Code Generation for MLLMs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.31345",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-25T18:19:38.406515+00:00",
+  "collected_at": "2026-11-25T18:19:38.406515+00:00",
+  "summary": "该论文针对多模态大语言模型（MLLMs）提出交互式图表到代码生成的基准测试，超越静态图表评估，涵盖动态交互与代码生成质量。其价值在于填补了MLLMs在交互式可视化编程任务上的评估空白，推动模型在真实场景中的代码生成能力发展。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "code-generation",
+    "vision",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-25T18:20:27.270956+00:00"
+}

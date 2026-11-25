@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261125-007",
+  "title": "What People Choose Not to Say: A Multimodal Benchmark for Fine-Grained Information Manipulation in Conversations",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.31346",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-25T18:19:38.406519+00:00",
+  "collected_at": "2026-11-25T18:19:38.406519+00:00",
+  "summary": "该论文提出了一个多模态基准，用于评估对话中细粒度信息操纵（即人们选择不说的信息）的检测与理解。其核心价值在于填补了对话中隐式信息操纵评估的空白，为构建更安全、更可信的对话AI系统提供了测试工具。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-25T18:20:27.270959+00:00"
+}
