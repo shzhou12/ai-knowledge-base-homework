@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261126-005",
+  "title": "General-Purpose Decision Models for AI Configuration Tuning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.33190",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-26T18:00:52.404002+00:00",
+  "collected_at": "2026-11-26T18:00:52.404002+00:00",
+  "summary": "该论文提出通用决策模型用于AI配置调优，将配置调优建模为序列决策问题，利用决策模型自动学习调优策略，以替代人工启发式方法。其价值在于提供跨任务泛化能力，减少对领域专业知识的依赖，提升调优效率与自动化水平。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-26T18:01:41.868171+00:00"
+}

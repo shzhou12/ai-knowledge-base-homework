@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261126-020",
+  "title": "Controllable CAD Generation and Interactive Editing of Fluid Rotors",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2611.33617",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-11-26T18:00:52.404075+00:00",
+  "collected_at": "2026-11-26T18:00:52.404075+00:00",
+  "summary": "该论文提出了一种可控的CAD生成与交互式编辑方法，专门针对流体转子（fluid rotors）这类复杂机械部件。其核心价值在于结合生成模型与交互式编辑能力，使设计人员能够按需生成并实时调整转子几何形状，从而提升设计效率与灵活性。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-26T18:01:41.868236+00:00"
+}
