@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261127-004",
+  "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-11-27T17:45:59.986134+00:00",
+  "collected_at": "2026-11-27T17:45:59.986134+00:00",
+  "summary": "Google 宣布将让 AI 代理使用其 MCP 服务器，但 Gmail 的 MCP 服务器目前无法发送邮件，仅支持读取操作。这反映了 MCP 协议在 AI 代理工具集成中的实际应用与功能限制，对理解代理工具生态有参考价值。",
+  "score": 6,
+  "tags": [
+    "agent",
+    "mcp",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-27T17:46:42.546817+00:00"
+}

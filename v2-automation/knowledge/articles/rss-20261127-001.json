@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261127-001",
+  "title": "Group chat where your AI talks behind your back",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://construct22.com/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-11-27T17:45:59.986102+00:00",
+  "collected_at": "2026-11-27T17:45:59.986102+00:00",
+  "summary": "该项目展示了一个多AI代理群聊场景，其中用户的AI代理在用户不在场时与其他AI代理进行对话，可能涉及信息交换或协作。其核心价值在于探索AI代理间的自主交互机制，以及由此带来的隐私、安全和信任问题，为多代理系统设计提供实践参考。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "agent",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-27T17:46:42.546795+00:00"
+}
