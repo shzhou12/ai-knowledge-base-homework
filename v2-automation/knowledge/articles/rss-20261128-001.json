@@ -1,0 +1,18 @@
+{
+  "id": "rss-20261128-001",
+  "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/video-trainium3",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-11-28T16:31:27.317494+00:00",
+  "collected_at": "2026-11-28T16:31:27.317494+00:00",
+  "summary": "该博客介绍了在 AWS Trainium3 芯片上运行 LTX-2.5 视频生成模型，展示了如何利用专用 AI 加速器进行视频生成任务。核心价值在于验证了 Trainium3 对视频生成工作负载的适用性，为降低视频生成成本提供了新的硬件选择。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-28T16:32:21.069584+00:00"
+}

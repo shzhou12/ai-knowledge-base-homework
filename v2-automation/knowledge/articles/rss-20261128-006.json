@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261128-006",
+  "title": "An Indic Voice Agent with CUGA",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-11-28T16:31:27.317546+00:00",
+  "collected_at": "2026-11-28T16:31:27.317546+00:00",
+  "summary": "该博客介绍了基于 CUGA 构建的 Indic 语音智能体，展示了如何利用 CUGA 框架为印度语系语言打造端到端的语音交互 Agent。内容涵盖语音识别、语言理解与语音合成的集成方案，为多语言语音 Agent 的落地提供了可复用的工程实践参考。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "audio",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-28T16:32:21.069608+00:00"
+}

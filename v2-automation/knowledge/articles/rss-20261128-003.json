@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261128-003",
+  "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-11-28T16:31:27.317531+00:00",
+  "collected_at": "2026-11-28T16:31:27.317531+00:00",
+  "summary": "该博客介绍了基于 Nemotron 3.5 Parse 的扩展工作，涵盖开放数据发布、模型微调方法以及推理加速技术。核心价值在于提供了一套完整的开源实践方案，帮助开发者更高效地构建和部署解析模型。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-11-28T16:32:21.069599+00:00"
+}
